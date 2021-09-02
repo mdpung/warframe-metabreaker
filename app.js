@@ -4,8 +4,19 @@ import * as enumerator from "./js/util/property-enumerator.js"
 import * as scraper from "./js/util/scraper.js"
 import dotenv from "dotenv";
 import yn from "yn";
+import express from "express";
 
 dotenv.config()
+const app = express()
+const port = 3000
+
+app.get('/', (req, res) => {
+  res.send('Hello Tenno!')
+})
+
+app.listen(port, () => {
+  console.log(`Example app listening on http://localhost:${port}`)
+})
 
 /**
  * Gather name and URL of each weapon of each weapon type 
