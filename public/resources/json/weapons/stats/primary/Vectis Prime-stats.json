@@ -1,0 +1,58 @@
+{
+  "Utility": {
+    "AmmoType": "Sniper",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "2.67",
+    "Accuracy": "13.3",
+    "Magazine": "2",
+    "MaxAmmo": "72",
+    "Reload": "0.85 s",
+    "SniperComboReset": "2 s",
+    "SniperComboMin": "5 shots",
+    "Disposition": "●●○○○ (0.85x)"
+  },
+  "Unzoomed": {
+    "Attack1Total": "350 (45%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "1000 m",
+    "Attack1FireRate": "2.67",
+    "Attack1Multishot": "1 (350 damage per projectile)",
+    "Attack1StatusChance": "30%",
+    "Attack1CritChance": "30%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "1 m",
+    "Attack1Falloff": "100% damage up to 400 m50% damage at 600 m50% max reduction"
+  },
+  "3.5x Zoom": {
+    "Attack2Total": "350 (45%)",
+    "Attack2ShotType": "Hit-Scan",
+    "Attack2Range": "1000 m",
+    "Attack2FireRate": "2.67",
+    "Attack2Multishot": "1 (350 damage per projectile)",
+    "Attack2StatusChance": "30%",
+    "Attack2CritChance": "30%",
+    "Attack2CritMultiplier": "2x",
+    "Attack2PunchThrough": "1 m",
+    "Attack2Falloff": "100% damage up to 400 m50% damage at 600 m50% max reduction"
+  },
+  "6x Zoom": {
+    "Attack3Total": "350 (45%)",
+    "Attack3ShotType": "Hit-Scan",
+    "Attack3Range": "1000 m",
+    "Attack3FireRate": "2.67",
+    "Attack3Multishot": "1 (350 damage per projectile)",
+    "Attack3StatusChance": "30%",
+    "Attack3CritChance": "30%",
+    "Attack3CritMultiplier": "2x",
+    "Attack3PunchThrough": "1 m",
+    "Attack3Falloff": "100% damage up to 400 m50% damage at 600 m50% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 16.11 (2015-07-07)",
+    "Variants": "Vectis Vectis",
+    "InternalName": "/Lotus/Weapons/Tenno/LongGuns/PrimeVectis/PrimeVectisRifle"
+  }
+}

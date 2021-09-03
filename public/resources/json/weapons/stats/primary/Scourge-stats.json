@@ -1,0 +1,66 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Projectile",
+    "ShotSpeed": "35 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "2.67",
+    "Accuracy": "100",
+    "Magazine": "40",
+    "MaxAmmo": "200",
+    "Reload": "2.5 s",
+    "Disposition": "●●●●○ (1.15x)"
+  },
+  "Projectile Impact": {
+    "Attack1Total": "70",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "35 m/s",
+    "Attack1FireRate": "2.67",
+    "Attack1Accuracy": "100",
+    "Attack1Multishot": "1 (70 damage per projectile)",
+    "Attack1StatusChance": "30%",
+    "Attack1CritChance": "2%",
+    "Attack1CritMultiplier": "1.5x"
+  },
+  "Explosion": {
+    "Attack2Total": "55",
+    "Attack2ShotType": "AoE",
+    "Attack2Range": "1.7 m",
+    "Attack2FireRate": "2.67",
+    "Attack2Multishot": "1 (55 damage per projectile)",
+    "Attack2StatusChance": "30%",
+    "Attack2CritChance": "2%",
+    "Attack2CritMultiplier": "1.5x",
+    "Attack2Falloff": "100% damage up to 0 m70% damage at 1.7 m30% max reduction"
+  },
+  "Spear Throw": {
+    "Attack3Total": "150 (70%)",
+    "Attack3Trigger": "Charge",
+    "ForcedProcs": "Impact Damage Impact",
+    "Attack3FireRate": "1",
+    "Attack3ChargeTime": "0.5 s",
+    "Attack3Accuracy": "16.7",
+    "Attack3Reload": "0.6 s",
+    "Attack3Multishot": "1 (150 damage per projectile)",
+    "Attack3StatusChance": "30%",
+    "Attack3CritChance": "4%",
+    "Attack3CritMultiplier": "2x"
+  },
+  "Spear Explosion": {
+    "Attack4Total": "55",
+    "Attack4ShotType": "AoE",
+    "Attack4Range": "7 m",
+    "Attack4FireRate": "1",
+    "Attack4Multishot": "1 (55 damage per projectile)",
+    "Attack4StatusChance": "30%",
+    "Attack4CritChance": "4%",
+    "Attack4CritMultiplier": "2x",
+    "Attack4Falloff": "100% damage up to 0 m40% damage at 7 m60% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 21.0 (2017-06-29)",
+    "InternalName": "/Lotus/Weapons/Tenno/LongGuns/TnPriestSpear/TnPriestSpearGun"
+  }
+}

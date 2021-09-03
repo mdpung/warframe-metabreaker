@@ -1,0 +1,21 @@
+{
+  "Utility": {
+    "Range": "142 m",
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.917"
+  },
+  "Normal": {
+    "Attack1Total": "450 ( 80%)",
+    "Attack1FireRate": "0.917",
+    "Attack1Multishot": "1 (450 damage per projectile)",
+    "Attack1StatusChance": "12%",
+    "Attack1CritChance": "20%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 15.2 (2014-11-13)"
+  }
+}

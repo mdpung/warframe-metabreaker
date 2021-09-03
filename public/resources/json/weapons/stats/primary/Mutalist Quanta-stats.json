@@ -1,0 +1,57 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Projectile",
+    "ShotSpeed": "100 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "10",
+    "Accuracy": "100",
+    "Magazine": "60",
+    "MaxAmmo": "540",
+    "Reload": "3 s",
+    "Disposition": "●●●●● (1.50x)"
+  },
+  "Normal": {
+    "Attack1Total": "25 (60%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "100 m/s",
+    "Attack1FireRate": "10",
+    "Attack1Accuracy": "100",
+    "Attack1Multishot": "1 (25 damage per projectile)",
+    "Attack1StatusChance": "15%",
+    "Attack1CritChance": "2.5%",
+    "Attack1CritMultiplier": "1.5x"
+  },
+  "Infested Orb": {
+    "Attack2Total": "20",
+    "Attack2ShotType": "Projectile",
+    "Attack2ShotSpeed": "? m/s",
+    "Attack2Range": "2 m",
+    "Attack2FireRate": "10",
+    "Attack2Multishot": "1 (20 damage per projectile)",
+    "Attack2StatusChance": "100%",
+    "Attack2CritChance": "0%",
+    "Attack2CritMultiplier": "0x",
+    "Attack2Falloff": "100% damage up to 0 m100% damage at 2 m0% max reduction",
+    "Attack2AmmoCost": "5"
+  },
+  "Orb Explosion": {
+    "Attack3Total": "100",
+    "Attack3ShotType": "AoE",
+    "Attack3Range": "4.4 m",
+    "Attack3FireRate": "10",
+    "Attack3Accuracy": "25",
+    "Attack3Reload": "3 s",
+    "Attack3Multishot": "1 (100 damage per projectile)",
+    "Attack3StatusChance": "0%",
+    "Attack3CritChance": "5%",
+    "Attack3CritMultiplier": "1.5x",
+    "Attack3Falloff": "100% damage up to 0 m50% damage at 4.4 m50% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 13.8 (2014-06-19)",
+    "InternalName": "/Lotus/Weapons/Infested/LongGuns/InfCrpShockSwarm/InfCrpShockSwarmRifle"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "5",
+    "Accuracy": "7.7",
+    "Magazine": "5",
+    "MaxAmmo": "210",
+    "Reload": "1.05 s",
+    "Disposition": "●●●●○ (1.25x)"
+  },
+  "Normal": {
+    "Attack1Total": "200 ( 45%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1FireRate": "5",
+    "Attack1Multishot": "10 (20 damage per projectile)",
+    "Attack1StatusChance": "5.1%",
+    "Attack1CritChance": "17%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "0 m",
+    "Attack1Falloff": "100% damage up to 11 m40% damage at 22 m60% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 10.6 (2013-10-30)",
+    "Variants": " Kuva Brakk"
+  }
+}

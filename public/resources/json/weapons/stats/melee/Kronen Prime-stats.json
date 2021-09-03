@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.17",
+    "ComboDur": "5 s",
+    "BlockAngle": "60°",
+    "FollowThrough": "60%",
+    "Disposition": "●○○○○ (0.65x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "212 (80%)",
+    "Attack1FireRate": "1.17",
+    "Attack1StatusChance": "34%",
+    "Attack1CritChance": "22%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "848",
+    "WindUp": "0.7 s",
+    "HeavySlamAttack": "848",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "848"
+  },
+  "Slam Attack": {
+    "SlamAttack": "424",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "424"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Hotfix 22.16.4 (2018-03-20)",
+    "Variants": "Kronen Kronen",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Tonfa/TonfaContestWinnerPrime/TonfaContestWinnerPrimeWeapon"
+  }
+}

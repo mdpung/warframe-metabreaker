@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "70%",
+    "Disposition": "●●●●● (1.35x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "198 (59.6%)",
+    "Attack1FireRate": "1",
+    "Attack1StatusChance": "32%",
+    "Attack1CritChance": "14%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,188",
+    "WindUp": "0.7 s",
+    "HeavySlamAttack": "792",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "792"
+  },
+  "Slam Attack": {
+    "SlamAttack": "594",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "396"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Update 10.5 (2013-10-23)",
+    "Variants": "Prova Prova",
+    "InternalName": "/Lotus/Weapons/ClanTech/Energy/VandalElectroProd"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "Utility": {
+    "AmmoType": "Shotgun",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "2.5",
+    "Accuracy": "9.1",
+    "Magazine": "20",
+    "MaxAmmo": "240",
+    "Reload": "2.7 s",
+    "Disposition": "●●●●● (1.33x)"
+  },
+  "Normal": {
+    "Attack1Total": "350 (75%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "2.5",
+    "Attack1Multishot": "5 (70 damage per projectile)",
+    "Attack1StatusChance": "16.2%",
+    "Attack1CritChance": "11%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1Falloff": "100% damage up to 20 m50% damage at 30 m50% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Users": "TrooperNok",
+    "Introduced": "Update 9.0 (2013-07-13)",
+    "InternalName": "/Lotus/Weapons/Tenno/Shotgun/DoubleBarrelShotgun"
+  }
+}

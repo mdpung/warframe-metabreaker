@@ -1,0 +1,45 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Hit-Scan",
+    "ShotSpeed": "210 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "6",
+    "Accuracy": "33.33",
+    "Magazine": "300",
+    "MaxAmmo": "900",
+    "Reload": "4 s",
+    "Disposition": "●●●○○ (1.10x)"
+  },
+  "Normal": {
+    "Attack1Total": "58 (37.93%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "6",
+    "Attack1Multishot": "1 (58 damage per projectile)",
+    "Attack1StatusChance": "38%",
+    "Attack1CritChance": "12%",
+    "Attack1CritMultiplier": "1.6x"
+  },
+  "Charged": {
+    "Attack2Total": "1,400 (57.14%)",
+    "Attack2Trigger": "Auto Charge",
+    "Attack2ShotType": "Projectile",
+    "Attack2ShotSpeed": "210 m/s",
+    "ForcedProcs": "Impact Damage Impact",
+    "Attack2FireRate": "1",
+    "Attack2ChargeTime": "1.2 s",
+    "Attack2Multishot": "1 (1,400 damage per projectile)",
+    "Attack2StatusChance": "10%",
+    "Attack2CritChance": "40%",
+    "Attack2CritMultiplier": "2.2x",
+    "Attack2Falloff": "100% damage up to 9 m33% damage at 18 m67% max reduction",
+    "Attack2AmmoCost": "50"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 27.0 (2019-12-13)",
+    "InternalName": "/Lotus/Weapons/Tenno/LongGuns/TnRailjackRifle/RailjackRifleGun"
+  }
+}

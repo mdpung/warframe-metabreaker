@@ -1,0 +1,67 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "Accuracy": "100",
+    "Magazine": "5",
+    "MaxAmmo": "200",
+    "Reload": "2 s",
+    "Disposition": "●●●○○ (1.05x)"
+  },
+  "Charged Shot": {
+    "Attack1Total": "1,000 (85%)",
+    "Attack1ShotType": "Hit-Scan",
+    "ForcedProcs": "Stagger Stagger",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "1",
+    "Attack1ChargeTime": "2 s",
+    "Attack1Multishot": "1 (1,000 damage per projectile)",
+    "Attack1StatusChance": "20%",
+    "Attack1CritChance": "20%",
+    "Attack1CritMultiplier": "2.5x",
+    "Attack1PunchThrough": "1 m"
+  },
+  "Charged Shot AoE": {
+    "Attack2Total": "400",
+    "Attack2ShotType": "AoE",
+    "ForcedProcs": "Stagger Stagger",
+    "Attack2Range": "6 m",
+    "Attack2FireRate": "1",
+    "Attack2Multishot": "1 (400 damage per projectile)",
+    "Attack2StatusChance": "20%",
+    "Attack2CritChance": "20%",
+    "Attack2CritMultiplier": "2.5x",
+    "Attack2Falloff": "100% damage up to 0 m40% damage at 6 m60% max reduction"
+  },
+  "Quick Shot": {
+    "Attack3Total": "500 (85%)",
+    "Attack3ShotType": "Hit-Scan",
+    "Attack3Range": "300 m",
+    "Attack3FireRate": "1",
+    "Attack3Multishot": "1 (500 damage per projectile)",
+    "Attack3StatusChance": "20%",
+    "Attack3CritChance": "20%",
+    "Attack3CritMultiplier": "2.5x"
+  },
+  "Quick Shot AoE": {
+    "Attack4Total": "200",
+    "Attack4ShotType": "AoE",
+    "Attack4Range": "6 m",
+    "Attack4FireRate": "1",
+    "Attack4Multishot": "1 (200 damage per projectile)",
+    "Attack4StatusChance": "20%",
+    "Attack4CritChance": "20%",
+    "Attack4CritMultiplier": "2.5x",
+    "Attack4Falloff": "100% damage up to 0 m40% damage at 6 m60% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Users": "MaliceVed Xol002-ER",
+    "Introduced": "Update 15.0 (2014-10-24)",
+    "Variants": "Opticor Vandal Opticor Vandal",
+    "InternalName": "/Lotus/Weapons/Corpus/LongGuns/CrpBFG/CrpBFG"
+  }
+}

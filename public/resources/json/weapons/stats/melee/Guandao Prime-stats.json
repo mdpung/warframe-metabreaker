@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "ComboDur": "6 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "60%",
+    "Disposition": "●○○○○ (0.65x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "240 (70%)",
+    "Attack1FireRate": "1",
+    "Attack1StatusChance": "20%",
+    "Attack1CritChance": "32%",
+    "Attack1CritMultiplier": "2.4x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,440",
+    "WindUp": "0.9 s",
+    "HeavySlamAttack": "1,200",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "1,200"
+  },
+  "Slam Attack": {
+    "SlamAttack": "480",
+    "SlamRadius": "7 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "480"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 29.3 (2020-10-27)",
+    "Variants": "Guandao Guandao",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Polearms/PrimeGuandao/PrimeGuandaoWeapon"
+  }
+}

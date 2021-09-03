@@ -1,0 +1,43 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "200 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "2.5",
+    "Accuracy": "16",
+    "Magazine": "9",
+    "MaxAmmo": "27",
+    "Reload": "2.3 s",
+    "Disposition": "●●●○○ (0.95x)"
+  },
+  "Projectile Impact": {
+    "Attack1Total": "163.75 ( 41.59%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "200 m/s",
+    "Attack1FireRate": "2.5",
+    "Attack1Multishot": "1 (163.75 damage per projectile)",
+    "Attack1StatusChance": "33%",
+    "Attack1CritChance": "21%",
+    "Attack1CritMultiplier": "1.9x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Explosion": {
+    "Attack5Total": "86.25 ( 80%)",
+    "Attack5ShotType": "AoE",
+    "Attack5FireRate": "2.5",
+    "Attack5Multishot": "1 (86.25 damage per projectile)",
+    "Attack5StatusChance": "33%",
+    "Attack5CritChance": "21%",
+    "Attack5CritMultiplier": "1.9x",
+    "Attack5PunchThrough": "0 m",
+    "Attack5Radius": "2.3 m",
+    "Attack5Falloff": "100% damage up to 0 m70% damage at 2.3 m30% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Introduced": "Update 26.0 (2019-10-31)",
+    "Variants": " Seer"
+  }
+}

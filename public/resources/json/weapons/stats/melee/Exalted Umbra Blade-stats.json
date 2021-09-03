@@ -1,0 +1,40 @@
+{
+  "Utility": {
+    "ShotSpeed": "15 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.833",
+    "ComboDur": "5 s",
+    "BlockAngle": "60°",
+    "FollowThrough": "100%"
+  },
+  "Normal Attack": {
+    "Attack1Total": "250 (70%)",
+    "Attack1ShotSpeed": "15 m/s",
+    "Attack1Range": "40 m",
+    "Attack1FireRate": "0.833",
+    "Attack1StatusChance": "15%",
+    "Attack1CritChance": "15%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,250",
+    "WindUp": "0.6 s",
+    "HeavySlamAttack": "1,000",
+    "HeavySlamRadius": "8 m",
+    "HeavyRadialDmg": "1,000"
+  },
+  "Slam Attack": {
+    "SlamAttack": "750",
+    "SlamRadius": "7 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "536"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "None",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Users": "Excalibur Umbra",
+    "Introduced": "Update 23.0 (2018-06-15)"
+  }
+}

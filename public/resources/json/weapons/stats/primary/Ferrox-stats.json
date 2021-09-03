@@ -1,0 +1,66 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Hit-Scan",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.33",
+    "Accuracy": "16.7",
+    "Magazine": "10",
+    "MaxAmmo": "540",
+    "Reload": "1.8 s",
+    "Disposition": "●●●●○ (1.15x)"
+  },
+  "Charged Shot": {
+    "Attack1Total": "350 (70%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "1.33",
+    "Attack1ChargeTime": "0.5 s",
+    "Attack1Multishot": "1 (350 damage per projectile)",
+    "Attack1StatusChance": "10%",
+    "Attack1CritChance": "32%",
+    "Attack1CritMultiplier": "2.8x",
+    "Attack1PunchThrough": "1.5 m"
+  },
+  "Area Attacks": {
+    "Attack2Total": "100",
+    "Attack2ShotType": "AoE",
+    "Attack2Range": "3.6 m",
+    "Attack2FireRate": "1.33",
+    "Attack2Multishot": "1 (100 damage per projectile)",
+    "Attack2StatusChance": "10%",
+    "Attack2CritChance": "32%",
+    "Attack2CritMultiplier": "2.8x",
+    "Attack2Falloff": "100% damage up to 0 m60% damage at 3.6 m40% max reduction"
+  },
+  "Spear Throw": {
+    "Attack3Total": "50 (70%)",
+    "Attack3Trigger": "Charge",
+    "Attack3ShotType": "Projectile",
+    "Attack3ShotSpeed": "? m/s",
+    "Attack3FireRate": "1",
+    "Attack3ChargeTime": "0.5 s",
+    "Attack3Reload": "2 s",
+    "Attack3Multishot": "1 (50 damage per projectile)",
+    "Attack3StatusChance": "33%",
+    "Attack3CritChance": "4%",
+    "Attack3CritMultiplier": "2x"
+  },
+  "Attraction Field": {
+    "Attack4Total": "150",
+    "Attack4ShotType": "AoE",
+    "Attack4FireRate": "0.5",
+    "Attack4Multishot": "1 (150 damage per projectile)",
+    "Attack4StatusChance": "50%",
+    "Attack4CritChance": "4%",
+    "Attack4CritMultiplier": "2x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Users": "Derim Zahn",
+    "Introduced": "Update 19.13 (2017-03-09)",
+    "InternalName": "/Lotus/Weapons/Corpus/LongGuns/Spears/Railgun/CorpusRailgun"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.833",
+    "ComboDur": "5 s",
+    "BlockAngle": "50°",
+    "FollowThrough": "40%",
+    "Disposition": "●●●●○ (1.20x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "200 (70%)",
+    "Attack1FireRate": "0.833",
+    "Attack1StatusChance": "10%",
+    "Attack1CritChance": "20%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,200",
+    "WindUp": "1.2 s",
+    "HeavySlamAttack": "1,000",
+    "HeavySlamRadius": "10 m",
+    "HeavyRadialDmg": "1,000"
+  },
+  "Slam Attack": {
+    "SlamAttack": "600",
+    "SlamRadius": "9 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "400"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Users": "Lieutenant Lech Kril (Brokk Skin)",
+    "Introduced": "Update 5.4 (2013-01-14)",
+    "Variants": "Fragor Prime Fragor Prime",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Hammer/HammerWeapon"
+  }
+}

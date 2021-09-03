@@ -1,0 +1,32 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Discharge",
+    "Range": "29 m",
+    "NoiseLevel": "Alarming",
+    "FireRate": "10",
+    "Accuracy": "100",
+    "Magazine": "77",
+    "MaxAmmo": "210",
+    "Reload": "2 s",
+    "Disposition": "●○○○○ (0.50x)"
+  },
+  "Normal": {
+    "Attack1Total": "26.25 ( 80%)",
+    "Attack1ShotType": "Discharge",
+    "Attack1Range": "29 m",
+    "Attack1FireRate": "10",
+    "Attack1Multishot": "1 (26.25 damage per projectile)",
+    "Attack1StatusChance": "50%",
+    "Attack1CritChance": "7%",
+    "Attack1CritMultiplier": "5x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Users": "Kuva Lich",
+    "Introduced": "Update 27.1 (2020-02-04)",
+    "Variants": " Nukor"
+  }
+}

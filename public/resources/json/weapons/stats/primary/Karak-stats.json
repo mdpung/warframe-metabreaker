@@ -1,0 +1,31 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "11.67",
+    "Accuracy": "28.6",
+    "Magazine": "30",
+    "MaxAmmo": "540",
+    "Reload": "2 s",
+    "Disposition": "●●●●● (1.35x)"
+  },
+  "Normal": {
+    "Attack1Total": "29 (45%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "11.67",
+    "Attack1Multishot": "1 (29 damage per projectile)",
+    "Attack1StatusChance": "15%",
+    "Attack1CritChance": "9%",
+    "Attack1CritMultiplier": "1.5x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Users": "Frontier Elite Lancer",
+    "Introduced": "Update 11.5 (2013-12-19)",
+    "Variants": "Karak Wraith Karak WraithKuva Karak Kuva Karak",
+    "InternalName": "/Lotus/Weapons/Grineer/LongGuns/GrineerM16Homage/GrineerM16Rifle"
+  }
+}

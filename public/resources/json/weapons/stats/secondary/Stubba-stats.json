@@ -1,0 +1,28 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "6.33",
+    "Accuracy": "16",
+    "Magazine": "57",
+    "MaxAmmo": "399",
+    "Reload": "1.3 s",
+    "Disposition": "●●●●● (1.35x)"
+  },
+  "Normal": {
+    "Attack1Total": "33 ( 47%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1FireRate": "6.33",
+    "Attack1Multishot": "1 (33 damage per projectile)",
+    "Attack1StatusChance": "13%",
+    "Attack1CritChance": "23%",
+    "Attack1CritMultiplier": "1.9x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Introduced": "Update 22.0 (2017-10-12)"
+  }
+}

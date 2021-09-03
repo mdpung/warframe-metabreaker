@@ -1,0 +1,38 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.833",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "60%",
+    "Disposition": "●●●●● (1.48x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "260 (46.15%)",
+    "Attack1FireRate": "0.833",
+    "Attack1StatusChance": "40%",
+    "Attack1CritChance": "5%",
+    "Attack1CritMultiplier": "1.5x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,300",
+    "WindUp": "0.6 s",
+    "HeavySlamAttack": "1,040",
+    "HeavySlamRadius": "8 m",
+    "HeavyRadialDmg": "1,040"
+  },
+  "Slam Attack": {
+    "SlamAttack": "780",
+    "SlamRadius": "7 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "260"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Update 5.0 (2012-12-18)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Swords/DarkSword/DarkLongSword"
+  }
+}

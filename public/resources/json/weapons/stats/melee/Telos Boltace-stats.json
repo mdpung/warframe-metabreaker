@@ -1,0 +1,47 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.08",
+    "ComboDur": "5 s",
+    "BlockAngle": "60°",
+    "FollowThrough": "60%",
+    "Disposition": "●●●○○ (1.05x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "210 (85%)",
+    "Attack1FireRate": "1.08",
+    "Attack1StatusChance": "35%",
+    "Attack1CritChance": "20%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Stormpath Slide Attack": {
+    "Attack2Total": "420 (85%)",
+    "ForcedProcs": "Lifted Lifted",
+    "Attack2FireRate": "1.08",
+    "Attack2StatusChance": "35%",
+    "Attack2CritChance": "20%",
+    "Attack2CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "840",
+    "WindUp": "0.7 s",
+    "HeavySlamAttack": "840",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "840"
+  },
+  "Slam Attack": {
+    "SlamAttack": "420",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "420"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update: The Silver Grove 2.0 (2016-09-15)",
+    "Variants": "Boltace Boltace",
+    "InternalName": "/Lotus/Weapons/Syndicates/ArbitersOfHexis/Melee/AHBoltace"
+  }
+}

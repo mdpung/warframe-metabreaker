@@ -1,0 +1,38 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "70%",
+    "Disposition": "●●●●● (1.40x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "178 (75%)",
+    "Attack1FireRate": "1",
+    "Attack1StatusChance": "30%",
+    "Attack1CritChance": "10%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,068",
+    "WindUp": "0.7 s",
+    "HeavySlamAttack": "712",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "712"
+  },
+  "Slam Attack": {
+    "SlamAttack": "534",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "356"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update: The Vacuum Within (2016-10-05)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/PersianMachete/DjinnMachete"
+  }
+}

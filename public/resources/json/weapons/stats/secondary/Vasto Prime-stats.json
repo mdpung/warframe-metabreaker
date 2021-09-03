@@ -1,0 +1,29 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "5.42",
+    "Accuracy": "16",
+    "Magazine": "6",
+    "MaxAmmo": "210",
+    "Reload": "1 s",
+    "Disposition": "●●●●● (1.35x)"
+  },
+  "Normal": {
+    "Attack1Total": "66 ( 70%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1FireRate": "5.42",
+    "Attack1Multishot": "1 (66 damage per projectile)",
+    "Attack1StatusChance": "22%",
+    "Attack1CritChance": "22%",
+    "Attack1CritMultiplier": "2.4x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 15.7 (2014-12-17)",
+    "Variants": " Vasto"
+  }
+}

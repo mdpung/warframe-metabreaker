@@ -1,0 +1,32 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "3",
+    "Accuracy": "16",
+    "Magazine": "8",
+    "MaxAmmo": "210",
+    "Reload": "1 s",
+    "Disposition": "●●○○○ (0.75x)"
+  },
+  "Normal": {
+    "Attack2Total": "104 ( 50%)",
+    "Attack2Trigger": "Burst",
+    "Attack2FireRate": "7.69",
+    "Attack2Accuracy": "8.2",
+    "Attack2BurstDelay": "0.1 s",
+    "Attack2Multishot": "1 (104 damage per projectile)",
+    "Attack2StatusChance": "24%",
+    "Attack2CritChance": "30%",
+    "Attack2CritMultiplier": "2.8x",
+    "Attack2PunchThrough": "0 m",
+    "Attack2AmmoCost": "8"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 29.9 (2021-02-23)",
+    "Variants": " Pandero"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.334",
+    "Spool": "11",
+    "Accuracy": "5.7",
+    "Magazine": "80",
+    "MaxAmmo": "240",
+    "Reload": "2.2 s",
+    "Disposition": "●●●●○ (1.25x)"
+  },
+  "Single Pellet": {
+    "Attack1Total": "30 ( 60%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1FireRate": "1.334",
+    "Attack1Multishot": "1 (30 damage per projectile)",
+    "Attack1StatusChance": "69%",
+    "Attack1CritChance": "11%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "1.5 m",
+    "Attack1Falloff": "100% damage up to 12 m17% damage at 24 m83% max reduction"
+  },
+  "Fully Spooled": {
+    "Attack2Total": "150 ( 60%)",
+    "Attack2ShotType": "Hit-Scan",
+    "Attack2FireRate": "6.67",
+    "Attack2Multishot": "5 (30 damage per projectile)",
+    "Attack2StatusChance": "13.8%",
+    "Attack2CritChance": "11%",
+    "Attack2CritMultiplier": "2x",
+    "Attack2PunchThrough": "0 m",
+    "Attack2Falloff": "100% damage up to 12 m17% damage at 24 m83% max reduction",
+    "Attack2AmmoCost": "1.67"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 16.0 (2015-03-19)"
+  }
+}

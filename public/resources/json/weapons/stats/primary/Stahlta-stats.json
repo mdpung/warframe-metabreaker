@@ -1,0 +1,60 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Projectile",
+    "ShotSpeed": "50 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "6",
+    "Accuracy": "50",
+    "Magazine": "40",
+    "MaxAmmo": "300",
+    "Reload": "1.4 s",
+    "Disposition": "●●○○○ (0.85x)"
+  },
+  "Normal": {
+    "Attack1Total": "52 (54%)",
+    "Attack1Trigger": "Auto",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "50 m/s",
+    "Attack1FireRate": "6",
+    "Attack1Multishot": "1 (52 damage per projectile)",
+    "Attack1StatusChance": "22%",
+    "Attack1CritChance": "24%",
+    "Attack1CritMultiplier": "1.8x",
+    "Attack1PunchThrough": "1.2 m"
+  },
+  "Charged Shot Projectile": {
+    "Attack2Total": "600 (50%)",
+    "Attack2Trigger": "Charge",
+    "Attack2ShotType": "Projectile",
+    "Attack2ShotSpeed": "50 m/s",
+    "ForcedProcs": "Impact Damage Impact",
+    "Attack2FireRate": "0.667",
+    "Attack2ChargeTime": "1.6 s",
+    "Attack2Accuracy": "25",
+    "Attack2Multishot": "1 (600 damage per projectile)",
+    "Attack2StatusChance": "32%",
+    "Attack2CritChance": "40%",
+    "Attack2CritMultiplier": "3x",
+    "Attack2AmmoCost": "20"
+  },
+  "Charged Shot Explosion": {
+    "Attack3Total": "1,200",
+    "Attack3Trigger": "Charge",
+    "Attack3ShotType": "AoE",
+    "Attack3Range": "7.2 m",
+    "Attack3FireRate": "0.667",
+    "Attack3ChargeTime": "1.6 s",
+    "Attack3Multishot": "1 (1,200 damage per projectile)",
+    "Attack3StatusChance": "32%",
+    "Attack3CritChance": "40%",
+    "Attack3CritMultiplier": "3x",
+    "Attack3Falloff": "100% damage up to 0 m30% damage at 7.2 m70% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 28.0 (2020-06-11)",
+    "InternalName": "/Lotus/Weapons/Corpus/LongGuns/CrpRubanRifle/CrpRubanRifle"
+  }
+}

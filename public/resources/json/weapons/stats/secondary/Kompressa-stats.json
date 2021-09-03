@@ -1,0 +1,40 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "NoiseLevel": "Alarming",
+    "FireRate": "3.33",
+    "Accuracy": "3.8",
+    "Magazine": "12",
+    "MaxAmmo": "144",
+    "Reload": "1.8 s",
+    "Disposition": "●○○○○ (0.50x)"
+  },
+  "Normal": {
+    "Attack1Total": "8",
+    "Attack1ShotType": "Projectile",
+    "Attack1FireRate": "3.33",
+    "Attack1Multishot": "4 (2 damage per projectile)",
+    "Attack1StatusChance": "30%",
+    "Attack1CritChance": "6%",
+    "Attack1CritMultiplier": "1.8x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Explosion": {
+    "Attack5Total": "42",
+    "Attack5ShotType": "AoE",
+    "Attack5FireRate": "3.33",
+    "Attack5Multishot": "1 (42 damage per projectile)",
+    "Attack5StatusChance": "30%",
+    "Attack5CritChance": "6%",
+    "Attack5CritMultiplier": "1.8x",
+    "Attack5PunchThrough": "0 m",
+    "Attack5Radius": "2.4 m",
+    "Attack5Falloff": "100% damage up to 0 m80% damage at 2.4 m20% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 30.5 (2021-07-06)"
+  }
+}

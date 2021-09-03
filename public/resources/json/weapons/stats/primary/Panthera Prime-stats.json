@@ -1,0 +1,54 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Projectile",
+    "ShotSpeed": "40 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "3.67",
+    "Accuracy": "80",
+    "Magazine": "80",
+    "MaxAmmo": "320",
+    "Reload": "2.4 s",
+    "Disposition": "●●●●○ (1.15x)"
+  },
+  "Normal": {
+    "Attack1Total": "100 (70%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "40 m/s",
+    "Attack1FireRate": "3.67",
+    "Attack1Multishot": "1 (100 damage per projectile)",
+    "Attack1StatusChance": "30%",
+    "Attack1CritChance": "18%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1AmmoCost": "2"
+  },
+  "Alt Fire": {
+    "Attack2Total": "100",
+    "Attack2ShotType": "Discharge",
+    "Attack2Range": "6 m",
+    "Attack2FireRate": "2",
+    "Attack2Accuracy": "100",
+    "Attack2Multishot": "1 (100 damage per projectile)",
+    "Attack2StatusChance": "38%",
+    "Attack2CritChance": "26%",
+    "Attack2CritMultiplier": "2x"
+  },
+  "Radial Attack": {
+    "Attack3Total": "20",
+    "Attack3ShotType": "AoE",
+    "Attack3Range": "1.6 m",
+    "Attack3FireRate": "2",
+    "Attack3Multishot": "1 (20 damage per projectile)",
+    "Attack3StatusChance": "38%",
+    "Attack3CritChance": "26%",
+    "Attack3CritMultiplier": "2x",
+    "Attack3Falloff": "100% damage up to 0 m80% damage at 1.6 m20% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 28.2 (2020-07-14)",
+    "Variants": "Panthera Panthera",
+    "InternalName": "/Lotus/Weapons/Tenno/LongGuns/PrimePanthera/PrimePanthera"
+  }
+}

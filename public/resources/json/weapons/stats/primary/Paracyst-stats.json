@@ -1,0 +1,47 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Projectile",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "11.11",
+    "Accuracy": "50",
+    "Magazine": "60",
+    "MaxAmmo": "540",
+    "Reload": "2 s",
+    "Disposition": "●●●●● (1.31x)"
+  },
+  "Normal": {
+    "Attack1Total": "33",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "? m/s",
+    "Attack1FireRate": "11.11",
+    "Attack1Accuracy": "50",
+    "Attack1BurstCount": "3",
+    "Attack1BurstFireRate": "8.33",
+    "Attack1BurstDelay": "0.05 s",
+    "Attack1Multishot": "1 (33 damage per projectile)",
+    "Attack1StatusChance": "30%",
+    "Attack1CritChance": "10%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Infested Harpoon": {
+    "Attack2Total": "33",
+    "Attack2ShotType": "Projectile",
+    "Attack2ShotSpeed": "? m/s",
+    "Attack2Range": "50 m",
+    "Attack2FireRate": "11.11",
+    "Attack2Accuracy": "50",
+    "Attack2Multishot": "1 (33 damage per projectile)",
+    "Attack2StatusChance": "30%",
+    "Attack2CritChance": "10%",
+    "Attack2CritMultiplier": "2x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Users": "Mutalist Alad V",
+    "Introduced": "Update 15.5 (2014-11-27)",
+    "InternalName": "/Lotus/Weapons/Infested/LongGuns/QuantaFullyInfested/InfQuantaRifle"
+  }
+}

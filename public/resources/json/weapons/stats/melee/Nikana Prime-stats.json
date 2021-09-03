@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.08",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "70%",
+    "Disposition": "●○○○○ (0.60x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "198 (90%)",
+    "Attack1FireRate": "1.08",
+    "Attack1StatusChance": "28%",
+    "Attack1CritChance": "28%",
+    "Attack1CritMultiplier": "2.4x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "990",
+    "WindUp": "0.5 s",
+    "HeavySlamAttack": "792",
+    "HeavySlamRadius": "7 m",
+    "HeavyRadialDmg": "792"
+  },
+  "Slam Attack": {
+    "SlamAttack": "594",
+    "SlamRadius": "6 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "396"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Hotfix 18.4.12 (2016-02-16)",
+    "Variants": "Dragon Nikana Dragon NikanaNikana Nikana",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Swords/PrimeKatana/PrimeNikana"
+  }
+}

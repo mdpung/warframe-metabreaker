@@ -1,0 +1,41 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "6",
+    "Accuracy": "28.6",
+    "Magazine": "43",
+    "MaxAmmo": "473",
+    "Reload": "2.4 s",
+    "Disposition": "●●●●○ (1.25x)"
+  },
+  "Full Auto Mode": {
+    "Attack1Total": "57 (46%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "6",
+    "Attack1Multishot": "1 (57 damage per projectile)",
+    "Attack1StatusChance": "27%",
+    "Attack1CritChance": "9%",
+    "Attack1CritMultiplier": "1.5x"
+  },
+  "Semi-Auto Mode": {
+    "Attack2Total": "57 (46%)",
+    "Attack2Trigger": "Semi-Auto",
+    "Attack2ShotType": "Hit-Scan",
+    "Attack2Range": "300 m",
+    "Attack2FireRate": "4.33",
+    "Attack2Accuracy": "28.6",
+    "Attack2Multishot": "1 (57 damage per projectile)",
+    "Attack2StatusChance": "19%",
+    "Attack2CritChance": "27%",
+    "Attack2CritMultiplier": "2.3x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 22.0 (2017-10-12)",
+    "InternalName": "/Lotus/Weapons/Grineer/LongGuns/LaserAimRifle/LaserAimRifle"
+  }
+}

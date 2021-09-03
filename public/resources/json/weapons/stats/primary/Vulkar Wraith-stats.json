@@ -1,0 +1,70 @@
+{
+  "Utility": {
+    "AmmoType": "Sniper",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "2",
+    "Accuracy": "13.3",
+    "Magazine": "8",
+    "MaxAmmo": "72",
+    "Reload": "3 s",
+    "SniperComboReset": "2 s",
+    "SniperComboMin": "2 shots",
+    "Disposition": "●●●●● (1.40x)"
+  },
+  "Unzoomed": {
+    "Attack1Total": "273 (90%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "1000 m",
+    "Attack1FireRate": "2",
+    "Attack1Multishot": "1 (273 damage per projectile)",
+    "Attack1StatusChance": "25%",
+    "Attack1CritChance": "20%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "1 m",
+    "Attack1Falloff": "100% damage up to 400 m50% damage at 600 m50% max reduction"
+  },
+  "2.5x Zoom": {
+    "Attack2Total": "273 (90%)",
+    "Attack2ShotType": "Hit-Scan",
+    "Attack2Range": "1000 m",
+    "Attack2FireRate": "2",
+    "Attack2Multishot": "1 (273 damage per projectile)",
+    "Attack2StatusChance": "25%",
+    "Attack2CritChance": "20%",
+    "Attack2CritMultiplier": "2x",
+    "Attack2PunchThrough": "1 m",
+    "Attack2Falloff": "100% damage up to 400 m50% damage at 600 m50% max reduction"
+  },
+  "4x Zoom": {
+    "Attack3Total": "273 (90%)",
+    "Attack3ShotType": "Hit-Scan",
+    "Attack3Range": "1000 m",
+    "Attack3FireRate": "2",
+    "Attack3Multishot": "1 (273 damage per projectile)",
+    "Attack3StatusChance": "25%",
+    "Attack3CritChance": "20%",
+    "Attack3CritMultiplier": "2x",
+    "Attack3PunchThrough": "1 m",
+    "Attack3Falloff": "100% damage up to 400 m50% damage at 600 m50% max reduction"
+  },
+  "8x Zoom": {
+    "Attack4Total": "273 (90%)",
+    "Attack4ShotType": "Hit-Scan",
+    "Attack4Range": "1000 m",
+    "Attack4FireRate": "2",
+    "Attack4Multishot": "1 (273 damage per projectile)",
+    "Attack4StatusChance": "25%",
+    "Attack4CritChance": "20%",
+    "Attack4CritMultiplier": "2x",
+    "Attack4PunchThrough": "1 m",
+    "Attack4Falloff": "100% damage up to 400 m50% damage at 600 m50% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Hotfix 18.4.1 (2016-01-25)",
+    "Variants": "Vulkar Vulkar",
+    "InternalName": "/Lotus/Weapons/Grineer/LongGuns/GrineerSniperRifle/VulkarWraith"
+  }
+}

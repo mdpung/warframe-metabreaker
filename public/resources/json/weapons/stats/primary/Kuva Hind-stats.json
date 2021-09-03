@@ -1,0 +1,56 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "9.09",
+    "Accuracy": "33.33",
+    "Magazine": "90",
+    "MaxAmmo": "540",
+    "Reload": "2.3 s",
+    "Disposition": "●●●○○ (1.05x)"
+  },
+  "Burst": {
+    "Attack1Total": "37.5 (40%)",
+    "Attack1Trigger": "Burst",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "9.09",
+    "Attack1BurstCount": "5",
+    "Attack1BurstFireRate": "5",
+    "Attack1BurstDelay": "0.07 s",
+    "Attack1Multishot": "1 (37.5 damage per projectile)",
+    "Attack1StatusChance": "33%",
+    "Attack1CritChance": "25%",
+    "Attack1CritMultiplier": "2.1x"
+  },
+  "Semi-Auto": {
+    "Attack2Total": "112.5 (48%)",
+    "Attack2Trigger": "Semi-Auto",
+    "Attack2ShotType": "Hit-Scan",
+    "Attack2Range": "300 m",
+    "Attack2FireRate": "2.5",
+    "Attack2Accuracy": "28.6",
+    "Attack2Multishot": "1 (112.5 damage per projectile)",
+    "Attack2StatusChance": "21%",
+    "Attack2CritChance": "37%",
+    "Attack2CritMultiplier": "2.9x",
+    "Attack2AmmoCost": "3"
+  },
+  "Auto": {
+    "Attack3Total": "37.5 (48%)",
+    "Attack3Trigger": "Auto",
+    "Attack3FireRate": "10",
+    "Attack3Multishot": "1 (37.5 damage per projectile)",
+    "Attack3StatusChance": "33%",
+    "Attack3CritChance": "21%",
+    "Attack3CritMultiplier": "1.9x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Users": "Kuva Lich",
+    "Introduced": "Update 27.1 (2020-02-04)",
+    "InternalName": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Hind/KuvaHind"
+  }
+}

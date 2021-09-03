@@ -1,0 +1,29 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Discharge",
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "Accuracy": "100",
+    "Magazine": "1",
+    "MaxAmmo": "INF",
+    "Reload": "6 s",
+    "Disposition": "●●●○○ (1.00x)"
+  },
+  "Charged Attack": {
+    "Attack1Total": "35",
+    "Attack1ShotType": "Discharge",
+    "Attack1FireRate": "1",
+    "Attack1ChargeTime": "1 s",
+    "Attack1Multishot": "1 (35 damage per projectile)",
+    "Attack1StatusChance": "10%",
+    "Attack1CritChance": "20%",
+    "Attack1CritMultiplier": "2.5x",
+    "Attack1PunchThrough": "1 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Update 24.0 (2018-11-08)"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Projectile",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "6",
+    "Accuracy": "20",
+    "Magazine": "60",
+    "MaxAmmo": "INF",
+    "Reload": "2 s",
+    "Disposition": "●●●●○ (1.30x)"
+  },
+  "Normal": {
+    "Attack1Total": "47",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "? m/s",
+    "Attack1FireRate": "6",
+    "Attack1BurstCount": "3",
+    "Attack1BurstFireRate": "5",
+    "Attack1BurstDelay": "0.1 s",
+    "Attack1Multishot": "1 (47 damage per projectile)",
+    "Attack1StatusChance": "25%",
+    "Attack1CritChance": "11%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 19.5 (2016-12-22)",
+    "InternalName": "/Lotus/Weapons/Infested/LongGuns/InfWFAccompanyingPri/InfestedBurstRifle"
+  }
+}

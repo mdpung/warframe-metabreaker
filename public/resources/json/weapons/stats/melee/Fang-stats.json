@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.917",
+    "ComboDur": "5 s",
+    "BlockAngle": "50°",
+    "FollowThrough": "80%",
+    "Disposition": "●●●●● (1.36x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "108 (70%)",
+    "Attack1FireRate": "0.917",
+    "Attack1StatusChance": "16%",
+    "Attack1CritChance": "8%",
+    "Attack1CritMultiplier": "1.5x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "216",
+    "WindUp": "0.5 s",
+    "HeavySlamAttack": "432",
+    "HeavySlamRadius": "7 m",
+    "HeavyRadialDmg": "432"
+  },
+  "Slam Attack": {
+    "SlamAttack": "216",
+    "SlamRadius": "6 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "216"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 7.0 (2013-03-18)",
+    "Variants": "Fang Prime Fang Prime",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/DualDagger/DualDagger"
+  }
+}

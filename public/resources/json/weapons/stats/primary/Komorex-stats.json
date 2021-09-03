@@ -1,0 +1,69 @@
+{
+  "Utility": {
+    "AmmoType": "Sniper",
+    "ShotType": "Projectile",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "6",
+    "Accuracy": "20",
+    "Magazine": "20",
+    "MaxAmmo": "40",
+    "Reload": "3 s",
+    "SniperComboReset": "2 s",
+    "SniperComboMin": "5 shots",
+    "Disposition": "●●●○○ (1.10x)"
+  },
+  "Unzoomed": {
+    "Attack1Total": "87 (48%)",
+    "Attack1Trigger": "Semi-Auto",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "? m/s",
+    "Attack1FireRate": "6",
+    "Attack1Accuracy": "20",
+    "Attack1Multishot": "1 (87 damage per projectile)",
+    "Attack1StatusChance": "35%",
+    "Attack1CritChance": "16%",
+    "Attack1CritMultiplier": "2.1x",
+    "Attack1Falloff": "100% damage up to 400 m50% damage at 600 m50% max reduction"
+  },
+  "2x Zoom": {
+    "Attack2Total": "87 (48%)",
+    "Attack2Trigger": "Semi-Auto",
+    "Attack2ShotType": "Projectile",
+    "Attack2ShotSpeed": "? m/s",
+    "Attack2FireRate": "6",
+    "Attack2Accuracy": "100",
+    "Attack2Multishot": "1 (87 damage per projectile)",
+    "Attack2StatusChance": "35%",
+    "Attack2CritChance": "16%",
+    "Attack2CritMultiplier": "2.1x",
+    "Attack2PunchThrough": "2 m",
+    "Attack2Falloff": "100% damage up to 400 m50% damage at 600 m50% max reduction"
+  },
+  "3.5x Zoom Mode": {
+    "Attack3Total": "174 (48.05%)",
+    "Attack3FireRate": "1.5",
+    "Attack3Accuracy": "100",
+    "Attack3Multishot": "1 (174 damage per projectile)",
+    "Attack3StatusChance": "35%",
+    "Attack3CritChance": "16%",
+    "Attack3CritMultiplier": "2.1x"
+  },
+  "3.5x Zoom Radial Attack": {
+    "Attack4Total": "66",
+    "Attack4Range": "3.5 m",
+    "Attack4FireRate": "1.5",
+    "Attack4Multishot": "1 (66 damage per projectile)",
+    "Attack4StatusChance": "35%",
+    "Attack4CritChance": "16%",
+    "Attack4CritMultiplier": "2.1x",
+    "Attack4Falloff": "100% damage up to 0 m60% damage at 3.5 m40% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Users": "Amalgam Heqet",
+    "Introduced": "Update 25.0 (2019-05-22)",
+    "InternalName": "/Lotus/Weapons/Corpus/LongGuns/CrpSentAmlgSniper/CrpSentAmlgSniper"
+  }
+}

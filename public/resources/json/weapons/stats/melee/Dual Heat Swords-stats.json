@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.917",
+    "ComboDur": "5 s",
+    "BlockAngle": "60°",
+    "FollowThrough": "50%",
+    "Disposition": "●●●●● (1.44x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "147 (70%)",
+    "Attack1FireRate": "0.917",
+    "Attack1StatusChance": "20%",
+    "Attack1CritChance": "5%",
+    "Attack1CritMultiplier": "1.5x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "588",
+    "WindUp": "0.7 s",
+    "HeavySlamAttack": "588",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "588"
+  },
+  "Slam Attack": {
+    "SlamAttack": "294",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "294"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "None",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Users": "Red Veil",
+    "Introduced": "Update 6.2 (2013-02-08)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/DualShortSword/DualHeatSwords"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Discharge",
+    "Range": "28 m",
+    "NoiseLevel": "Alarming",
+    "FireRate": "12",
+    "Accuracy": "100",
+    "Magazine": "40",
+    "MaxAmmo": "INF",
+    "Reload": "2 s",
+    "ReloadRate": "40 rounds/s",
+    "ReloadDelay": "1 s",
+    "Disposition": "●○○○○ (0.50x)"
+  },
+  "Normal": {
+    "Attack1Total": "27.5 ( 80%)",
+    "Attack1ShotType": "Discharge",
+    "Attack1Range": "28 m",
+    "Attack1FireRate": "12",
+    "Attack1Multishot": "1 (27.5 damage per projectile)",
+    "Attack1StatusChance": "40%",
+    "Attack1CritChance": "20%",
+    "Attack1CritMultiplier": "1.8x",
+    "Attack1PunchThrough": "1 m",
+    "Attack1AmmoCost": "0.5"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 30.5 (2021-07-06)",
+    "Variants": " Cycron"
+  }
+}

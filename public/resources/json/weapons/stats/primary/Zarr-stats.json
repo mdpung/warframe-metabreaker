@@ -1,0 +1,66 @@
+{
+  "Utility": {
+    "AmmoType": "Sniper",
+    "ShotType": "Projectile",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.67",
+    "Accuracy": "100",
+    "Magazine": "3",
+    "MaxAmmo": "84",
+    "Reload": "2.25 s",
+    "Disposition": "●●●●○ (1.15x)"
+  },
+  "Cannon Mode Projectile": {
+    "Attack1Total": "25",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "? m/s",
+    "Attack1FireRate": "1.67",
+    "Attack1Accuracy": "100",
+    "Attack1Multishot": "1 (25 damage per projectile)",
+    "Attack1StatusChance": "29%",
+    "Attack1CritChance": "17%",
+    "Attack1CritMultiplier": "2.5x"
+  },
+  "Cannon Mode Explosion": {
+    "Attack2Total": "175",
+    "Attack2ShotType": "AoE",
+    "Attack2Range": "4 m",
+    "Attack2FireRate": "1.67",
+    "Attack2Multishot": "1 (175 damage per projectile)",
+    "Attack2StatusChance": "29%",
+    "Attack2CritChance": "17%",
+    "Attack2CritMultiplier": "2.5x",
+    "Attack2Falloff": "100% damage up to 0 m50% damage at 4 m50% max reduction"
+  },
+  "Cannon Mode Cluster Bombs": {
+    "Attack3Total": "300",
+    "Attack3ShotType": "Projectile",
+    "Attack3ShotSpeed": "? m/s",
+    "Attack3FireRate": "1.67",
+    "Attack3Multishot": "6 (50 damage per projectile)",
+    "Attack3StatusChance": "4.8%",
+    "Attack3CritChance": "17%",
+    "Attack3CritMultiplier": "2.5x"
+  },
+  "Barrage Mode": {
+    "Attack4Total": "800 (50%)",
+    "Attack4ShotType": "Projectile",
+    "Attack4ShotSpeed": "? m/s",
+    "Attack4Range": "10 m",
+    "Attack4FireRate": "3",
+    "Attack4Accuracy": "1.4",
+    "Attack4Multishot": "10 (80 damage per projectile)",
+    "Attack4StatusChance": "8.7%",
+    "Attack4CritChance": "17%",
+    "Attack4CritMultiplier": "2.5x",
+    "Attack4PunchThrough": "1.6 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 19.0 (2016-11-11)",
+    "Variants": "Kuva Zarr Kuva Zarr",
+    "InternalName": "/Lotus/Weapons/Grineer/LongGuns/GrnCannon/GrnCannonWeapon"
+  }
+}

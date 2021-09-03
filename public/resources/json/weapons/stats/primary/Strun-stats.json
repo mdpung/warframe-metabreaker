@@ -1,0 +1,32 @@
+{
+  "Utility": {
+    "AmmoType": "Shotgun",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "2.5",
+    "Accuracy": "4",
+    "Magazine": "6",
+    "MaxAmmo": "120",
+    "Reload": "3.75 s",
+    "Disposition": "●●●●● (1.40x)"
+  },
+  "Normal": {
+    "Attack1Total": "300 (55%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "2.5",
+    "Attack1Multishot": "12 (25 damage per projectile)",
+    "Attack1StatusChance": "5%",
+    "Attack1CritChance": "7.5%",
+    "Attack1CritMultiplier": "1.5x",
+    "Attack1Falloff": "100% damage up to 12 m60% damage at 25 m40% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Users": "Corrupted Crewman",
+    "Introduced": "Vanilla (2012-10-25)",
+    "Variants": "MK1-Strun MK1-StrunStrun Primex19px Strun PrimeStrun Wraith Strun Wraith",
+    "InternalName": "/Lotus/Weapons/Tenno/Shotgun/Shotgun"
+  }
+}

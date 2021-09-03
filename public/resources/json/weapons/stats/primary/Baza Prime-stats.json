@@ -1,0 +1,31 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Silent",
+    "FireRate": "16.67",
+    "Accuracy": "80",
+    "Magazine": "60",
+    "MaxAmmo": "840",
+    "Reload": "1.1 s",
+    "Disposition": "●●●○○ (0.95x)"
+  },
+  "Normal": {
+    "Attack1Total": "16 (42%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "16.67",
+    "Attack1Multishot": "1 (16 damage per projectile)",
+    "Attack1StatusChance": "14%",
+    "Attack1CritChance": "28%",
+    "Attack1CritMultiplier": "3x",
+    "Attack1Falloff": "100% damage up to 30 m50% damage at 60 m50% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Hotfix 27.0.4 (2019-12-17)",
+    "Variants": "Baza Baza",
+    "InternalName": "/Lotus/Weapons/Tenno/LongGuns/PrimeBaza/PrimeBazaGun"
+  }
+}

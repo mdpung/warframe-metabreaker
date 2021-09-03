@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.17",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "50%",
+    "Disposition": "●●●●● (1.35x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "180",
+    "Attack1FireRate": "1.17",
+    "Attack1StatusChance": "34%",
+    "Attack1CritChance": "18%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "900",
+    "WindUp": "0.5 s",
+    "HeavySlamAttack": "720",
+    "HeavySlamRadius": "7 m",
+    "HeavyRadialDmg": "720"
+  },
+  "Slam Attack": {
+    "SlamAttack": "360",
+    "SlamRadius": "6 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "360"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Users": "Equinox Specter",
+    "Introduced": "Update 18.1 (2015-12-16)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Nunchaku/TnoNunchaku/TnoNunchaku"
+  }
+}

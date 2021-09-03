@@ -1,0 +1,38 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.08",
+    "ComboDur": "5 s",
+    "BlockAngle": "50°",
+    "FollowThrough": "80%",
+    "Disposition": "●●●●● (1.40x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "140 (50%)",
+    "Attack1FireRate": "1.08",
+    "Attack1StatusChance": "20%",
+    "Attack1CritChance": "16%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "280",
+    "WindUp": "0.5 s",
+    "HeavySlamAttack": "560",
+    "HeavySlamRadius": "7 m",
+    "HeavyRadialDmg": "560"
+  },
+  "Slam Attack": {
+    "SlamAttack": "280",
+    "SlamRadius": "6 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "280"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update: Specters of the Rail (2016-07-08)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Swords/TennoSai/TennoSais"
+  }
+}

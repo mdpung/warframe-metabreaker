@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.833",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "60%",
+    "Disposition": "●●●●● (1.35x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "241 (50%)",
+    "Attack1FireRate": "0.833",
+    "Attack1StatusChance": "23%",
+    "Attack1CritChance": "19%",
+    "Attack1CritMultiplier": "2.5x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,446",
+    "WindUp": "0.9 s",
+    "HeavySlamAttack": "1,205",
+    "HeavySlamRadius": "8 m",
+    "HeavyRadialDmg": "1,205"
+  },
+  "Slam Attack": {
+    "SlamAttack": "723",
+    "SlamRadius": "7 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "482"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Users": "Kuva Guardian",
+    "Introduced": "Update 19.0 (2016-11-11)",
+    "InternalName": "/Lotus/Weapons/Grineer/Melee/GrineerHalberd/GrnHalberd"
+  }
+}

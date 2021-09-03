@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.833",
+    "ComboDur": "5 s",
+    "BlockAngle": "70°",
+    "FollowThrough": "60%",
+    "Disposition": "●●●●● (1.35x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "149 (80%)",
+    "Attack1FireRate": "0.833",
+    "Attack1StatusChance": "10%",
+    "Attack1CritChance": "20%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "745",
+    "WindUp": "0.7 s",
+    "HeavySlamAttack": "596",
+    "HeavySlamRadius": "8 m",
+    "HeavyRadialDmg": "596"
+  },
+  "Slam Attack": {
+    "SlamAttack": "447",
+    "SlamRadius": "7 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "149"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Users": "Tyl RegorGorth",
+    "Introduced": "Update 17.0 (2015-07-31)",
+    "InternalName": "/Lotus/Weapons/Grineer/Melee/GrineerTylAxeAndBoar/RegorAxeShield"
+  }
+}

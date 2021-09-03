@@ -1,0 +1,32 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Discharge",
+    "Range": "22 m",
+    "NoiseLevel": "Alarming",
+    "FireRate": "12",
+    "Accuracy": "100",
+    "Magazine": "80",
+    "MaxAmmo": "400",
+    "Reload": "1.2 s",
+    "Disposition": "●●●●● (1.40x)"
+  },
+  "Normal": {
+    "Attack1Total": "22 ( 58%)",
+    "Attack1ShotType": "Discharge",
+    "Attack1Range": "22 m",
+    "Attack1FireRate": "12",
+    "Attack1Multishot": "1 (22 damage per projectile)",
+    "Attack1StatusChance": "28%",
+    "Attack1CritChance": "20%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "0.5 m",
+    "Attack1AmmoCost": "0.5"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Introduced": "Update 25.0 (2019-05-22)",
+    "Variants": " Spectra"
+  }
+}

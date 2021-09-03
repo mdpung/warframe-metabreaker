@@ -1,0 +1,34 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "6.77",
+    "Accuracy": "16",
+    "Magazine": "21",
+    "MaxAmmo": "210",
+    "Reload": "1.5 s",
+    "Disposition": "●●●○○ (1.05x)"
+  },
+  "Normal": {
+    "Attack2Total": "53.75 ( 60%)",
+    "Attack2Trigger": "Burst",
+    "Attack2ShotType": "Hit-Scan",
+    "Attack2FireRate": "16.28",
+    "Attack2Accuracy": "8.2",
+    "Attack2Reload": "2 s",
+    "Attack2BurstDelay": "0.05 s",
+    "Attack2Multishot": "1 (53.75 damage per projectile)",
+    "Attack2StatusChance": "29%",
+    "Attack2CritChance": "21%",
+    "Attack2CritMultiplier": "2.3x",
+    "Attack2PunchThrough": "0 m",
+    "Attack2AmmoCost": "21"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Introduced": "Update 26.0 (2019-10-31)",
+    "Variants": " Kraken"
+  }
+}

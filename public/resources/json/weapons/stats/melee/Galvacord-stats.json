@@ -1,0 +1,38 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.75",
+    "ComboDur": "5 s",
+    "BlockAngle": "45°",
+    "FollowThrough": "50%",
+    "Disposition": "●●●●○ (1.30x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "210 (45.71%)",
+    "Attack1FireRate": "0.75",
+    "Attack1StatusChance": "30%",
+    "Attack1CritChance": "12%",
+    "Attack1CritMultiplier": "1.8x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "945",
+    "WindUp": "0.4 s",
+    "HeavySlamAttack": "735",
+    "HeavySlamRadius": "6 m",
+    "HeavyRadialDmg": "735"
+  },
+  "Slam Attack": {
+    "SlamAttack": "630",
+    "SlamRadius": "5 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "420"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Update 24.2 (2018-12-18)",
+    "InternalName": "/Lotus/Weapons/Corpus/Melee/Whips/CrpShockGrip/CrpShockGripWhipWeapon"
+  }
+}

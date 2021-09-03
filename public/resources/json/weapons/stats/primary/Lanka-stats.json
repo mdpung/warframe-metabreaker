@@ -1,0 +1,48 @@
+{
+  "Utility": {
+    "AmmoType": "Sniper",
+    "ShotType": "Projectile",
+    "ShotSpeed": "200 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "Accuracy": "100",
+    "Magazine": "10",
+    "MaxAmmo": "72",
+    "Reload": "2 s",
+    "SniperComboReset": "6 s",
+    "SniperComboMin": "2 shots",
+    "Disposition": "●●●○○ (1.00x)"
+  },
+  "Uncharged Shot": {
+    "Attack1Total": "200",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "200 m/s",
+    "Attack1FireRate": "1",
+    "Attack1ChargeTime": "0.33 s",
+    "Attack1Multishot": "1 (200 damage per projectile)",
+    "Attack1StatusChance": "25%",
+    "Attack1CritChance": "25%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1Falloff": "100% damage up to 400 m50% damage at 600 m50% max reduction"
+  },
+  "Charged Shot": {
+    "Attack2Total": "525",
+    "Attack2ShotType": "Projectile",
+    "Attack2ShotSpeed": "200 m/s",
+    "Attack2FireRate": "1",
+    "Attack2ChargeTime": "1 s",
+    "Attack2Accuracy": "100",
+    "Attack2Multishot": "1 (525 damage per projectile)",
+    "Attack2StatusChance": "25%",
+    "Attack2CritChance": "25%",
+    "Attack2CritMultiplier": "2x",
+    "Attack2PunchThrough": "5 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Users": "Sniper CrewmanThe SergeantNullifier CrewmanCorrupted NullifierPerrin Sequence Operatives",
+    "Introduced": "Update 8.0 (2013-05-23)",
+    "InternalName": "/Lotus/Weapons/ClanTech/Energy/Railgun"
+  }
+}

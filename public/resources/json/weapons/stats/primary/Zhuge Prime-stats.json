@@ -1,0 +1,43 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Projectile",
+    "ShotSpeed": "30 m/s",
+    "NoiseLevel": "Silent",
+    "FireRate": "5.5",
+    "Accuracy": "40",
+    "Magazine": "30",
+    "MaxAmmo": "270",
+    "Reload": "3 s",
+    "Disposition": "●●●●○ (1.15x)"
+  },
+  "Arrow Impact": {
+    "Attack1Total": "50 (45%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "30 m/s",
+    "Attack1FireRate": "5.5",
+    "Attack1Multishot": "1 (50 damage per projectile)",
+    "Attack1StatusChance": "30%",
+    "Attack1CritChance": "26%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Arrow Explosion": {
+    "Attack2Total": "40 (62%)",
+    "Attack2ShotType": "AoE",
+    "Attack2Range": "2.6 m",
+    "Attack2FireRate": "5.5",
+    "Attack2Multishot": "1 (40 damage per projectile)",
+    "Attack2StatusChance": "30%",
+    "Attack2CritChance": "26%",
+    "Attack2CritMultiplier": "2x",
+    "Attack2ExplosionDelay": "0.6 s",
+    "Attack2Falloff": "100% damage up to 0 m70% damage at 2.6 m30% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 25.3 (2019-07-06)",
+    "Variants": "Zhuge Zhuge",
+    "InternalName": "/Lotus/Weapons/Tenno/LongGuns/PrimeZhuge/PrimeZhugeCrossbow"
+  }
+}

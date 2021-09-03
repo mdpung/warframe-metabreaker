@@ -1,0 +1,53 @@
+{
+  "Utility": {
+    "AmmoType": "Sniper",
+    "ShotType": "Projectile",
+    "ShotSpeed": "85 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "Accuracy": "16.7",
+    "Magazine": "1",
+    "MaxAmmo": "72",
+    "Reload": "0.6 s",
+    "Disposition": "●●●●● (1.35x)"
+  },
+  "Charged Shot": {
+    "Attack1Total": "410 (90%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "85 m/s",
+    "Attack1FireRate": "1",
+    "Attack1ChargeTime": "0.5 s",
+    "Attack1Multishot": "1 (410 damage per projectile)",
+    "Attack1StatusChance": "49%",
+    "Attack1CritChance": "15%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "1 m"
+  },
+  "Uncharged Shot": {
+    "Attack2Total": "205 (90%)",
+    "Attack2ShotType": "Projectile",
+    "Attack2ShotSpeed": "70 m/s",
+    "Attack2FireRate": "1",
+    "Attack2Multishot": "1 (205 damage per projectile)",
+    "Attack2StatusChance": "49%",
+    "Attack2CritChance": "15%",
+    "Attack2CritMultiplier": "2x"
+  },
+  "Toxin Cloud": {
+    "Attack3Total": "5",
+    "Attack3ShotType": "AoE",
+    "Attack3Range": "3 m",
+    "Attack3FireRate": "1",
+    "Attack3Multishot": "1 (5 damage per projectile)",
+    "Attack3StatusChance": "49%",
+    "Attack3CritChance": "15%",
+    "Attack3CritMultiplier": "2x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 18.5 (2016-03-04)",
+    "Variants": "Cernos Prime Cernos PrimeCernos CernosProboscis Cernos Proboscis CernosRakta Cernos Rakta Cernos",
+    "InternalName": "/Lotus/Weapons/Infested/Bow/InfCernosBow/InfCernos"
+  }
+}

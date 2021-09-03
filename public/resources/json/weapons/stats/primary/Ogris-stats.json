@@ -1,0 +1,44 @@
+{
+  "Utility": {
+    "AmmoType": "Sniper",
+    "ShotType": "Projectile",
+    "ShotSpeed": "40 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.5",
+    "Accuracy": "100",
+    "Magazine": "5",
+    "MaxAmmo": "20",
+    "Reload": "2.5 s",
+    "Disposition": "●●●●○ (1.30x)"
+  },
+  "Rocket Impact": {
+    "Attack1Total": "100",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "40 m/s",
+    "Attack1FireRate": "1.5",
+    "Attack1ChargeTime": "0.3 s",
+    "Attack1Multishot": "1 (100 damage per projectile)",
+    "Attack1StatusChance": "35%",
+    "Attack1CritChance": "5%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Rocket Explosion": {
+    "Attack2Total": "600",
+    "Attack2ShotType": "AoE",
+    "Attack2Range": "7.1 m",
+    "Attack2FireRate": "1.5",
+    "Attack2Multishot": "1 (600 damage per projectile)",
+    "Attack2StatusChance": "35%",
+    "Attack2CritChance": "5%",
+    "Attack2CritMultiplier": "2x",
+    "Attack2Falloff": "100% damage up to 0 m20% damage at 7.1 m80% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Users": "BombardCorrupted BombardExecutioner GorthNightwatch Bombard",
+    "Introduced": "Update 8.0 (2013-05-23)",
+    "Variants": "Kuva Ogris Kuva Ogris",
+    "InternalName": "/Lotus/Weapons/ClanTech/Chemical/RocketLauncher"
+  }
+}

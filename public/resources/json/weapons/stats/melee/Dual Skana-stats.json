@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.833",
+    "ComboDur": "5 s",
+    "BlockAngle": "60°",
+    "FollowThrough": "50%",
+    "Disposition": "●●●●● (1.48x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "120 (70%)",
+    "Attack1FireRate": "0.833",
+    "Attack1StatusChance": "16%",
+    "Attack1CritChance": "5%",
+    "Attack1CritMultiplier": "1.5x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "480",
+    "WindUp": "0.7 s",
+    "HeavySlamAttack": "480",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "480"
+  },
+  "Slam Attack": {
+    "SlamAttack": "240",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "240"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Users": "Excalibur Specter",
+    "Introduced": "Vanilla (2012-10-25)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/DualShortSword/DualShortSword"
+  }
+}

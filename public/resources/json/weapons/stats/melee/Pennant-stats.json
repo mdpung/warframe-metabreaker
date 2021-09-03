@@ -1,0 +1,38 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.917",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "70%",
+    "Disposition": "●●○○○ (0.85x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "200 (70%)",
+    "Attack1FireRate": "0.917",
+    "Attack1StatusChance": "10%",
+    "Attack1CritChance": "32%",
+    "Attack1CritMultiplier": "2.4x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,200",
+    "WindUp": "0.7 s",
+    "HeavySlamAttack": "1,000",
+    "HeavySlamRadius": "8 m",
+    "HeavyRadialDmg": "1,000"
+  },
+  "Slam Attack": {
+    "SlamAttack": "600",
+    "SlamRadius": "7 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "400"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Update 27.0 (2019-12-13)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Swords/TnRailjackGreatKatana/TnRailJackGreatKatanaWeapon"
+  }
+}

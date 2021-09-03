@@ -1,0 +1,32 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "12.5",
+    "Spool": "9",
+    "Accuracy": "12.5",
+    "Magazine": "90",
+    "MaxAmmo": "540",
+    "Reload": "4.2 s",
+    "Disposition": "●●●●● (1.40x)"
+  },
+  "Fully Spooled": {
+    "Attack1Total": "25 (75%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "12.5",
+    "Attack1Multishot": "1 (25 damage per projectile)",
+    "Attack1StatusChance": "9%",
+    "Attack1CritChance": "17%",
+    "Attack1CritMultiplier": "1.5x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Users": "Lieutenant Lech KrilHeavy Gunner + VariantsCorrupted Heavy GunnerManic Bombard + Variants",
+    "Introduced": "Vanilla (2012-10-25)",
+    "Variants": "Gorgon Wraith Gorgon WraithPrisma Gorgon Prisma Gorgon",
+    "InternalName": "/Lotus/Weapons/Tenno/Rifle/HeavyRifle"
+  }
+}

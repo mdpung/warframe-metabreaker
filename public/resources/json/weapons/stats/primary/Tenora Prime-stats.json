@@ -1,0 +1,46 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Hit-Scan",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "12.67",
+    "Spool": "9",
+    "Accuracy": "12.5",
+    "Magazine": "200",
+    "MaxAmmo": "1,000",
+    "Reload": "2.5 s",
+    "Disposition": "●○○○○ (0.50x)"
+  },
+  "Fully Spooled": {
+    "Attack1Total": "28 (40%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "12.67",
+    "Attack1Multishot": "1 (28 damage per projectile)",
+    "Attack1StatusChance": "24%",
+    "Attack1CritChance": "30%",
+    "Attack1CritMultiplier": "2.2x"
+  },
+  "Charged Attack": {
+    "Attack2Total": "280 (60%)",
+    "Attack2Trigger": "Charge",
+    "Attack2ShotType": "Projectile",
+    "Attack2ShotSpeed": "? m/s",
+    "Attack2FireRate": "2",
+    "Attack2ChargeTime": "0.8 s",
+    "Attack2Multishot": "1 (280 damage per projectile)",
+    "Attack2StatusChance": "20%",
+    "Attack2CritChance": "40%",
+    "Attack2CritMultiplier": "3x",
+    "Attack2PunchThrough": "1 m",
+    "Attack2AmmoCost": "10"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 29.9 (2021-02-23)",
+    "Variants": "Tenora Tenora",
+    "InternalName": "/Lotus/Weapons/Tenno/LongGuns/PrimeTenora/TenoraPrimeWeapon"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "6.67",
+    "Accuracy": "18.2",
+    "Magazine": "15",
+    "MaxAmmo": "210",
+    "Reload": "1 s",
+    "Disposition": "●●●●● (1.40x)"
+  },
+  "Normal": {
+    "Attack1Total": "30 ( 50%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1FireRate": "6.67",
+    "Attack1Multishot": "1 (30 damage per projectile)",
+    "Attack1StatusChance": "6%",
+    "Attack1CritChance": "10%",
+    "Attack1CritMultiplier": "1.8x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Users": "Lancer (During Tutorial and Vor's Prize)",
+    "Introduced": "Vanilla (2012-10-25)",
+    "Variants": " Lato Prime Lato Vandal"
+  }
+}

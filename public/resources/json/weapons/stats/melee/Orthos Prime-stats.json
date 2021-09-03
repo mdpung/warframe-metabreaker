@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.17",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "60%",
+    "Disposition": "●○○○○ (0.65x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "234 (70%)",
+    "Attack1FireRate": "1.17",
+    "Attack1StatusChance": "36%",
+    "Attack1CritChance": "24%",
+    "Attack1CritMultiplier": "2.2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,404",
+    "WindUp": "0.9 s",
+    "HeavySlamAttack": "1,170",
+    "HeavySlamRadius": "8 m",
+    "HeavyRadialDmg": "1,170"
+  },
+  "Slam Attack": {
+    "SlamAttack": "702",
+    "SlamRadius": "7 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "468"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Update 9.0 (2013-07-13)",
+    "Variants": "Orthos Orthos",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Polearms/PrimePolearmWeapon"
+  }
+}

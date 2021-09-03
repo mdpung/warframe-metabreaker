@@ -1,0 +1,22 @@
+{
+  "Utility": {
+    "Range": "142.5 m",
+    "NoiseLevel": "Alarming",
+    "FireRate": "1"
+  },
+  "Normal": {
+    "Attack1Total": "445 ( 90%)",
+    "Attack1FireRate": "1",
+    "Attack1Multishot": "1 (445 damage per projectile)",
+    "Attack1StatusChance": "30%",
+    "Attack1CritChance": "13%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Users": "Tyl Regor",
+    "Introduced": "Update 17.2 (2015-08-19)"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "Utility": {
+    "ShotType": "Projectile",
+    "ShotSpeed": "10 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "ComboDur": "5 s",
+    "BlockAngle": "60°",
+    "FollowThrough": "60%",
+    "Disposition": "●●●●○ (1.30x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "260 (39.62%)",
+    "Attack1FireRate": "1",
+    "Attack1StatusChance": "37%",
+    "Attack1CritChance": "9%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Corrosive Wave": {
+    "Attack2Total": "192",
+    "Attack2Trigger": "Charge",
+    "Attack2ShotType": "Projectile",
+    "Attack2ShotSpeed": "10 m/s",
+    "ForcedProcs": "Blind18px Blind",
+    "Attack2Range": "35 m",
+    "Attack2FireRate": "1",
+    "Attack2ChargeTime": "1 s",
+    "Attack2StatusChance": "10%",
+    "Attack2CritChance": "9%",
+    "Attack2CritMultiplier": "2x",
+    "Attack2Falloff": "100% damage up to 0 m0% damage at 35 m100% max reduction"
+  },
+  "Corrosive Pool": {
+    "Attack3Total": "5",
+    "Attack3ShotType": "AoE",
+    "ForcedProcs": "Blind18px Blind",
+    "Attack3FireRate": "1",
+    "Attack3ChargeTime": "1 s",
+    "Attack3StatusChance": "0%",
+    "Attack3CritChance": "0%",
+    "Attack3CritMultiplier": "1x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,560",
+    "WindUp": "1 s",
+    "HeavySlamAttack": "1,300",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "1,300"
+  },
+  "Slam Attack": {
+    "SlamAttack": "780",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "Corrosive Damage Corrosive520"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update: The Index Preview (2016-10-20)",
+    "InternalName": "/Lotus/Weapons/Infested/Melee/InfEmbolistScythe/InfestedScythe"
+  }
+}

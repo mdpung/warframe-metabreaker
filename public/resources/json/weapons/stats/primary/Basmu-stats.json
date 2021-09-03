@@ -1,0 +1,55 @@
+{
+  "Utility": {
+    "AmmoType": "None",
+    "ShotType": "Projectile",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "12",
+    "Accuracy": "20",
+    "Magazine": "21",
+    "MaxAmmo": "INF",
+    "Reload": "2.5 s",
+    "ReloadRate": "42 rounds/s",
+    "ReloadDelay": "0.2 s",
+    "Disposition": "●●●●○ (1.15x)"
+  },
+  "Auto": {
+    "Attack1Total": "39",
+    "Attack1Trigger": "Auto",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "? m/s",
+    "Attack1FireRate": "12",
+    "Attack1Multishot": "1 (39 damage per projectile)",
+    "Attack1StatusChance": "29%",
+    "Attack1CritChance": "15%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Radial Attack": {
+    "Attack2Total": "19",
+    "Attack2ShotType": "AoE",
+    "Attack2Range": "1.7 m",
+    "Attack2FireRate": "12",
+    "Attack2Multishot": "1 (19 damage per projectile)",
+    "Attack2StatusChance": "29%",
+    "Attack2CritChance": "15%",
+    "Attack2CritMultiplier": "2x",
+    "Attack2Falloff": "100% damage up to 0 m80% damage at 1.7 m20% max reduction"
+  },
+  "Held": {
+    "Attack3Total": "24",
+    "Attack3Trigger": "Held",
+    "Attack3ShotType": "Discharge",
+    "Attack3FireRate": "12",
+    "Attack3Accuracy": "3",
+    "Attack3Multishot": "2 (12 damage per projectile)",
+    "Attack3StatusChance": "30%",
+    "Attack3CritChance": "2%",
+    "Attack3CritMultiplier": "4.8x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 27.3 (2020-03-24)",
+    "InternalName": "/Lotus/Weapons/Sentients/SentRifleNewWar/SentRifleNewWarGun"
+  }
+}

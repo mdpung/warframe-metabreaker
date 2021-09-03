@@ -1,0 +1,63 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Discharge",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "12",
+    "Accuracy": "100",
+    "Magazine": "60",
+    "MaxAmmo": "540",
+    "Reload": "2 s",
+    "Disposition": "●●●●● (1.40x)"
+  },
+  "Beam": {
+    "Attack1Total": "20",
+    "Attack1ShotType": "Discharge",
+    "Attack1Range": "50 m",
+    "Attack1FireRate": "12",
+    "Attack1Multishot": "2 (10 damage per projectile)",
+    "Attack1StatusChance": "24%",
+    "Attack1CritChance": "16%",
+    "Attack1CritMultiplier": "2.2x",
+    "Attack1AmmoCost": "0.5"
+  },
+  "Cube (shot by player)": {
+    "Attack2Total": "600",
+    "Attack2Range": "6 m",
+    "Attack2FireRate": "4",
+    "Attack2Multishot": "1 (600 damage per projectile)",
+    "Attack2StatusChance": "26%",
+    "Attack2CritChance": "5%",
+    "Attack2CritMultiplier": "1.5x"
+  },
+  "Cube (direct hit)": {
+    "Attack3Total": "100",
+    "Attack3ShotType": "Projectile",
+    "Attack3ShotSpeed": "? m/s",
+    "Attack3Range": "15 m",
+    "Attack3FireRate": "4",
+    "Attack3Multishot": "1 (100 damage per projectile)",
+    "Attack3StatusChance": "26%",
+    "Attack3CritChance": "5%",
+    "Attack3CritMultiplier": "1.5x",
+    "Attack3AmmoCost": "10"
+  },
+  "Cube Explosion": {
+    "Attack4Total": "150",
+    "Attack4ShotType": "AoE",
+    "Attack4Range": "0.5 m",
+    "Attack4FireRate": "4",
+    "Attack4Multishot": "1 (150 damage per projectile)",
+    "Attack4StatusChance": "26%",
+    "Attack4CritChance": "5%",
+    "Attack4CritMultiplier": "1.5x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 14.1 (2014-07-30)",
+    "Variants": "Quanta Vandal Quanta Vandal",
+    "InternalName": "/Lotus/Weapons/Corpus/LongGuns/CrpShockRifle/CrpShockRifle"
+  }
+}

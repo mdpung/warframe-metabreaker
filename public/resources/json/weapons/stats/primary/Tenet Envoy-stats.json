@@ -1,0 +1,41 @@
+{
+  "Utility": {
+    "AmmoType": "Sniper",
+    "ShotType": "Projectile",
+    "ShotSpeed": "40 / (Aiming) 20 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.83",
+    "Accuracy": "100",
+    "Magazine": "8",
+    "MaxAmmo": "24",
+    "Reload": "4 s",
+    "Disposition": "●○○○○ (0.50x)"
+  },
+  "Grenade Impact": {
+    "Attack1Total": "125 (80%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "40 / (Aiming) 20 m/s",
+    "Attack1FireRate": "0.83",
+    "Attack1Multishot": "1 (125 damage per projectile)",
+    "Attack1StatusChance": "24%",
+    "Attack1CritChance": "28%",
+    "Attack1CritMultiplier": "2.6x"
+  },
+  "Rocket Explosion": {
+    "Attack2Total": "800 (80%)",
+    "Attack2ShotType": "AoE",
+    "Attack2Range": "8 m",
+    "Attack2FireRate": "0.83",
+    "Attack2Multishot": "1 (800 damage per projectile)",
+    "Attack2StatusChance": "24%",
+    "Attack2CritChance": "28%",
+    "Attack2CritMultiplier": "2.6x",
+    "Attack2Falloff": "100% damage up to 0 m20% damage at 8 m80% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Introduced": "Update 30.5 (2021-07-06)",
+    "InternalName": "/Lotus/Weapons/Corpus/LongGuns/CrpBriefcaseLauncher/CrpBriefcaseLauncher"
+  }
+}

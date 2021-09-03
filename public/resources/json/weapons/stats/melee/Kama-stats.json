@@ -1,0 +1,38 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.17",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "70%",
+    "Disposition": "●●●●● (1.47x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "90 (70%)",
+    "Attack1FireRate": "1.17",
+    "Attack1StatusChance": "10%",
+    "Attack1CritChance": "12%",
+    "Attack1CritMultiplier": "1.8x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "540",
+    "WindUp": "0.7 s",
+    "HeavySlamAttack": "360",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "360"
+  },
+  "Slam Attack": {
+    "SlamAttack": "270",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "180"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 10.0 (2013-09-13)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/DualKamas/SingleKama"
+  }
+}

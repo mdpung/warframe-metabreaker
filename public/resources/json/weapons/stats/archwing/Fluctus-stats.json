@@ -1,0 +1,33 @@
+{
+  "Utility": {
+    "AmmoType": "Heavy",
+    "ShotType": "Projectile",
+    "ShotSpeed": "? m/s",
+    "Range": "450 m",
+    "NoiseLevel": "Alarming",
+    "FireRate": "5",
+    "Accuracy": "100",
+    "Magazine": "40",
+    "MaxAmmo": "160",
+    "Reload": "3 s",
+    "Disposition": "●●●○○ (0.90x)"
+  },
+  "Normal": {
+    "Attack1Total": "250 ( 70%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "? m/s",
+    "ForcedProcs": " ",
+    "Attack1Range": "450 m",
+    "Attack1FireRate": "5",
+    "Attack1Multishot": "1 (250 damage per projectile)",
+    "Attack1StatusChance": "16%",
+    "Attack1CritChance": "22%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 24.2 (2018-12-18)"
+  }
+}

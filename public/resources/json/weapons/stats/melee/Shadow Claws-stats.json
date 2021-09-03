@@ -1,0 +1,36 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "ComboDur": "5 s",
+    "BlockAngle": "60°",
+    "FollowThrough": "100%"
+  },
+  "Normal Attack": {
+    "Attack1Total": "240 (50%)",
+    "Attack1FireRate": "1",
+    "Attack1StatusChance": "24%",
+    "Attack1CritChance": "38%",
+    "Attack1CritMultiplier": "2.6x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,920",
+    "HeavySlamAttack": "0",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "0"
+  },
+  "Slam Attack": {
+    "SlamAttack": "720",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "480"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "None",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Users": "Sevagoth's Shadow",
+    "Introduced": "Update 30.0 (2021-04-13)"
+  }
+}

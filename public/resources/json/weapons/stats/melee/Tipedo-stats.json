@@ -1,0 +1,40 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.33",
+    "ComboDur": "5 s",
+    "BlockAngle": "60°",
+    "FollowThrough": "50%",
+    "Disposition": "●●●●● (1.31x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "124 (80%)",
+    "Attack1FireRate": "1.33",
+    "Attack1StatusChance": "20%",
+    "Attack1CritChance": "20%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "620",
+    "WindUp": "0.5 s",
+    "HeavySlamAttack": "496",
+    "HeavySlamRadius": "7 m",
+    "HeavyRadialDmg": "496"
+  },
+  "Slam Attack": {
+    "SlamAttack": "372",
+    "SlamRadius": "6 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "124"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Users": "Mag Specter",
+    "Introduced": "Update 15.9 (2015-01-08)",
+    "Variants": "Tipedo Prime Tipedo Prime",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Staff/MonkSpade/TnoMonkStaff"
+  }
+}

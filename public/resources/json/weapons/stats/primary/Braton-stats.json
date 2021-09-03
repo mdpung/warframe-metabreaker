@@ -1,0 +1,30 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "8.75",
+    "Accuracy": "28.6",
+    "Magazine": "45",
+    "MaxAmmo": "540",
+    "Reload": "2 s",
+    "Disposition": "●●●●● (1.35x)"
+  },
+  "Normal": {
+    "Attack1Total": "24 (34%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "8.75",
+    "Attack1Multishot": "1 (24 damage per projectile)",
+    "Attack1StatusChance": "6%",
+    "Attack1CritChance": "12%",
+    "Attack1CritMultiplier": "1.6x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Vanilla (2012-10-25)",
+    "Variants": "Braton Prime Braton PrimeBraton Vandal Braton VandalMK1-Braton MK1-Braton",
+    "InternalName": "/Lotus/Weapons/Tenno/Rifle/Rifle"
+  }
+}

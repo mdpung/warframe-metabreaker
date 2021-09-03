@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.25",
+    "ComboDur": "5 s",
+    "BlockAngle": "45°",
+    "FollowThrough": "50%",
+    "Disposition": "●●●○○ (1.10x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "176 (45.45%)",
+    "Attack1FireRate": "1.25",
+    "Attack1StatusChance": "30%",
+    "Attack1CritChance": "15%",
+    "Attack1CritMultiplier": "1.5x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "792",
+    "WindUp": "0.4 s",
+    "HeavySlamAttack": "616",
+    "HeavySlamRadius": "6 m",
+    "HeavyRadialDmg": "616"
+  },
+  "Slam Attack": {
+    "SlamAttack": "528",
+    "SlamRadius": "5 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "352"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update: The Silver Grove 2.0 (2016-09-15)",
+    "Variants": "Lecta Lecta",
+    "InternalName": "/Lotus/Weapons/Syndicates/PerrinSequence/Melee/PSLecta"
+  }
+}

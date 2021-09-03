@@ -1,0 +1,44 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Projectile",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "3",
+    "Accuracy": "28.6",
+    "Magazine": "8",
+    "MaxAmmo": "72",
+    "Reload": "3 s",
+    "Disposition": "●●●●○ (1.20x)"
+  },
+  "Orb Merging Damage": {
+    "Attack1Total": "100",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "? m/s",
+    "Attack1Range": "12 m",
+    "Attack1FireRate": "3",
+    "Attack1Multishot": "1 (100 damage per projectile)",
+    "Attack1StatusChance": "30%",
+    "Attack1CritChance": "12%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Orb Explosion": {
+    "Attack2Total": "200",
+    "Attack2ShotType": "AoE",
+    "ForcedProcs": "Electricity Damage Electricity",
+    "Attack2Range": "5 m",
+    "Attack2FireRate": "3",
+    "Attack2Multishot": "1 (200 damage per projectile)",
+    "Attack2StatusChance": "30%",
+    "Attack2CritChance": "12%",
+    "Attack2CritMultiplier": "2x",
+    "Attack2Falloff": "100% damage up to 0 m40% damage at 5 m60% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 16.10 (2015-06-25)",
+    "Variants": "Synoid Simulor Synoid Simulor",
+    "InternalName": "/Lotus/Weapons/Cephalon/Primary/CephPrimary/CephPrimary"
+  }
+}

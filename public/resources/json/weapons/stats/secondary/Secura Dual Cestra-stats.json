@@ -1,0 +1,34 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "100 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "12.5",
+    "Spool": "5",
+    "Accuracy": "20",
+    "Magazine": "120",
+    "MaxAmmo": "480",
+    "Reload": "3.5 s",
+    "Disposition": "●●●●○ (1.30x)"
+  },
+  "Normal": {
+    "Attack1Total": "28 ( 80%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "100 m/s",
+    "Attack1FireRate": "12.5",
+    "Attack1Multishot": "1 (28 damage per projectile)",
+    "Attack1StatusChance": "28%",
+    "Attack1CritChance": "16%",
+    "Attack1CritMultiplier": "1.6x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "SyndicateEffect": "Sequence",
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Users": "Perrin Sequence Operatives",
+    "Introduced": "Update 15.5 (2014-11-27)",
+    "Variants": " Dual Cestra"
+  }
+}

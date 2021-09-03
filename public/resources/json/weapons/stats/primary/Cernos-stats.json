@@ -1,0 +1,45 @@
+{
+  "Utility": {
+    "AmmoType": "Sniper",
+    "ShotType": "Projectile",
+    "ShotSpeed": "70 m/s",
+    "NoiseLevel": "Silent",
+    "FireRate": "1",
+    "Accuracy": "16.7",
+    "Magazine": "1",
+    "MaxAmmo": "72",
+    "Reload": "0.6 s",
+    "Disposition": "●●●●○ (1.30x)"
+  },
+  "Uncharged Shot": {
+    "Attack1Total": "190 (90%)",
+    "Attack1Trigger": "Semi-Auto",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "70 m/s",
+    "Attack1FireRate": "1",
+    "Attack1Multishot": "1 (190 damage per projectile)",
+    "Attack1StatusChance": "18%",
+    "Attack1CritChance": "36%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Charged Shot": {
+    "Attack2Total": "380 (90%)",
+    "Attack2Trigger": "Charge",
+    "Attack2ShotType": "Projectile",
+    "Attack2ShotSpeed": "90 m/s",
+    "Attack2FireRate": "1",
+    "Attack2ChargeTime": "0.5 s",
+    "Attack2Multishot": "1 (380 damage per projectile)",
+    "Attack2StatusChance": "18%",
+    "Attack2CritChance": "36%",
+    "Attack2CritMultiplier": "2x",
+    "Attack2PunchThrough": "1 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 11.1 (2013-11-27)",
+    "Variants": "Cernos Prime Cernos PrimeMutalist Cernos Mutalist CernosProboscis Cernos Proboscis CernosRakta Cernos Rakta Cernos",
+    "InternalName": "/Lotus/Weapons/Tenno/Bows/AntlerBow/AntlerBow"
+  }
+}

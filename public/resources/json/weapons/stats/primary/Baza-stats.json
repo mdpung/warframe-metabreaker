@@ -1,0 +1,31 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Silent",
+    "FireRate": "16.67",
+    "Accuracy": "80",
+    "Magazine": "40",
+    "MaxAmmo": "800",
+    "Reload": "1.4 s",
+    "Disposition": "●●●○○ (1.05x)"
+  },
+  "Normal": {
+    "Attack1Total": "16 (42%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "16.67",
+    "Attack1Multishot": "1 (16 damage per projectile)",
+    "Attack1StatusChance": "10%",
+    "Attack1CritChance": "26%",
+    "Attack1CritMultiplier": "3x",
+    "Attack1Falloff": "100% damage up to 22 m50% damage at 34 m50% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 22.4 (2017-11-23)",
+    "Variants": "Baza Prime Baza Prime",
+    "InternalName": "/Lotus/Weapons/Tenno/LongGuns/TnSMG/TnSMGWeapon"
+  }
+}

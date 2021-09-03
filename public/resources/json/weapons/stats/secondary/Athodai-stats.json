@@ -1,0 +1,42 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Hit-Scan",
+    "Range": "13 m",
+    "NoiseLevel": "Alarming",
+    "FireRate": "5",
+    "Accuracy": "50",
+    "Magazine": "24",
+    "MaxAmmo": "48",
+    "Reload": "2 s",
+    "Disposition": "●●●○○ (1.00x)"
+  },
+  "Normal": {
+    "Attack1Total": "70 ( 68.57%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1FireRate": "5",
+    "Attack1Accuracy": "50",
+    "Attack1Multishot": "1 (70 damage per projectile)",
+    "Attack1StatusChance": "8%",
+    "Attack1CritChance": "32%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Alt-Fire": {
+    "Attack2Total": "88",
+    "Attack2ShotType": "Discharge",
+    "Attack2Range": "13 m",
+    "Attack2FireRate": "12",
+    "Attack2Accuracy": "100",
+    "Attack2Multishot": "1 (88 damage per projectile)",
+    "Attack2StatusChance": "24%",
+    "Attack2CritChance": "18%",
+    "Attack2CritMultiplier": "2x",
+    "Attack2PunchThrough": "2 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Hotfix 28.2.1 (2020-08-01)"
+  }
+}

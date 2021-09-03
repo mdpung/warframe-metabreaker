@@ -1,0 +1,29 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "7.08",
+    "Accuracy": "23.5",
+    "Magazine": "40",
+    "MaxAmmo": "400",
+    "Reload": "1.1 s",
+    "Disposition": "●○○○○ (0.65x)"
+  },
+  "Normal": {
+    "Attack1Total": "36 ( 60%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1FireRate": "7.08",
+    "Attack1Multishot": "1 (36 damage per projectile)",
+    "Attack1StatusChance": "30%",
+    "Attack1CritChance": "15%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 18.12 (2016-05-17)",
+    "Variants": " Akstiletto"
+  }
+}

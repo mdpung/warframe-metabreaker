@@ -1,0 +1,43 @@
+{
+  "Utility": {
+    "AmmoType": "Sniper",
+    "ShotType": "Projectile",
+    "ShotSpeed": "60 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "2.5",
+    "Accuracy": "100",
+    "Magazine": "20",
+    "MaxAmmo": "72",
+    "Reload": "2 s",
+    "Disposition": "●●●●● (1.50x)"
+  },
+  "Uncharged Shot": {
+    "Attack1Total": "100 (70%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "60 m/s",
+    "Attack1FireRate": "2.5",
+    "Attack1Multishot": "1 (100 damage per projectile)",
+    "Attack1StatusChance": "25%",
+    "Attack1CritChance": "5%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Charged Shot": {
+    "Attack2Total": "250 (90%)",
+    "Attack2ShotType": "Projectile",
+    "Attack2ShotSpeed": "60 m/s",
+    "Attack2FireRate": "2.5",
+    "Attack2ChargeTime": "0.75 s",
+    "Attack2Multishot": "1 (250 damage per projectile)",
+    "Attack2StatusChance": "50%",
+    "Attack2CritChance": "10%",
+    "Attack2CritMultiplier": "2x",
+    "Attack2PunchThrough": "2.5 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Users": "Eviscerator",
+    "Introduced": "Update 9.5 (2013-08-09)",
+    "InternalName": "/Lotus/Weapons/Grineer/LongGuns/GrineerSawbladeGun/SawBladeGun"
+  }
+}

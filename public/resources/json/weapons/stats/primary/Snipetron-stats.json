@@ -1,0 +1,58 @@
+{
+  "Utility": {
+    "AmmoType": "Sniper",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "2",
+    "Accuracy": "13.3",
+    "Magazine": "4",
+    "MaxAmmo": "72",
+    "Reload": "3.5 s",
+    "SniperComboReset": "2 s",
+    "SniperComboMin": "3 shots",
+    "Disposition": "●●●●○ (1.30x)"
+  },
+  "Unzoomed": {
+    "Attack1Total": "180 (80%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "1000 m",
+    "Attack1FireRate": "2",
+    "Attack1Multishot": "1 (180 damage per projectile)",
+    "Attack1StatusChance": "12%",
+    "Attack1CritChance": "30%",
+    "Attack1CritMultiplier": "1.5x",
+    "Attack1PunchThrough": "2.5 m",
+    "Attack1Falloff": "100% damage up to 400 m50% damage at 600 m50% max reduction"
+  },
+  "2.5x Zoom": {
+    "Attack2Total": "180 (80%)",
+    "Attack2ShotType": "Hit-Scan",
+    "Attack2Range": "1000 m",
+    "Attack2FireRate": "2",
+    "Attack2Multishot": "1 (180 damage per projectile)",
+    "Attack2StatusChance": "12%",
+    "Attack2CritChance": "30%",
+    "Attack2CritMultiplier": "1.5x",
+    "Attack2PunchThrough": "2.5 m",
+    "Attack2Falloff": "100% damage up to 400 m50% damage at 600 m50% max reduction"
+  },
+  "6x Zoom": {
+    "Attack3Total": "180 (80%)",
+    "Attack3ShotType": "Hit-Scan",
+    "Attack3Range": "1000 m",
+    "Attack3FireRate": "2",
+    "Attack3Multishot": "1 (180 damage per projectile)",
+    "Attack3StatusChance": "12%",
+    "Attack3CritChance": "30%",
+    "Attack3CritMultiplier": "1.5x",
+    "Attack3PunchThrough": "2.5 m",
+    "Attack3Falloff": "100% damage up to 400 m50% damage at 600 m50% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Vanilla (2012-10-25)",
+    "Variants": "Snipetron Vandal Snipetron Vandal",
+    "InternalName": "/Lotus/Weapons/Tenno/Rifle/SniperRifle"
+  }
+}

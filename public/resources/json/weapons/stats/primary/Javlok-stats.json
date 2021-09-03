@@ -1,0 +1,68 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Projectile",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "3.33",
+    "Accuracy": "100",
+    "Magazine": "6",
+    "MaxAmmo": "300",
+    "Reload": "1.9 s",
+    "Disposition": "●●●●○ (1.30x)"
+  },
+  "Projectile Impact": {
+    "Attack1Total": "160",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "? m/s",
+    "Attack1FireRate": "3.33",
+    "Attack1ChargeTime": "0.3 s",
+    "Attack1Accuracy": "100",
+    "Attack1Multishot": "1 (160 damage per projectile)",
+    "Attack1StatusChance": "25%",
+    "Attack1CritChance": "20%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Projectile Explosion": {
+    "Attack2Total": "120",
+    "Attack2ShotType": "AoE",
+    "Attack2Range": "2.4 m",
+    "Attack2FireRate": "3.33",
+    "Attack2Multishot": "1 (120 damage per projectile)",
+    "Attack2StatusChance": "25%",
+    "Attack2CritChance": "20%",
+    "Attack2CritMultiplier": "2x",
+    "Attack2Falloff": "100% damage up to 0 m70% damage at 2.4 m30% max reduction"
+  },
+  "Spear Throw": {
+    "Attack3Total": "150 (50%)",
+    "Attack3ShotType": "Projectile",
+    "Attack3ShotSpeed": "? m/s",
+    "ForcedProcs": "Impact Damage Impact",
+    "Attack3FireRate": "1",
+    "Attack3ChargeTime": "0.5 s",
+    "Attack3Accuracy": "16.7",
+    "Attack3Reload": "0.6 s",
+    "Attack3Multishot": "1 (150 damage per projectile)",
+    "Attack3StatusChance": "25%",
+    "Attack3CritChance": "20%",
+    "Attack3CritMultiplier": "2x"
+  },
+  "Spear Explosion": {
+    "Attack4Total": "300",
+    "Attack4ShotType": "AoE",
+    "Attack4Range": "6 m",
+    "Attack4FireRate": "1",
+    "Attack4Multishot": "1 (300 damage per projectile)",
+    "Attack4StatusChance": "25%",
+    "Attack4CritChance": "20%",
+    "Attack4CritMultiplier": "2x",
+    "Attack4Falloff": "100% damage up to 0 m40% damage at 6 m60% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 19.4 (2016-12-16)",
+    "InternalName": "/Lotus/Weapons/Grineer/LongGuns/GrnFlameSpear/GrnFlameSpear"
+  }
+}

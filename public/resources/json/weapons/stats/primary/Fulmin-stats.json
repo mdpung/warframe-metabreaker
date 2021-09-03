@@ -1,0 +1,47 @@
+{
+  "Utility": {
+    "AmmoType": "None",
+    "ShotType": "Projectile",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Silent",
+    "FireRate": "2.17",
+    "Accuracy": "9.1",
+    "Magazine": "60",
+    "MaxAmmo": "INF",
+    "Reload": "3 s",
+    "ReloadRate": "30 rounds/s",
+    "ReloadDelay": "1 s",
+    "Disposition": "●○○○○ (0.65x)"
+  },
+  "Semi-Auto Mode": {
+    "Attack1Total": "500 (80%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "? m/s",
+    "ForcedProcs": "Impact Damage Impact",
+    "Attack1FireRate": "2.17",
+    "Attack1Multishot": "1 (500 damage per projectile)",
+    "Attack1StatusChance": "16%",
+    "Attack1CritChance": "30%",
+    "Attack1CritMultiplier": "2.2x",
+    "Attack1Falloff": "100% damage up to 10 m33% damage at 20 m67% max reduction",
+    "Attack1AmmoCost": "10"
+  },
+  "Full Auto Mode": {
+    "Attack2Total": "33 (75.76%)",
+    "Attack2Trigger": "Auto",
+    "Attack2ShotType": "Hit-Scan",
+    "Attack2Range": "300 m",
+    "Attack2FireRate": "9.33",
+    "Attack2Accuracy": "111.1",
+    "Attack2Multishot": "1 (33 damage per projectile)",
+    "Attack2StatusChance": "10%",
+    "Attack2CritChance": "28%",
+    "Attack2CritMultiplier": "2.4x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Introduced": "Update 25.0 (2019-05-22)",
+    "InternalName": "/Lotus/Weapons/Tenno/LongGuns/TnWispRifle/TnWispRifle"
+  }
+}

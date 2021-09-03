@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.25",
+    "ComboDur": "5 s",
+    "BlockAngle": "60°",
+    "FollowThrough": "50%",
+    "Disposition": "●●●●● (1.50x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "130 (70%)",
+    "Attack1FireRate": "1.25",
+    "Attack1StatusChance": "21%",
+    "Attack1CritChance": "13%",
+    "Attack1CritMultiplier": "1.7x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "650",
+    "WindUp": "0.5 s",
+    "HeavySlamAttack": "520",
+    "HeavySlamRadius": "7 m",
+    "HeavyRadialDmg": "520"
+  },
+  "Slam Attack": {
+    "SlamAttack": "390",
+    "SlamRadius": "6 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "130"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Users": "Dok ThulGuardsmanProsecutor",
+    "Introduced": "Update 6.5 (2013-02-22)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Staff/GrnStaff"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "60%",
+    "Disposition": "●●●●● (1.44x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "192 (70%)",
+    "Attack1FireRate": "1",
+    "Attack1StatusChance": "34%",
+    "Attack1CritChance": "10%",
+    "Attack1CritMultiplier": "1.5x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "960",
+    "WindUp": "0.6 s",
+    "HeavySlamAttack": "768",
+    "HeavySlamRadius": "8 m",
+    "HeavyRadialDmg": "768"
+  },
+  "Slam Attack": {
+    "SlamAttack": "576",
+    "SlamRadius": "7 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "192"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Update 8.0 (2013-05-23)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/LongSword/EtherSword"
+  }
+}

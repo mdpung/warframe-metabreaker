@@ -1,0 +1,31 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "70 m/s",
+    "NoiseLevel": "Silent",
+    "FireRate": "3.33",
+    "Accuracy": "100",
+    "Magazine": "10",
+    "MaxAmmo": "210",
+    "Reload": "0.75 s",
+    "Disposition": "●●●●○ (1.30x)"
+  },
+  "Normal": {
+    "Attack1Total": "58 ( 80%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "70 m/s",
+    "Attack1FireRate": "3.33",
+    "Attack1Multishot": "1 (58 damage per projectile)",
+    "Attack1StatusChance": "16%",
+    "Attack1CritChance": "16%",
+    "Attack1CritMultiplier": "1.6x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Users": "Stalker",
+    "Introduced": "Update 8.0 (2013-05-23)"
+  }
+}

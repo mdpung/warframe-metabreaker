@@ -1,0 +1,32 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.607",
+    "Accuracy": "100",
+    "Magazine": "15",
+    "MaxAmmo": "INF",
+    "Reload": "0.01 s",
+    "Disposition": "●●●●● (1.45x)"
+  },
+  "Normal": {
+    "Attack1Total": "10 ( 85%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "? m/s",
+    "Attack1FireRate": "1.607",
+    "Attack1BurstDelay": "0.4 s",
+    "Attack1Multishot": "1 (10 damage per projectile)",
+    "Attack1StatusChance": "10%",
+    "Attack1CritChance": "5%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Hotfix 17.2.2 (2015-08-21)",
+    "Variants": " Burst Laser"
+  }
+}

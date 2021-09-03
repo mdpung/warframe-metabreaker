@@ -1,0 +1,54 @@
+{
+  "Utility": {
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "Accuracy": "0",
+    "ComboDur": "5 s",
+    "BlockAngle": "45°",
+    "FollowThrough": "50%",
+    "Disposition": "●●●●○ (1.24x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "160 (70%)",
+    "Attack1FireRate": "1",
+    "Attack1StatusChance": "28%",
+    "Attack1CritChance": "14%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Charged Shots": {
+    "Attack2Total": "35 (60%)",
+    "Attack2Trigger": "Charge",
+    "Attack2ShotType": "Hit-Scan",
+    "Attack2Range": "300 m",
+    "Attack2FireRate": "3.33",
+    "Attack2ChargeTime": "0.3 s",
+    "Attack2Accuracy": "0",
+    "Attack2BurstCount": "5",
+    "Attack2StatusChance": "28%",
+    "Attack2CritChance": "14%",
+    "Attack2CritMultiplier": "2x",
+    "Attack2Falloff": "100% damage up to 20 m14% damage at 40 m86% max reduction"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "2,100",
+    "WindUp": "0.3 s",
+    "HeavySlamAttack": "1,680",
+    "HeavySlamRadius": "6 m",
+    "HeavyRadialDmg": "480"
+  },
+  "Slam Attack": {
+    "SlamAttack": "480",
+    "SlamRadius": "5 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "320"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update: The Silver Grove (2016-08-19)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Gunblade/GunbladeAutomatic/TnoGunbladeAutomatic"
+  }
+}

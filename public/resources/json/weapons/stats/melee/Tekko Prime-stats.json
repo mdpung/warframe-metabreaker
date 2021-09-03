@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "ComboDur": "5 s",
+    "BlockAngle": "50°",
+    "FollowThrough": "90%",
+    "Disposition": "●●●●○ (1.30x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "180 (64%)",
+    "Attack1FireRate": "1",
+    "Attack1StatusChance": "26%",
+    "Attack1CritChance": "30%",
+    "Attack1CritMultiplier": "2.4x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "900",
+    "WindUp": "0.6 s",
+    "HeavySlamAttack": "720",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "720"
+  },
+  "Slam Attack": {
+    "SlamAttack": "540",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "540"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 25.8 (2019-10-01)",
+    "Variants": "Tekko Tekko",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/PrimeTekko/PrimeTekko"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "Utility": {
+    "AmmoType": "Shotgun",
+    "ShotType": "Projectile",
+    "ShotSpeed": "100 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "3.33",
+    "Accuracy": "1.4",
+    "Magazine": "11",
+    "MaxAmmo": "120",
+    "Reload": "2 s",
+    "Disposition": "●●●○○ (1.10x)"
+  },
+  "Uncharged Shot": {
+    "Attack1Total": "287.5 (48%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "100 m/s",
+    "Attack1FireRate": "3.33",
+    "Attack1Multishot": "10 (28.75 damage per projectile)",
+    "Attack1StatusChance": "9%",
+    "Attack1CritChance": "21%",
+    "Attack1CritMultiplier": "2.5x"
+  },
+  "Charged Shot": {
+    "Attack2Total": "575 (64%)",
+    "Attack2ShotType": "Projectile",
+    "Attack2ShotSpeed": "100 m/s",
+    "Attack2FireRate": "3.33",
+    "Attack2ChargeTime": "0.3 s",
+    "Attack2Multishot": "10 (57.5 damage per projectile)",
+    "Attack2StatusChance": "9%",
+    "Attack2CritChance": "21%",
+    "Attack2CritMultiplier": "2.5x",
+    "Attack2PunchThrough": "1.5 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Users": "Kuva Lich",
+    "Introduced": "Update 26.0 (2019-10-31)",
+    "Variants": "Drakgoon Drakgoon",
+    "InternalName": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Drakgoon/KuvaDrakgoon"
+  }
+}

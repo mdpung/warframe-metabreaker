@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.08",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "70%",
+    "Disposition": "●●●●● (1.40x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "211 (70%)",
+    "Attack1FireRate": "1.08",
+    "Attack1StatusChance": "33%",
+    "Attack1CritChance": "19%",
+    "Attack1CritMultiplier": "2.1x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,268",
+    "WindUp": "0.7 s",
+    "HeavySlamAttack": "844",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "844"
+  },
+  "Slam Attack": {
+    "SlamAttack": "633.3",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "422"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 10.5 (2013-10-23)",
+    "Variants": "Machete MachetePrisma Machete Prisma Machete",
+    "InternalName": "/Lotus/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/WraithMacheteWeapon"
+  }
+}

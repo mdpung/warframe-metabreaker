@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "ComboDur": "5 s",
+    "BlockAngle": "60°",
+    "FollowThrough": "50%",
+    "Disposition": "●●●○○ (1.10x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "133 (80%)",
+    "Attack1FireRate": "1",
+    "Attack1StatusChance": "25%",
+    "Attack1CritChance": "25%",
+    "Attack1CritMultiplier": "3x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "532",
+    "WindUp": "0.7 s",
+    "HeavySlamAttack": "532",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "532"
+  },
+  "Slam Attack": {
+    "SlamAttack": "266",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "266"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Hotfix 16.11.3 (2015-07-10)",
+    "Variants": "Dual Cleavers Dual Cleavers",
+    "InternalName": "/Lotus/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/PrismaDualCleavers"
+  }
+}

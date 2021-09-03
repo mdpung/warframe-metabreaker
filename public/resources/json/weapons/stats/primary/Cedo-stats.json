@@ -1,0 +1,56 @@
+{
+  "Utility": {
+    "AmmoType": "Shotgun",
+    "ShotType": "Hit-Scan",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "3.83",
+    "Accuracy": "20",
+    "Magazine": "40",
+    "MaxAmmo": "200",
+    "Reload": "2.2 s",
+    "Disposition": "●○○○○ (0.60x)"
+  },
+  "Normal": {
+    "Attack1Total": "180",
+    "Attack1Trigger": "Auto",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "3.83",
+    "Attack1Multishot": "6 (30 damage per projectile)",
+    "Attack1StatusChance": "0.3%",
+    "Attack1CritChance": "20%",
+    "Attack1CritMultiplier": "2.4x",
+    "Attack1Falloff": "100% damage up to 26 m80% damage at 52 m20% max reduction"
+  },
+  "Alt-Fire Glaive": {
+    "Attack2Total": "20",
+    "Attack2ShotType": "Projectile",
+    "Attack2ShotSpeed": "? m/s",
+    "Attack2FireRate": "1",
+    "Attack2Accuracy": "80",
+    "Attack2Multishot": "1 (20 damage per projectile)",
+    "Attack2StatusChance": "50%",
+    "Attack2CritChance": "2%",
+    "Attack2CritMultiplier": "1.4x",
+    "Attack2AmmoCost": "0"
+  },
+  "Glaive Radial Attack": {
+    "Attack3Total": "10",
+    "Attack3ShotType": "AoE",
+    "Attack3Range": "6 m",
+    "Attack3FireRate": "1",
+    "Attack3Multishot": "1 (10 damage per projectile)",
+    "Attack3StatusChance": "50%",
+    "Attack3CritChance": "2%",
+    "Attack3CritMultiplier": "1.4x",
+    "Attack3Falloff": "100% damage up to 0 m100% damage at 6 m0% max reduction",
+    "Attack3AmmoCost": "0"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 29.6 (2020-12-18)",
+    "InternalName": "/Lotus/Weapons/Tenno/LongGuns/TnAlchemistShotgun/TnAlchemistShotgun"
+  }
+}

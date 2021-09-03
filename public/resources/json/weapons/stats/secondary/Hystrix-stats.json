@@ -1,0 +1,43 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "7",
+    "Accuracy": "14.3",
+    "Magazine": "16",
+    "MaxAmmo": "320",
+    "Reload": "1.7 s",
+    "Disposition": "●●●●○ (1.20x)"
+  },
+  "Poison / Ice Quill": {
+    "Attack1Total": "36.1 ( 85.87%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "? m/s",
+    "ForcedProcs": " ,  ",
+    "Attack1FireRate": "7",
+    "Attack1Multishot": "1 (36.1 damage per projectile)",
+    "Attack1StatusChance": "10%",
+    "Attack1CritChance": "24%",
+    "Attack1CritMultiplier": "2.2x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Fire / Electric Quill": {
+    "Attack2Total": "40 ( 86%)",
+    "Attack2ShotType": "Projectile",
+    "Attack2ShotSpeed": "? m/s",
+    "ForcedProcs": " ,  ",
+    "Attack2FireRate": "7",
+    "Attack2Multishot": "1 (40 damage per projectile)",
+    "Attack2StatusChance": "10%",
+    "Attack2CritChance": "24%",
+    "Attack2CritMultiplier": "2.2x",
+    "Attack2PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 22.18 (2018-04-20)"
+  }
+}

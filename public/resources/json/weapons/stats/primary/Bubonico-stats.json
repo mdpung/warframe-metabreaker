@@ -1,0 +1,62 @@
+{
+  "Utility": {
+    "AmmoType": "None",
+    "ShotType": "Projectile",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "3.83",
+    "Accuracy": "25",
+    "Magazine": "27",
+    "MaxAmmo": "INF",
+    "Reload": "2.1 s",
+    "ReloadRate": "16.875 rounds/s",
+    "ReloadDelay": "0.5 s",
+    "Disposition": "●○○○○ (0.70x)"
+  },
+  "Auto": {
+    "Attack1Total": "287 (46.34%)",
+    "Attack1Trigger": "Auto",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "? m/s",
+    "Attack1FireRate": "3.83",
+    "Attack1Multishot": "7 (41 damage per projectile)",
+    "Attack1StatusChance": "9.29%",
+    "Attack1CritChance": "25%",
+    "Attack1CritMultiplier": "2.3x",
+    "Attack1Falloff": "100% damage up to 19 m50% damage at 41 m50% max reduction"
+  },
+  "Burst": {
+    "Attack2Total": "9",
+    "Attack2Trigger": "Burst",
+    "Attack2ShotType": "Projectile",
+    "Attack2ShotSpeed": "? m/s",
+    "Attack2FireRate": "3.37",
+    "Attack2Accuracy": "100",
+    "Attack2BurstCount": "3",
+    "Attack2BurstFireRate": "5",
+    "Attack2BurstDelay": "0.23 s",
+    "Attack2Multishot": "1 (9 damage per projectile)",
+    "Attack2StatusChance": "57%",
+    "Attack2CritChance": "3%",
+    "Attack2CritMultiplier": "3.5x",
+    "Attack2AmmoCost": "3"
+  },
+  "Radial Attack": {
+    "Attack3Total": "143",
+    "Attack3ShotType": "AoE",
+    "Attack3Range": "7 m",
+    "Attack3FireRate": "3.37",
+    "Attack3Multishot": "1 (143 damage per projectile)",
+    "Attack3StatusChance": "57%",
+    "Attack3CritChance": "3%",
+    "Attack3CritMultiplier": "3.5x",
+    "Attack3Falloff": "100% damage up to 0 m50% damage at 7 m50% max reduction",
+    "Attack3AmmoCost": "3"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 29.5 (2020-11-19)",
+    "InternalName": "/Lotus/Weapons/Infested/LongGuns/InfArmCannon/InfArmCannon"
+  }
+}

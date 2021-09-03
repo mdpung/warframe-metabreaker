@@ -1,0 +1,40 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.917",
+    "ComboDur": "5 s",
+    "BlockAngle": "60°",
+    "FollowThrough": "60%",
+    "Disposition": "●●●●○ (1.25x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "176 (80%)",
+    "Attack1FireRate": "0.917",
+    "Attack1StatusChance": "28%",
+    "Attack1CritChance": "6%",
+    "Attack1CritMultiplier": "1.5x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "704",
+    "WindUp": "0.7 s",
+    "HeavySlamAttack": "704",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "704"
+  },
+  "Slam Attack": {
+    "SlamAttack": "352",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "352"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Users": "Loki Specter",
+    "Introduced": "Update 16.5 (2015-05-12)",
+    "Variants": "Telos Boltace Telos Boltace",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Tonfa/Boltonfa/Boltonfa"
+  }
+}

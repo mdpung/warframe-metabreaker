@@ -1,0 +1,46 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "5",
+    "Accuracy": "26.7",
+    "Magazine": "8",
+    "MaxAmmo": "210",
+    "Reload": "1 s",
+    "Disposition": "●●●○○ (0.90x)"
+  },
+  "Normal": {
+    "Attack1Total": "30 ( 60%)",
+    "Attack1Trigger": "Semi-Auto",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "? m/s",
+    "ForcedProcs": " ",
+    "Attack1FireRate": "5",
+    "Attack1Multishot": "1 (30 damage per projectile)",
+    "Attack1StatusChance": "42%",
+    "Attack1CritChance": "8%",
+    "Attack1CritMultiplier": "1.8x",
+    "Attack1PunchThrough": "0 m",
+    "Attack1AmmoCost": "1"
+  },
+  "Gas Cloud": {
+    "Attack5Total": "100",
+    "Attack5ShotType": "AoE",
+    "Attack5FireRate": "5",
+    "Attack5Multishot": "1 (100 damage per projectile)",
+    "Attack5StatusChance": "42%",
+    "Attack5CritChance": "8%",
+    "Attack5CritMultiplier": "1.8x",
+    "Attack5PunchThrough": "0 m",
+    "Attack5Radius": "3.8 m",
+    "Attack5Falloff": "100% damage up to 0 m100% damage at 3.8 m0% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 29.3 (2020-10-27)",
+    "Variants": " Zakti"
+  }
+}

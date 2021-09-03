@@ -1,0 +1,38 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.917",
+    "ComboDur": "9 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "50%",
+    "Disposition": "●●●○○ (1.05x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "290 (66.55%)",
+    "Attack1FireRate": "0.917",
+    "Attack1StatusChance": "33%",
+    "Attack1CritChance": "19%",
+    "Attack1CritMultiplier": "2.3x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,450",
+    "WindUp": "0.5 s",
+    "HeavySlamAttack": "1,160",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "1,160"
+  },
+  "Slam Attack": {
+    "SlamAttack": "580",
+    "SlamRadius": "7 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "580"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 29.5 (2020-11-19)",
+    "InternalName": "/Lotus/Weapons/Infested/Melee/Nunchaku/InfNunchuck/InfNunchuck"
+  }
+}

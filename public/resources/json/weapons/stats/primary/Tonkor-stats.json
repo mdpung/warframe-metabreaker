@@ -1,0 +1,43 @@
+{
+  "Utility": {
+    "AmmoType": "Sniper",
+    "ShotType": "Projectile",
+    "ShotSpeed": "30 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "3.17",
+    "Accuracy": "100",
+    "Magazine": "1",
+    "MaxAmmo": "30",
+    "Reload": "1.7 s",
+    "Disposition": "●●●●○ (1.30x)"
+  },
+  "Grenade Impact": {
+    "Attack1Total": "75",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "30 m/s",
+    "Attack1FireRate": "3.17",
+    "Attack1Multishot": "1 (75 damage per projectile)",
+    "Attack1StatusChance": "10%",
+    "Attack1CritChance": "25%",
+    "Attack1CritMultiplier": "2.5x"
+  },
+  "Grenade Explosion": {
+    "Attack2Total": "650",
+    "Attack2ShotType": "AoE",
+    "Attack2Range": "7 m",
+    "Attack2FireRate": "3.17",
+    "Attack2Multishot": "1 (650 damage per projectile)",
+    "Attack2StatusChance": "10%",
+    "Attack2CritChance": "25%",
+    "Attack2CritMultiplier": "2.5x",
+    "Attack2Falloff": "100% damage up to 0 m30% damage at 7 m70% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Users": "Kuva NapalmNightwatch ReaverAerial Commander",
+    "Introduced": "Update 16.4 (2015-04-23)",
+    "Variants": "Kuva Tonkor Kuva Tonkor",
+    "InternalName": "/Lotus/Weapons/Grineer/LongGuns/GrnGrenadeLauncher/GrnGrenadeLauncher"
+  }
+}

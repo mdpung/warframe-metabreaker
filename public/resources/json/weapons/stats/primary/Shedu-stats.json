@@ -1,0 +1,43 @@
+{
+  "Utility": {
+    "AmmoType": "None",
+    "ShotType": "Projectile",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "2.5",
+    "Accuracy": "28.6",
+    "Magazine": "7",
+    "MaxAmmo": "INF",
+    "Reload": "1.25 s",
+    "ReloadRate": "28 rounds/s",
+    "ReloadDelay": "0.4 s",
+    "Disposition": "●●○○○ (0.80x)"
+  },
+  "Normal": {
+    "Attack1Total": "71",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "? m/s",
+    "Attack1FireRate": "2.5",
+    "Attack1Multishot": "1 (71 damage per projectile)",
+    "Attack1StatusChance": "23%",
+    "Attack1CritChance": "25%",
+    "Attack1CritMultiplier": "2.1x"
+  },
+  "Radial Attack": {
+    "Attack2Total": "87",
+    "Attack2ShotType": "AoE",
+    "Attack2Range": "6.6 m",
+    "Attack2FireRate": "2.5",
+    "Attack2Multishot": "1 (87 damage per projectile)",
+    "Attack2StatusChance": "23%",
+    "Attack2CritChance": "25%",
+    "Attack2CritMultiplier": "2.1x",
+    "Attack2Falloff": "100% damage up to 0 m40% damage at 6.6 m60% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 27.0 (2019-12-13)",
+    "InternalName": "/Lotus/Weapons/Sentients/Shedu/SheduHeavyWeapon"
+  }
+}

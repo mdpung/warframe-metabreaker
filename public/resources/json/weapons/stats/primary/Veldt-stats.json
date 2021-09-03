@@ -1,0 +1,29 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "3.67",
+    "Accuracy": "32",
+    "Magazine": "26",
+    "MaxAmmo": "546",
+    "Reload": "1.8 s",
+    "Disposition": "●●●●○ (1.30x)"
+  },
+  "Normal": {
+    "Attack1Total": "90 (48%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "3.67",
+    "Attack1Multishot": "1 (90 damage per projectile)",
+    "Attack1StatusChance": "22%",
+    "Attack1CritChance": "22%",
+    "Attack1CritMultiplier": "2.2x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 22.18 (2018-04-20)",
+    "InternalName": "/Lotus/Weapons/Tenno/LongGuns/TnRevolverRifle/TnRevolverRifleGun"
+  }
+}

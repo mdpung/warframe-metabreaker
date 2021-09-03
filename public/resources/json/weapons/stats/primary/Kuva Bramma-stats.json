@@ -1,0 +1,64 @@
+{
+  "Utility": {
+    "AmmoType": "Sniper",
+    "ShotType": "Projectile",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "Accuracy": "16.7",
+    "Magazine": "1",
+    "MaxAmmo": "5",
+    "Reload": "0.6 s",
+    "Disposition": "●○○○○ (0.60x)"
+  },
+  "Charged Shot": {
+    "Attack1Total": "233.75 (80%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "? m/s",
+    "Attack1FireRate": "1",
+    "Attack1ChargeTime": "0.4 s",
+    "Attack1Multishot": "1 (233.75 damage per projectile)",
+    "Attack1StatusChance": "21%",
+    "Attack1CritChance": "35%",
+    "Attack1CritMultiplier": "2.1x"
+  },
+  "Radial Attack": {
+    "Attack2Total": "1,048.75 (80%)",
+    "Attack2ShotType": "AoE",
+    "Attack2Range": "8.3 m",
+    "Attack2FireRate": "1",
+    "Attack2ChargeTime": "0.4 s",
+    "Attack2Multishot": "1 (1,048.75 damage per projectile)",
+    "Attack2StatusChance": "21%",
+    "Attack2CritChance": "35%",
+    "Attack2CritMultiplier": "2.1x",
+    "Attack2Falloff": "100% damage up to 0 m10% damage at 8.3 m90% max reduction"
+  },
+  "Cluster Bomb Contact": {
+    "Attack3Total": "183.75 (80%)",
+    "Attack3FireRate": "1",
+    "Attack3ChargeTime": "0.4 s",
+    "Attack3Multishot": "3 (61.25 damage per projectile)",
+    "Attack3StatusChance": "21%",
+    "Attack3CritChance": "35%",
+    "Attack3CritMultiplier": "2.1x"
+  },
+  "Cluster Bomb Explosion": {
+    "Attack4Total": "213.75 (80%)",
+    "Attack4ShotType": "AoE",
+    "Attack4FireRate": "1",
+    "Attack4ChargeTime": "0.4 s",
+    "Attack4Multishot": "3 (71.25 damage per projectile)",
+    "Attack4StatusChance": "21%",
+    "Attack4CritChance": "35%",
+    "Attack4CritMultiplier": "2.1x",
+    "Attack4Falloff": "100% damage up to 0 m50% damage at 3.5 m50% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Users": "Kuva Lich",
+    "Introduced": "Update 27.1 (2020-02-04)",
+    "InternalName": "/Lotus/Weapons/Grineer/Bows/GrnBow/GrnBowWeapon"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Silent",
+    "FireRate": "2.83",
+    "Accuracy": "100",
+    "Magazine": "6",
+    "MaxAmmo": "72",
+    "Reload": "0.8 s",
+    "Disposition": "●●●●● (1.35x)"
+  },
+  "Full Auto Mode": {
+    "Attack1Total": "77 ( 60%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "? m/s",
+    "Attack1FireRate": "2.83",
+    "Attack1Multishot": "1 (77 damage per projectile)",
+    "Attack1StatusChance": "29%",
+    "Attack1CritChance": "23%",
+    "Attack1CritMultiplier": "1.7x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Semi-Auto Mode": {
+    "Attack2Total": "231 ( 60%)",
+    "Attack2Trigger": "Semi-Auto",
+    "Attack2ShotType": "Projectile",
+    "Attack2ShotSpeed": "? m/s",
+    "Attack2FireRate": "1.5",
+    "Attack2Multishot": "3 (77 damage per projectile)",
+    "Attack2StatusChance": "12.3%",
+    "Attack2CritChance": "3%",
+    "Attack2CritMultiplier": "1.5x",
+    "Attack2PunchThrough": "0 m",
+    "Attack2AmmoCost": "3"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 22.0 (2017-10-12)"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "5.42",
+    "Accuracy": "28.6",
+    "Magazine": "15",
+    "MaxAmmo": "540",
+    "Reload": "2.4 s",
+    "Disposition": "●●●●● (1.35x)"
+  },
+  "Normal": {
+    "Attack1Total": "60 (70%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "5.42",
+    "Attack1Multishot": "1 (60 damage per projectile)",
+    "Attack1StatusChance": "14%",
+    "Attack1CritChance": "26%",
+    "Attack1CritMultiplier": "2.8x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 14.5 (2014-08-28)",
+    "Variants": "Latron Prime Latron PrimeLatron Latron",
+    "InternalName": "/Lotus/Weapons/Tenno/LongGuns/WraithLatron/WraithLatron"
+  }
+}

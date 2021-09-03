@@ -1,0 +1,30 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "12.5",
+    "Accuracy": "15.4",
+    "Magazine": "70",
+    "MaxAmmo": "210",
+    "Reload": "2 s",
+    "Disposition": "●●●●● (1.45x)"
+  },
+  "Normal": {
+    "Attack1Total": "20 ( 70%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1FireRate": "12.5",
+    "Attack1Multishot": "1 (20 damage per projectile)",
+    "Attack1StatusChance": "12%",
+    "Attack1CritChance": "5%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Users": "Valkyr Specter",
+    "Introduced": "Update 5.3 (2013-01-10)",
+    "Variants": " Dex Furis"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "11.67",
+    "Accuracy": "80",
+    "Magazine": "70",
+    "MaxAmmo": "540",
+    "Reload": "1.7 s",
+    "Disposition": "●●●○○ (1.00x)"
+  },
+  "Normal": {
+    "Attack1Total": "28.75 (33.74%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "11.67",
+    "Attack1Multishot": "1 (28.75 damage per projectile)",
+    "Attack1StatusChance": "31%",
+    "Attack1CritChance": "23%",
+    "Attack1CritMultiplier": "2.1x",
+    "Attack1PunchThrough": "0.2 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Users": "Kuva Lich",
+    "Introduced": "Update 26.0 (2019-10-31)",
+    "Variants": "Karak Wraith Karak WraithKarak Karak",
+    "InternalName": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Karak/KuvaKarak"
+  }
+}

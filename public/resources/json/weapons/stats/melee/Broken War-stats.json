@@ -1,0 +1,38 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "60%",
+    "Disposition": "●●●●○ (1.15x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "187 (80%)",
+    "Attack1FireRate": "1",
+    "Attack1StatusChance": "20%",
+    "Attack1CritChance": "35%",
+    "Attack1CritMultiplier": "2.2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "935",
+    "WindUp": "0.6 s",
+    "HeavySlamAttack": "748",
+    "HeavySlamRadius": "8 m",
+    "HeavyRadialDmg": "748"
+  },
+  "Slam Attack": {
+    "SlamAttack": "561",
+    "SlamRadius": "7 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "187"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 18.0 (2015-12-03)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Swords/StalkerTwo/StalkerTwoSmallSword"
+  }
+}

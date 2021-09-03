@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.95",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "60%",
+    "Disposition": "●●●●● (1.44x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "160 (70%)",
+    "Attack1FireRate": "0.95",
+    "Attack1StatusChance": "15%",
+    "Attack1CritChance": "15%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "960",
+    "WindUp": "1.1 s",
+    "HeavySlamAttack": "800",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "800"
+  },
+  "Slam Attack": {
+    "SlamAttack": "480",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "320"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Update 6.2 (2013-02-08)",
+    "Variants": "Gram Prime Gram Prime",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/GreatSword/GreatSword"
+  }
+}

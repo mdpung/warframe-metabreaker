@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.08",
+    "ComboDur": "5 s",
+    "BlockAngle": "50°",
+    "FollowThrough": "90%",
+    "Disposition": "●●●●● (1.38x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "139 (70%)",
+    "Attack1FireRate": "1.08",
+    "Attack1StatusChance": "15%",
+    "Attack1CritChance": "30%",
+    "Attack1CritMultiplier": "2.7x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "695",
+    "WindUp": "0.6 s",
+    "HeavySlamAttack": "556",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "556"
+  },
+  "Slam Attack": {
+    "SlamAttack": "417",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "417"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Update 18.10 (2016-04-29)",
+    "Variants": "Furax FuraxMK1-Furax MK1-Furax",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Fist/FuraxWraith"
+  }
+}

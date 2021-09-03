@@ -1,0 +1,33 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Discharge",
+    "Range": "25 m",
+    "NoiseLevel": "Alarming",
+    "FireRate": "10",
+    "Accuracy": "100",
+    "Magazine": "50",
+    "MaxAmmo": "210",
+    "Reload": "2 s",
+    "Disposition": "●●●●● (1.45x)"
+  },
+  "Normal": {
+    "Attack1Total": "22",
+    "Attack1ShotType": "Discharge",
+    "Attack1Range": "25 m",
+    "Attack1FireRate": "10",
+    "Attack1Multishot": "1 (22 damage per projectile)",
+    "Attack1StatusChance": "29%",
+    "Attack1CritChance": "3%",
+    "Attack1CritMultiplier": "4x",
+    "Attack1PunchThrough": "0 m",
+    "Attack1AmmoCost": "0.5"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Users": "Nightwatch Seeker",
+    "Introduced": "Update 14.5 (2014-08-28)",
+    "Variants": " Kuva Nukor"
+  }
+}

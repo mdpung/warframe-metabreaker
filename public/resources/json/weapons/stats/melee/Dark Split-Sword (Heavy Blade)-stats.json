@@ -1,0 +1,37 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.917",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "60%",
+    "Disposition": "●●●●○ (1.21x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "230 (43.48%)",
+    "Attack1FireRate": "0.917",
+    "Attack1StatusChance": "25%",
+    "Attack1CritChance": "15%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,380",
+    "WindUp": "1.1 s",
+    "HeavySlamAttack": "1,150",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "1,150"
+  },
+  "Slam Attack": {
+    "SlamAttack": "690",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "460"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 18.14 (2016-06-08)"
+  }
+}

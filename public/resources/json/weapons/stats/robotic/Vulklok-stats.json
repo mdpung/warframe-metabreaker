@@ -1,0 +1,30 @@
+{
+  "Utility": {
+    "AmmoType": "Sniper Rifle",
+    "ShotType": "Projectile",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.15",
+    "Accuracy": "100",
+    "Magazine": "10",
+    "MaxAmmo": "INF",
+    "Reload": "2 s",
+    "Disposition": "●●●●○ (1.25x)"
+  },
+  "Normal": {
+    "Attack1Total": "85",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "? m/s",
+    "Attack1FireRate": "0.15",
+    "Attack1Multishot": "1 (85 damage per projectile)",
+    "Attack1StatusChance": "25%",
+    "Attack1CritChance": "35%",
+    "Attack1CritMultiplier": "2.5x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Update 17.3 (2015-09-02)"
+  }
+}

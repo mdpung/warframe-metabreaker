@@ -1,0 +1,68 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "50 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "3.5",
+    "Accuracy": "16.7",
+    "Magazine": "48",
+    "MaxAmmo": "288",
+    "Reload": "1.5 s",
+    "Disposition": "●○○○○ (0.70x)"
+  },
+  "Uncharged Projectile": {
+    "Attack1Total": "44",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "50 m/s",
+    "Attack1FireRate": "3.5",
+    "Attack1Multishot": "1 (44 damage per projectile)",
+    "Attack1StatusChance": "28%",
+    "Attack1CritChance": "14%",
+    "Attack1CritMultiplier": "2.2x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Uncharged Explosion": {
+    "Attack2Total": "88",
+    "Attack2ShotType": "AoE",
+    "Attack2FireRate": "3.5",
+    "Attack2Multishot": "1 (88 damage per projectile)",
+    "Attack2StatusChance": "28%",
+    "Attack2CritChance": "14%",
+    "Attack2CritMultiplier": "2.2x",
+    "Attack2PunchThrough": "0 m",
+    "Attack2Radius": "2.4 m",
+    "Attack2Falloff": "100% damage up to 0 m70% damage at 2.4 m30% max reduction"
+  },
+  "Fully Charged Projectile": {
+    "Attack3Total": "44",
+    "Attack3ShotType": "Projectile",
+    "Attack3ShotSpeed": "50 m/s",
+    "Attack3FireRate": "3.5",
+    "Attack3ChargeTime": "1 s",
+    "Attack3Multishot": "1 (44 damage per projectile)",
+    "Attack3StatusChance": "28%",
+    "Attack3CritChance": "14%",
+    "Attack3CritMultiplier": "2.2x",
+    "Attack3PunchThrough": "0 m",
+    "Attack3AmmoCost": "5"
+  },
+  "Fully Charged Explosion": {
+    "Attack4Total": "106",
+    "Attack4ShotType": "AoE",
+    "Attack4FireRate": "3.5",
+    "Attack4ChargeTime": "1 s",
+    "Attack4Multishot": "1 (106 damage per projectile)",
+    "Attack4StatusChance": "28%",
+    "Attack4CritChance": "14%",
+    "Attack4CritMultiplier": "2.2x",
+    "Attack4PunchThrough": "0 m",
+    "Attack4Radius": "9.6 m",
+    "Attack4Falloff": "100% damage up to 0 m10% damage at 9.6 m90% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Hotfix 18.4.7 (2016-02-04)"
+  }
+}

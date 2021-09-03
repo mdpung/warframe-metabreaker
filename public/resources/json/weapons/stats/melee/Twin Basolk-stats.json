@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "ComboDur": "5 s",
+    "BlockAngle": "60°",
+    "FollowThrough": "50%",
+    "Disposition": "●●●●○ (1.30x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "210 (40.48%)",
+    "Attack1FireRate": "1",
+    "Attack1StatusChance": "40%",
+    "Attack1CritChance": "5%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "840",
+    "WindUp": "0.7 s",
+    "HeavySlamAttack": "840",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "840"
+  },
+  "Slam Attack": {
+    "SlamAttack": "420",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "420"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Users": "FlamebladeGaresh",
+    "Introduced": "Update 17.8 (2015-10-21)",
+    "InternalName": "/Lotus/Weapons/Grineer/Melee/GrnDualFireAxe/GrnDualFireAxe"
+  }
+}

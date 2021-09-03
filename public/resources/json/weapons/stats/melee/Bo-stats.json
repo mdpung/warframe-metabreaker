@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "ComboDur": "5 s",
+    "BlockAngle": "60°",
+    "FollowThrough": "50%",
+    "Disposition": "●●●●● (1.35x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "140 (90%)",
+    "Attack1FireRate": "1",
+    "Attack1StatusChance": "20%",
+    "Attack1CritChance": "12.5%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "700",
+    "WindUp": "0.5 s",
+    "HeavySlamAttack": "560",
+    "HeavySlamRadius": "7 m",
+    "HeavyRadialDmg": "560"
+  },
+  "Slam Attack": {
+    "SlamAttack": "420",
+    "SlamRadius": "6 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "140"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Vanilla (2012-10-25)",
+    "Variants": "Bo Prime Bo PrimeMK1-Bo MK1-Bo",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Staff/Staff"
+  }
+}

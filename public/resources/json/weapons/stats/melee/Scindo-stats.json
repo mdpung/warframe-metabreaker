@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.917",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "60%",
+    "Disposition": "●●●●● (1.35x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "200 (80%)",
+    "Attack1FireRate": "0.917",
+    "Attack1StatusChance": "10%",
+    "Attack1CritChance": "15%",
+    "Attack1CritMultiplier": "1.5x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,200",
+    "WindUp": "1.1 s",
+    "HeavySlamAttack": "1,000",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "1,000"
+  },
+  "Slam Attack": {
+    "SlamAttack": "600",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "400"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Update 5.4 (2013-01-14)",
+    "Variants": "Scindo Prime Scindo Prime",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Axe/AxeWeapon"
+  }
+}

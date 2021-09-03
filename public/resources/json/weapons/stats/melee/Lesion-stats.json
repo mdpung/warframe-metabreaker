@@ -1,0 +1,38 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "60%",
+    "Disposition": "●○○○○ (0.70x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "237 (75%)",
+    "Attack1FireRate": "1",
+    "Attack1StatusChance": "37%",
+    "Attack1CritChance": "15%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,422",
+    "WindUp": "0.9 s",
+    "HeavySlamAttack": "1,185",
+    "HeavySlamRadius": "8 m",
+    "HeavyRadialDmg": "1,185"
+  },
+  "Slam Attack": {
+    "SlamAttack": "711",
+    "SlamRadius": "7 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "474"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 18.5 (2016-03-04)",
+    "InternalName": "/Lotus/Weapons/Infested/Melee/TipedoStaff/InfTipedoStaff"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "15",
+    "Spool": "4",
+    "Accuracy": "28.6",
+    "Magazine": "200",
+    "MaxAmmo": "800",
+    "Reload": "3 s",
+    "Disposition": "●●●○○ (1.00x)"
+  },
+  "Fully Spooled": {
+    "Attack1Total": "12 (50%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "15",
+    "Attack1Multishot": "1 (12 damage per projectile)",
+    "Attack1StatusChance": "10%",
+    "Attack1CritChance": "30%",
+    "Attack1CritMultiplier": "3x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 15.7 (2014-12-17)",
+    "Variants": "Soma Soma",
+    "InternalName": "/Lotus/Weapons/Tenno/LongGuns/PrimeSoma/PrimeSomaRifle"
+  }
+}

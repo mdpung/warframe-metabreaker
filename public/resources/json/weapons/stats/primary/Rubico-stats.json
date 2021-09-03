@@ -1,0 +1,34 @@
+{
+  "Utility": {
+    "AmmoType": "Sniper",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "2.67",
+    "Accuracy": "13.3",
+    "Magazine": "5",
+    "MaxAmmo": "72",
+    "Reload": "2.4 s",
+    "SniperComboReset": "2 s",
+    "SniperComboMin": "1 shots",
+    "Disposition": "●●●○○ (0.90x)"
+  },
+  "Unzoomed": {
+    "Attack1Total": "180 (80%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "1000 m",
+    "Attack1FireRate": "2.67",
+    "Attack1Multishot": "1 (180 damage per projectile)",
+    "Attack1StatusChance": "12%",
+    "Attack1CritChance": "30%",
+    "Attack1CritMultiplier": "3x",
+    "Attack1PunchThrough": "1 m",
+    "Attack1Falloff": "100% damage up to 400 m50% damage at 600 m50% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Introduced": "Update 18.0 (2015-12-03)",
+    "Variants": "Rubico Prime Rubico Prime",
+    "InternalName": "/Lotus/Weapons/Tenno/LongGuns/FiveShotSniper/FiveShotSniper"
+  }
+}

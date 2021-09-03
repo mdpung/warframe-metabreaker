@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "ComboDur": "5 s",
+    "BlockAngle": "70°",
+    "FollowThrough": "60%",
+    "Disposition": "●●●●○ (1.15x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "98",
+    "Attack1FireRate": "1",
+    "Attack1StatusChance": "20%",
+    "Attack1CritChance": "5%",
+    "Attack1CritMultiplier": "1.5x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "490",
+    "WindUp": "0.7 s",
+    "HeavySlamAttack": "392",
+    "HeavySlamRadius": "8 m",
+    "HeavyRadialDmg": "392"
+  },
+  "Slam Attack": {
+    "SlamAttack": "294",
+    "SlamRadius": "7 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "Heat Damage Heat98"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Update 14.0 (2014-07-18)",
+    "Variants": "Silva & Aegis Prime Silva & Aegis Prime",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/SwordsAndBoards/MeleeContestWinnerOne/TennoSwordShield"
+  }
+}

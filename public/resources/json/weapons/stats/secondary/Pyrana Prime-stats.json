@@ -1,0 +1,30 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "4",
+    "Accuracy": "6.1",
+    "Magazine": "12",
+    "MaxAmmo": "210",
+    "Reload": "1.6 s",
+    "Disposition": "●○○○○ (0.60x)"
+  },
+  "Normal": {
+    "Attack1Total": "240 ( 84%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1FireRate": "4",
+    "Attack1Multishot": "10 (24 damage per projectile)",
+    "Attack1StatusChance": "3.6%",
+    "Attack1CritChance": "24%",
+    "Attack1CritMultiplier": "2.2x",
+    "Attack1PunchThrough": "0 m",
+    "Attack1Falloff": "100% damage up to 18 m25% damage at 36 m75% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Hotfix 23.0.3 (2018-06-19)",
+    "Variants": " Pyrana"
+  }
+}

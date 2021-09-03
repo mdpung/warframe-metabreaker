@@ -1,0 +1,30 @@
+{
+  "Utility": {
+    "AmmoType": "Heavy",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "9.09",
+    "Accuracy": "33.33",
+    "Magazine": "30",
+    "MaxAmmo": "480",
+    "Reload": "1.2 s",
+    "Disposition": "●●●●○ (1.30x)"
+  },
+  "Normal": {
+    "Attack1Total": "120 ( 33.33%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1FireRate": "9.09",
+    "Attack1BurstCount": "3",
+    "Attack1BurstDelay": "0.06 s",
+    "Attack1Multishot": "1 (120 damage per projectile)",
+    "Attack1StatusChance": "30%",
+    "Attack1CritChance": "20%",
+    "Attack1CritMultiplier": "2.2x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Update 24.2 (2018-12-18)"
+  }
+}

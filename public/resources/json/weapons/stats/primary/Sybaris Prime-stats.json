@@ -1,0 +1,33 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "4.72",
+    "Accuracy": "25",
+    "Magazine": "20",
+    "MaxAmmo": "540",
+    "Reload": "2 s",
+    "Disposition": "●●●●○ (1.15x)"
+  },
+  "Normal": {
+    "Attack1Total": "88 (34%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "4.72",
+    "Attack1BurstCount": "2",
+    "Attack1BurstFireRate": "3.33",
+    "Attack1BurstDelay": "0.062 s",
+    "Attack1Multishot": "1 (88 damage per projectile)",
+    "Attack1StatusChance": "25%",
+    "Attack1CritChance": "30%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Hotfix 20.6.2 (2017-05-30)",
+    "Variants": "Dex Sybaris Dex SybarisSybaris Sybaris",
+    "InternalName": "/Lotus/Weapons/Tenno/LongGuns/PrimeSybaris/PrimeSybarisRifle"
+  }
+}

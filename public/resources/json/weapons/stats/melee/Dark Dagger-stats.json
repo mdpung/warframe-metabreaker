@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.917",
+    "ComboDur": "5 s",
+    "BlockAngle": "45°",
+    "FollowThrough": "90%",
+    "Disposition": "●●●○○ (1.10x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "154 (38.96%)",
+    "Attack1FireRate": "0.917",
+    "Attack1StatusChance": "22%",
+    "Attack1CritChance": "8%",
+    "Attack1CritMultiplier": "1.5x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "308",
+    "WindUp": "0.4 s",
+    "HeavySlamAttack": "616",
+    "HeavySlamRadius": "6 m",
+    "HeavyRadialDmg": "616"
+  },
+  "Slam Attack": {
+    "SlamAttack": "308",
+    "SlamRadius": "5 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "308"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Update 5.0 (2012-12-18)",
+    "Variants": "Rakta Dark Dagger Rakta Dark Dagger",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Dagger/DarkDagger"
+  }
+}

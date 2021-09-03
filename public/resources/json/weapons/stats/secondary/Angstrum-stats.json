@@ -1,0 +1,46 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "150 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "2",
+    "Accuracy": "26.7",
+    "Magazine": "3",
+    "MaxAmmo": "18",
+    "Reload": "2.5 s",
+    "Disposition": "●●●●● (1.35x)"
+  },
+  "Single Rocket Impact": {
+    "Attack1Total": "200",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "150 m/s",
+    "Attack1FireRate": "2",
+    "Attack1ChargeTime": "0.5 s",
+    "Attack1Multishot": "1 (200 damage per projectile)",
+    "Attack1StatusChance": "22%",
+    "Attack1CritChance": "16%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Single Rocket Explosion": {
+    "Attack2Total": "250",
+    "Attack2ShotType": "AoE",
+    "Attack2FireRate": "2",
+    "Attack2ChargeTime": "0.5 s",
+    "Attack2Multishot": "1 (250 damage per projectile)",
+    "Attack2StatusChance": "22%",
+    "Attack2CritChance": "16%",
+    "Attack2CritMultiplier": "2x",
+    "Attack2PunchThrough": "0 m",
+    "Attack2Radius": "3.6 m",
+    "Attack2Falloff": "100% damage up to 0 m60% damage at 3.6 m40% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Users": "CombaScrambusPelna CadeJad Teran",
+    "Introduced": "Update 13.3 (2014-05-14)",
+    "Variants": " Prisma Angstrum"
+  }
+}

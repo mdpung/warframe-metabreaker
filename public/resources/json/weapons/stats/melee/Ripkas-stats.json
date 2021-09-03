@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.883",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "80%",
+    "Disposition": "●●●●● (1.38x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "173 (85%)",
+    "Attack1FireRate": "0.883",
+    "Attack1StatusChance": "15%",
+    "Attack1CritChance": "20%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "865",
+    "WindUp": "0.6 s",
+    "HeavySlamAttack": "692",
+    "HeavySlamRadius": "7 m",
+    "HeavyRadialDmg": "692"
+  },
+  "Slam Attack": {
+    "SlamAttack": "519",
+    "SlamRadius": "6 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "519"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Users": "ZuraKuva PowerclawNightwatch Powerclaw",
+    "Introduced": "Update 16.0 (2015-03-19)",
+    "InternalName": "/Lotus/Weapons/Grineer/Melee/GrineerClaws/GrnClaws"
+  }
+}

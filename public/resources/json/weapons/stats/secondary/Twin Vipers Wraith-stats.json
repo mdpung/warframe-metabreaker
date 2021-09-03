@@ -1,0 +1,29 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "25",
+    "Accuracy": "11.1",
+    "Magazine": "40",
+    "MaxAmmo": "440",
+    "Reload": "2 s",
+    "Disposition": "●●●●● (1.41x)"
+  },
+  "Normal": {
+    "Attack1Total": "18 ( 80%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1FireRate": "25",
+    "Attack1Multishot": "1 (18 damage per projectile)",
+    "Attack1StatusChance": "9%",
+    "Attack1CritChance": "19%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 11.5 (2013-12-19)",
+    "Variants": " Twin Vipers"
+  }
+}

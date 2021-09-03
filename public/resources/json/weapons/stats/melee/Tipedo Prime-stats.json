@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.17",
+    "ComboDur": "5 s",
+    "BlockAngle": "60°",
+    "FollowThrough": "50%",
+    "Disposition": "●●●●○ (1.25x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "170 (80%)",
+    "Attack1FireRate": "1.17",
+    "Attack1StatusChance": "24%",
+    "Attack1CritChance": "24%",
+    "Attack1CritMultiplier": "2.4x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "850",
+    "WindUp": "0.5 s",
+    "HeavySlamAttack": "680",
+    "HeavySlamRadius": "7 m",
+    "HeavyRadialDmg": "680"
+  },
+  "Slam Attack": {
+    "SlamAttack": "510",
+    "SlamRadius": "6 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "163"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Hotfix 24.5.8 (2019-04-02)",
+    "Variants": "Tipedo Tipedo",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Staff/TipedoPrime/TipedoPrimeWeapon"
+  }
+}

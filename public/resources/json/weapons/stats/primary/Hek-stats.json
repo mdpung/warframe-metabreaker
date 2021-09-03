@@ -1,0 +1,32 @@
+{
+  "Utility": {
+    "AmmoType": "Shotgun",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "2.17",
+    "Accuracy": "9.1",
+    "Magazine": "4",
+    "MaxAmmo": "120",
+    "Reload": "2 s",
+    "Disposition": "●●●●○ (1.20x)"
+  },
+  "Normal": {
+    "Attack1Total": "525 (65%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "2.17",
+    "Attack1Multishot": "7 (75 damage per projectile)",
+    "Attack1StatusChance": "10.7%",
+    "Attack1CritChance": "10%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1Falloff": "100% damage up to 10 m20% damage at 20 m80% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Users": "Vem Tabook (Modified)Dhurnam(Twin)Kuva Trooper",
+    "Introduced": "Update 5.2 (2013-01-04)",
+    "Variants": "Kuva Hek Kuva HekVaykor Hek Vaykor Hek",
+    "InternalName": "/Lotus/Weapons/Tenno/Shotgun/QuadShotgun"
+  }
+}

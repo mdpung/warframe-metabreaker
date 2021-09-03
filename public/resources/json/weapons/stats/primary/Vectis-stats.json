@@ -1,0 +1,59 @@
+{
+  "Utility": {
+    "AmmoType": "Sniper",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.5",
+    "Accuracy": "13.3",
+    "Magazine": "1",
+    "MaxAmmo": "72",
+    "Reload": "1 s",
+    "SniperComboReset": "2 s",
+    "SniperComboMin": "1 shots",
+    "Disposition": "●●●○○ (1.05x)"
+  },
+  "Unzoomed": {
+    "Attack1Total": "225 (40%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "1000 m",
+    "Attack1FireRate": "1.5",
+    "Attack1Multishot": "1 (225 damage per projectile)",
+    "Attack1StatusChance": "30%",
+    "Attack1CritChance": "25%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "1 m",
+    "Attack1Falloff": "100% damage up to 400 m50% damage at 600 m50% max reduction"
+  },
+  "3x Zoom": {
+    "Attack2Total": "225 (40%)",
+    "Attack2ShotType": "Hit-Scan",
+    "Attack2Range": "1000 m",
+    "Attack2FireRate": "1.5",
+    "Attack2Multishot": "1 (225 damage per projectile)",
+    "Attack2StatusChance": "30%",
+    "Attack2CritChance": "25%",
+    "Attack2CritMultiplier": "2x",
+    "Attack2PunchThrough": "1 m",
+    "Attack2Falloff": "100% damage up to 400 m50% damage at 600 m50% max reduction"
+  },
+  "4.5x Zoom": {
+    "Attack3Total": "225 (40%)",
+    "Attack3ShotType": "Hit-Scan",
+    "Attack3Range": "1000 m",
+    "Attack3FireRate": "1.5",
+    "Attack3Multishot": "1 (225 damage per projectile)",
+    "Attack3StatusChance": "30%",
+    "Attack3CritChance": "25%",
+    "Attack3CritMultiplier": "2x",
+    "Attack3PunchThrough": "1 m",
+    "Attack3Falloff": "100% damage up to 400 m50% damage at 600 m50% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Users": "Saryn Specter",
+    "Introduced": "Update 10.6 (2013-10-30)",
+    "Variants": "Vectis Prime Vectis Prime",
+    "InternalName": "/Lotus/Weapons/Tenno/Rifle/TennoSniperRifle"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "Utility": {
+    "ShotType": "AoE",
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.833",
+    "ComboDur": "10 s",
+    "BlockAngle": "60°",
+    "FollowThrough": "60%",
+    "Disposition": "●●○○○ (0.85x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "333 (40%)",
+    "Attack1FireRate": "0.833",
+    "Attack1StatusChance": "33%",
+    "Attack1CritChance": "23%",
+    "Attack1CritMultiplier": "2.3x"
+  },
+  "Glass Explosion": {
+    "Attack2Total": "999 (40%)",
+    "Attack2ShotType": "AoE",
+    "Attack2Range": "6 m",
+    "Attack2FireRate": "0.833",
+    "Attack2StatusChance": "33%",
+    "Attack2CritChance": "23%",
+    "Attack2CritMultiplier": "2.3x",
+    "Attack2Falloff": "100% damage up to 0 m10% damage at 6 m90% max reduction"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,998",
+    "WindUp": "1.1 s",
+    "HeavySlamAttack": "1,665",
+    "HeavySlamRadius": "4 m",
+    "HeavyRadialDmg": "1,665"
+  },
+  "Slam Attack": {
+    "SlamAttack": "999",
+    "SlamRadius": "4 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "666"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 29.3 (2020-10-27)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Swords/NWIIIOrokinSword/NWOrokinSword"
+  }
+}

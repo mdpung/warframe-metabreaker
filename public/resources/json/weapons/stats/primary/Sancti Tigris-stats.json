@@ -1,0 +1,32 @@
+{
+  "Utility": {
+    "AmmoType": "Shotgun",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "2",
+    "Accuracy": "6.5",
+    "Magazine": "2",
+    "MaxAmmo": "120",
+    "Reload": "1.5 s",
+    "Disposition": "●●●○○ (0.95x)"
+  },
+  "Normal": {
+    "Attack1Total": "1,260 (80%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "2",
+    "Attack1Multishot": "6 (210 damage per projectile)",
+    "Attack1StatusChance": "14%",
+    "Attack1CritChance": "15%",
+    "Attack1CritMultiplier": "1.5x",
+    "Attack1Falloff": "100% damage up to 8 m43% damage at 20 m57% max reduction"
+  },
+  "Miscellaneous": {
+    "SyndicateEffect": "Purity",
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 17.3 (2015-09-02)",
+    "Variants": "Tigris Prime Tigris PrimeTigris Tigris",
+    "InternalName": "/Lotus/Weapons/Syndicates/NewLoka/LongGuns/NLTigris"
+  }
+}

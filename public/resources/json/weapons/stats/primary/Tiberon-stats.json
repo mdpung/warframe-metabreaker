@@ -1,0 +1,33 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "9.09",
+    "Accuracy": "33.33",
+    "Magazine": "30",
+    "MaxAmmo": "540",
+    "Reload": "2.26 s",
+    "Disposition": "●●●○○ (1.05x)"
+  },
+  "Normal": {
+    "Attack1Total": "44 (50%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "9.09",
+    "Attack1BurstCount": "3",
+    "Attack1BurstFireRate": "6.667",
+    "Attack1BurstDelay": "0.06 s",
+    "Attack1Multishot": "1 (44 damage per projectile)",
+    "Attack1StatusChance": "16%",
+    "Attack1CritChance": "26%",
+    "Attack1CritMultiplier": "2.4x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 14.9 (2014-10-01)",
+    "Variants": "Tiberon Prime Tiberon Prime",
+    "InternalName": "/Lotus/Weapons/Tenno/LongGuns/DrakeRifle/DrakeRifle"
+  }
+}

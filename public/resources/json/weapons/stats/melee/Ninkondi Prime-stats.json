@@ -1,0 +1,38 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "50%",
+    "Disposition": "●●●○○ (1.10x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "234 (38.46%)",
+    "Attack1FireRate": "1",
+    "Attack1StatusChance": "36%",
+    "Attack1CritChance": "22%",
+    "Attack1CritMultiplier": "2.4x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,170",
+    "WindUp": "0.5 s",
+    "HeavySlamAttack": "936",
+    "HeavySlamRadius": "7 m",
+    "HeavyRadialDmg": "936"
+  },
+  "Slam Attack": {
+    "SlamAttack": "468",
+    "SlamRadius": "6 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "468"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 25.3 (2019-07-06)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/PrimeNinkondi/PrimeNikondi"
+  }
+}

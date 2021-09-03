@@ -1,0 +1,31 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Projectile",
+    "ShotSpeed": "100 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "10",
+    "Accuracy": "50",
+    "Magazine": "60",
+    "MaxAmmo": "540",
+    "Reload": "2.4 s",
+    "Disposition": "●●●●○ (1.15x)"
+  },
+  "Normal": {
+    "Attack1Total": "46 (90%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "100 m/s",
+    "Attack1FireRate": "10",
+    "Attack1Multishot": "1 (46 damage per projectile)",
+    "Attack1StatusChance": "34%",
+    "Attack1CritChance": "12%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 12.4 (2014-03-05)",
+    "Variants": "Boltor BoltorTelos Boltor Telos Boltor",
+    "InternalName": "/Lotus/Weapons/Tenno/LongGuns/PrimeBoltor/PrimeBoltor"
+  }
+}

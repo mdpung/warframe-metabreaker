@@ -1,0 +1,48 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "4.83",
+    "Accuracy": "40",
+    "Magazine": "88",
+    "MaxAmmo": "840",
+    "Reload": "1.7 s",
+    "Disposition": "●●●○○ (1.00x)"
+  },
+  "Full-Auto": {
+    "Attack1Total": "67.5 (29.63%)",
+    "Attack1Trigger": "Auto",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "4.83",
+    "Attack1Multishot": "1 (67.5 damage per projectile)",
+    "Attack1StatusChance": "33%",
+    "Attack1CritChance": "21%",
+    "Attack1CritMultiplier": "1.9x"
+  },
+  "Burst-Fire While Aiming": {
+    "Attack2Total": "67.5 (29.63%)",
+    "Attack2Trigger": "Burst",
+    "Attack2ShotType": "Hit-Scan",
+    "Attack2Range": "300 m",
+    "Attack2FireRate": "6.33",
+    "Attack2Accuracy": "90.9",
+    "Attack2BurstCount": "4",
+    "Attack2BurstFireRate": "1.5833",
+    "Attack2BurstDelay": "0 s",
+    "Attack2Multishot": "1 (67.5 damage per projectile)",
+    "Attack2StatusChance": "27%",
+    "Attack2CritChance": "31%",
+    "Attack2CritMultiplier": "2.3x",
+    "Attack2PunchThrough": "0.5 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Users": "Kuva Lich",
+    "Introduced": "Update 26.0 (2019-10-31)",
+    "Variants": "Quartakk Quartakk",
+    "InternalName": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Quartakk/KuvaQuartakk"
+  }
+}

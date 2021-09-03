@@ -1,0 +1,32 @@
+{
+  "Utility": {
+    "AmmoType": "Shotgun",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "3",
+    "Accuracy": "9.1",
+    "Magazine": "8",
+    "MaxAmmo": "120",
+    "Reload": "2.25 s",
+    "Disposition": "●●●○○ (1.10x)"
+  },
+  "Normal": {
+    "Attack1Total": "525 (65%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "3",
+    "Attack1Multishot": "7 (75 damage per projectile)",
+    "Attack1StatusChance": "10.7%",
+    "Attack1CritChance": "25%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1Falloff": "100% damage up to 10 m27% damage at 25 m73% max reduction"
+  },
+  "Miscellaneous": {
+    "SyndicateEffect": "Justice",
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 17.3 (2015-09-02)",
+    "Variants": "Hek HekKuva Hek Kuva Hek",
+    "InternalName": "/Lotus/Weapons/Syndicates/SteelMeridian/LongGuns/SMHek"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "Utility": {
+    "AmmoType": "Sniper",
+    "ShotType": "Projectile",
+    "ShotSpeed": "40 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.5",
+    "Accuracy": "100",
+    "Magazine": "3",
+    "MaxAmmo": "30",
+    "Reload": "2.1 s",
+    "Disposition": "●●●○○ (0.90x)"
+  },
+  "Rocket Impact": {
+    "Attack1Total": "33.75 (56%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "40 m/s",
+    "ForcedProcs": "Impact Damage Impact",
+    "Attack1FireRate": "1.5",
+    "Attack1Multishot": "1 (33.75 damage per projectile)",
+    "Attack1StatusChance": "47%",
+    "Attack1CritChance": "9%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Rocket Explosion": {
+    "Attack2Total": "858.75 (40.64%)",
+    "Attack2ShotType": "AoE",
+    "Attack2Range": "7.9 m",
+    "Attack2FireRate": "1.5",
+    "Attack2Multishot": "1 (858.75 damage per projectile)",
+    "Attack2StatusChance": "47%",
+    "Attack2CritChance": "9%",
+    "Attack2CritMultiplier": "2x",
+    "Attack2Falloff": "100% damage up to 0 m20% damage at 7.9 m80% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Users": "Kuva Lich",
+    "Introduced": "Update 26.0 (2019-10-31)",
+    "Variants": "Ogris Ogris",
+    "InternalName": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Ogris/KuvaOgris"
+  }
+}

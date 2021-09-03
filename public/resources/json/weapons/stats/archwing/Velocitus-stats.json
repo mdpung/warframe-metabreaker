@@ -1,0 +1,42 @@
+{
+  "Utility": {
+    "AmmoType": "Heavy",
+    "ShotType": "Projectile",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "5",
+    "Accuracy": "28.6",
+    "Magazine": "10",
+    "MaxAmmo": "60",
+    "Reload": "2 s",
+    "Disposition": "●●●○○ (1.05x)"
+  },
+  "Uncharged Shot": {
+    "Attack1Total": "600 ( 25%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "? m/s",
+    "Attack1FireRate": "5",
+    "Attack1Multishot": "1 (600 damage per projectile)",
+    "Attack1StatusChance": "25%",
+    "Attack1CritChance": "30%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Charged Shot": {
+    "Attack2Total": "1,600 ( 25%)",
+    "Attack2ShotType": "Projectile",
+    "Attack2ShotSpeed": "? m/s",
+    "Attack2FireRate": "5",
+    "Attack2ChargeTime": "1 s",
+    "Attack2Multishot": "1 (1,600 damage per projectile)",
+    "Attack2StatusChance": "25%",
+    "Attack2CritChance": "60%",
+    "Attack2CritMultiplier": "3.6x",
+    "Attack2PunchThrough": "5 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Update 24.2 (2018-12-18)"
+  }
+}

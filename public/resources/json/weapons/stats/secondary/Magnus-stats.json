@@ -1,0 +1,29 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "5.83",
+    "Accuracy": "16",
+    "Magazine": "8",
+    "MaxAmmo": "210",
+    "Reload": "1.4 s",
+    "Disposition": "●●●●● (1.53x)"
+  },
+  "Normal": {
+    "Attack1Total": "76 ( 45%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1FireRate": "5.83",
+    "Attack1Multishot": "1 (76 damage per projectile)",
+    "Attack1StatusChance": "22%",
+    "Attack1CritChance": "22%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Users": "Volt SpecterEmber Specter",
+    "Introduced": "Update 11.2 (2013-12-04)"
+  }
+}

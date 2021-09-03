@@ -1,0 +1,67 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "20 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.833",
+    "Accuracy": "100",
+    "Magazine": "0",
+    "MaxAmmo": "INF",
+    "Reload": "0 s"
+  },
+  "Uncharged Shot": {
+    "Attack1Total": "500",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "20 m/s",
+    "Attack1FireRate": "0.833",
+    "Attack1Multishot": "1 (500 damage per projectile)",
+    "Attack1StatusChance": "10%",
+    "Attack1CritChance": "5%",
+    "Attack1CritMultiplier": "1.5x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Uncharged AoE": {
+    "Attack2Total": "500",
+    "Attack2ShotType": "AoE",
+    "Attack2FireRate": "0.833",
+    "Attack2Multishot": "1 (500 damage per projectile)",
+    "Attack2StatusChance": "10%",
+    "Attack2CritChance": "5%",
+    "Attack2CritMultiplier": "1.5x",
+    "Attack2PunchThrough": "0 m",
+    "Attack2Radius": "3 m",
+    "Attack2Falloff": "100% damage up to 0 m100% damage at 3 m0% max reduction"
+  },
+  "Charged Shot": {
+    "Attack3Total": "1,000",
+    "Attack3ShotType": "Projectile",
+    "Attack3ShotSpeed": "20 m/s",
+    "Attack3FireRate": "0.833",
+    "Attack3ChargeTime": "2 s",
+    "Attack3Multishot": "1 (1,000 damage per projectile)",
+    "Attack3StatusChance": "10%",
+    "Attack3CritChance": "5%",
+    "Attack3CritMultiplier": "1.5x",
+    "Attack3PunchThrough": "0 m"
+  },
+  "Charged Shot AoE": {
+    "Attack4Total": "1,000",
+    "Attack4ShotType": "AoE",
+    "Attack4FireRate": "0.833",
+    "Attack4ChargeTime": "2 s",
+    "Attack4Multishot": "1 (1,000 damage per projectile)",
+    "Attack4StatusChance": "10%",
+    "Attack4CritChance": "5%",
+    "Attack4CritMultiplier": "1.5x",
+    "Attack4PunchThrough": "0 m",
+    "Attack4Radius": "3 m",
+    "Attack4Falloff": "100% damage up to 0 m100% damage at 3 m0% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Users": "Hildryn",
+    "Introduced": "Update 24.4 (2019-03-08)"
+  }
+}

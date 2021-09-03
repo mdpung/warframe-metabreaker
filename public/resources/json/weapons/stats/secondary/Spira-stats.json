@@ -1,0 +1,31 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Silent",
+    "FireRate": "2.5",
+    "Accuracy": "100",
+    "Magazine": "10",
+    "MaxAmmo": "210",
+    "Reload": "1 s",
+    "Disposition": "●●●●○ (1.30x)"
+  },
+  "Normal": {
+    "Attack1Total": "82 ( 60%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "? m/s",
+    "Attack1FireRate": "2.5",
+    "Attack1Multishot": "1 (82 damage per projectile)",
+    "Attack1StatusChance": "8%",
+    "Attack1CritChance": "30%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 17.4.5 (2015-09-23)",
+    "Variants": " Spira Prime"
+  }
+}

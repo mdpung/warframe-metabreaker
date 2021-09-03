@@ -1,0 +1,31 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Discharge",
+    "NoiseLevel": "Alarming",
+    "FireRate": "12",
+    "Accuracy": "12.5",
+    "Magazine": "100",
+    "MaxAmmo": "700",
+    "Reload": "2.6 s",
+    "Disposition": "●●○○○ (0.75x)"
+  },
+  "Normal": {
+    "Attack1Total": "22",
+    "Attack1ShotType": "Discharge",
+    "Attack1Range": "18 m",
+    "Attack1FireRate": "12",
+    "Attack1Multishot": "1 (22 damage per projectile)",
+    "Attack1StatusChance": "22%",
+    "Attack1CritChance": "32%",
+    "Attack1CritMultiplier": "2.2x",
+    "Attack1AmmoCost": "0.5"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Users": "M-W.A.M.",
+    "Introduced": "Update 13.1 (2014-04-23)",
+    "InternalName": "/Lotus/Weapons/Corpus/LongGuns/ChainLightningGun/ChainLightningRifle"
+  }
+}

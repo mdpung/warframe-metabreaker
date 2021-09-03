@@ -1,0 +1,30 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "75 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "2.5",
+    "Accuracy": "100",
+    "Magazine": "11",
+    "MaxAmmo": "210",
+    "Reload": "1.2 s",
+    "Disposition": "●●●●● (1.45x)"
+  },
+  "Normal": {
+    "Attack1Total": "130 ( 62.31%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "75 m/s",
+    "Attack1FireRate": "2.5",
+    "Attack1Multishot": "1 (130 damage per projectile)",
+    "Attack1StatusChance": "50%",
+    "Attack1CritChance": "3%",
+    "Attack1CritMultiplier": "1.5x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Introduced": "Update 11.7 (2014-01-15)"
+  }
+}

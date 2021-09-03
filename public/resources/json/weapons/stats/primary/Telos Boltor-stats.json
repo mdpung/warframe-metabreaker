@@ -1,0 +1,32 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Projectile",
+    "ShotSpeed": "65 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "9.33",
+    "Accuracy": "25",
+    "Magazine": "90",
+    "MaxAmmo": "540",
+    "Reload": "2.4 s",
+    "Disposition": "●●●●○ (1.15x)"
+  },
+  "Normal": {
+    "Attack1Total": "30 (90%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "65 m/s",
+    "Attack1FireRate": "9.33",
+    "Attack1Multishot": "1 (30 damage per projectile)",
+    "Attack1StatusChance": "16%",
+    "Attack1CritChance": "30%",
+    "Attack1CritMultiplier": "2.4x"
+  },
+  "Miscellaneous": {
+    "SyndicateEffect": "Truth",
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 17.3 (2015-09-02)",
+    "Variants": "Boltor Prime Boltor PrimeBoltor Boltor",
+    "InternalName": "/Lotus/Weapons/Syndicates/ArbitersOfHexis/LongGuns/AHBoltor"
+  }
+}

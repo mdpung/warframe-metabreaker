@@ -1,0 +1,45 @@
+{
+  "Utility": {
+    "AmmoType": "Shotgun",
+    "ShotType": "Projectile",
+    "ShotSpeed": "100 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "3.33",
+    "Accuracy": "1.4",
+    "Magazine": "7",
+    "MaxAmmo": "120",
+    "Reload": "2.3 s",
+    "Disposition": "●●●●● (1.40x)"
+  },
+  "Uncharged Shot": {
+    "Attack1Total": "400 (60%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "100 m/s",
+    "Attack1FireRate": "3.33",
+    "Attack1Multishot": "10 (40 damage per projectile)",
+    "Attack1StatusChance": "6.9%",
+    "Attack1CritChance": "7.5%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "1.5 m"
+  },
+  "Charged Shot": {
+    "Attack2Total": "700 (80%)",
+    "Attack2ShotType": "Projectile",
+    "Attack2ShotSpeed": "? m/s",
+    "Attack2FireRate": "3.33",
+    "Attack2ChargeTime": "0.5 s",
+    "Attack2Multishot": "10 (70 damage per projectile)",
+    "Attack2StatusChance": "6.9%",
+    "Attack2CritChance": "7.5%",
+    "Attack2CritMultiplier": "2x",
+    "Attack2PunchThrough": "2 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Users": "RethKuva Heavy Gunner",
+    "Introduced": "Update 11.6 (2014-01-08)",
+    "Variants": "Kuva Drakgoon Kuva Drakgoon",
+    "InternalName": "/Lotus/Weapons/Grineer/LongGuns/GrineerFlakCannon/FlakCannon"
+  }
+}

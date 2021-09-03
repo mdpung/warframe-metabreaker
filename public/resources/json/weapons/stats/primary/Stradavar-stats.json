@@ -1,0 +1,43 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "10",
+    "Accuracy": "14.3",
+    "Magazine": "65",
+    "MaxAmmo": "540",
+    "Reload": "2 s",
+    "Disposition": "●●●○○ (1.10x)"
+  },
+  "Full Auto Mode": {
+    "Attack1Total": "28 (35%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "10",
+    "Attack1Accuracy": "14.3",
+    "Attack1Multishot": "1 (28 damage per projectile)",
+    "Attack1StatusChance": "12%",
+    "Attack1CritChance": "24%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Semi-Auto Mode": {
+    "Attack2Total": "50 (60%)",
+    "Attack2Trigger": "Semi-Auto",
+    "Attack2ShotType": "Hit-Scan",
+    "Attack2Range": "300 m",
+    "Attack2FireRate": "5",
+    "Attack2Accuracy": "28.6",
+    "Attack2Multishot": "1 (50 damage per projectile)",
+    "Attack2StatusChance": "16%",
+    "Attack2CritChance": "28%",
+    "Attack2CritMultiplier": "2x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 18.11 (2016-05-11)",
+    "Variants": "Stradavar Prime Stradavar Prime",
+    "InternalName": "/Lotus/Weapons/Tenno/LongGuns/TennoTommyGun/TennoTommyGunRifle"
+  }
+}

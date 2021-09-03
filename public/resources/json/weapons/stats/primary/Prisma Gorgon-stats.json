@@ -1,0 +1,31 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "14.17",
+    "Spool": "7",
+    "Accuracy": "20",
+    "Magazine": "120",
+    "MaxAmmo": "840",
+    "Reload": "3 s",
+    "Disposition": "●●●●○ (1.30x)"
+  },
+  "Fully Spooled": {
+    "Attack1Total": "23 (75%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "14.17",
+    "Attack1Multishot": "1 (23 damage per projectile)",
+    "Attack1StatusChance": "15%",
+    "Attack1CritChance": "30%",
+    "Attack1CritMultiplier": "2.3x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Introduced": "Hotfix 15.11.1 (2015-01-22)",
+    "Variants": "Gorgon Wraith Gorgon WraithGorgon Gorgon",
+    "InternalName": "/Lotus/Weapons/Grineer/LongGuns/VoidTraderGorgon/VTGorgon"
+  }
+}

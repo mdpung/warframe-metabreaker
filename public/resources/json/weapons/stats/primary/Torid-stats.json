@@ -1,0 +1,41 @@
+{
+  "Utility": {
+    "AmmoType": "Sniper",
+    "ShotType": "Projectile",
+    "ShotSpeed": "25 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.5",
+    "Accuracy": "100",
+    "Magazine": "5",
+    "MaxAmmo": "60",
+    "Reload": "1.7 s",
+    "Disposition": "●●●●○ (1.30x)"
+  },
+  "Grenade Impact": {
+    "Attack1Total": "100",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "25 m/s",
+    "Attack1FireRate": "1.5",
+    "Attack1Multishot": "1 (100 damage per projectile)",
+    "Attack1StatusChance": "23%",
+    "Attack1CritChance": "15%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Poison Cloud": {
+    "Attack2Total": "40",
+    "Attack2ShotType": "AoE",
+    "Attack2Range": "3 m",
+    "Attack2FireRate": "1",
+    "Attack2Multishot": "1 (40 damage per projectile)",
+    "Attack2StatusChance": "23%",
+    "Attack2CritChance": "15%",
+    "Attack2CritMultiplier": "2x",
+    "Attack2Falloff": "100% damage up to 0 m0% damage at 3 m100% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Introduced": "Update 8.0 (2013-05-23)",
+    "InternalName": "/Lotus/Weapons/ClanTech/Bio/BioWeapon"
+  }
+}

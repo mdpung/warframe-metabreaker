@@ -1,0 +1,58 @@
+{
+  "Utility": {
+    "AmmoType": "Sniper",
+    "ShotType": "Projectile",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.83",
+    "Accuracy": "100",
+    "Magazine": "9",
+    "MaxAmmo": "45",
+    "Reload": "2.7 s",
+    "SniperComboReset": "2 s",
+    "SniperComboMin": "3 shots",
+    "Disposition": "●●●○○ (1.10x)"
+  },
+  "Unzoomed": {
+    "Attack1Total": "371 (42%)",
+    "Attack1Trigger": "Semi-Auto",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "? m/s",
+    "Attack1FireRate": "1.83",
+    "Attack1Multishot": "1 (371 damage per projectile)",
+    "Attack1StatusChance": "53%",
+    "Attack1CritChance": "1%",
+    "Attack1CritMultiplier": "3x",
+    "Attack1Falloff": "100% damage up to 400 m50% damage at 600 m50% max reduction"
+  },
+  "2.7x Zoom": {
+    "Attack2Total": "371 (42%)",
+    "Attack2Trigger": "Semi-Auto",
+    "Attack2ShotType": "Projectile",
+    "Attack2ShotSpeed": "? m/s",
+    "Attack2FireRate": "1.83",
+    "Attack2Multishot": "1 (371 damage per projectile)",
+    "Attack2StatusChance": "53%",
+    "Attack2CritChance": "1%",
+    "Attack2CritMultiplier": "3x",
+    "Attack2Falloff": "100% damage up to 400 m50% damage at 600 m50% max reduction"
+  },
+  "AoE": {
+    "Attack3Total": "41 (53.66%)",
+    "Attack3ShotType": "AoE",
+    "Attack3Range": "1.7 m",
+    "Attack3FireRate": "1.83",
+    "Attack3Multishot": "1 (41 damage per projectile)",
+    "Attack3StatusChance": "53%",
+    "Attack3CritChance": "1%",
+    "Attack3CritMultiplier": "3x",
+    "Attack3ExplosionDelay": "3 s",
+    "Attack3Falloff": "100% damage up to 0 m90% damage at 1.7 m10% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 29.5 (2020-11-19)",
+    "InternalName": "/Lotus/Weapons/Infested/LongGuns/InfSniperRifle/InfSniperRifle"
+  }
+}

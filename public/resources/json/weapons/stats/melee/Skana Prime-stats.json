@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "ComboDur": "5 s",
+    "BlockAngle": "50°",
+    "FollowThrough": "60%",
+    "Disposition": "●●●●○ (1.20x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "210 (70%)",
+    "Attack1FireRate": "1",
+    "Attack1StatusChance": "26%",
+    "Attack1CritChance": "26%",
+    "Attack1CritMultiplier": "2.6x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,050",
+    "WindUp": "0.6 s",
+    "HeavySlamAttack": "840",
+    "HeavySlamRadius": "7 m",
+    "HeavyRadialDmg": "840"
+  },
+  "Slam Attack": {
+    "SlamAttack": "630",
+    "SlamRadius": "7 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "210"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 5.0 (2012-12-18)",
+    "Variants": "Prisma Skana Prisma SkanaSkana Skana",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/LongSword/SkanaPrime"
+  }
+}

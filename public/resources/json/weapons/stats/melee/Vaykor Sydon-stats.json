@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.08",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "60%",
+    "Disposition": "●●●●○ (1.30x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "213 (95%)",
+    "Attack1FireRate": "1.08",
+    "Attack1StatusChance": "33%",
+    "Attack1CritChance": "21%",
+    "Attack1CritMultiplier": "2.5x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,278",
+    "WindUp": "0.9 s",
+    "HeavySlamAttack": "1,065",
+    "HeavySlamRadius": "8 m",
+    "HeavyRadialDmg": "1,065"
+  },
+  "Slam Attack": {
+    "SlamAttack": "639",
+    "SlamRadius": "7 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "426"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update: The Silver Grove 2.0 (2016-09-15)",
+    "Variants": "Sydon Sydon",
+    "InternalName": "/Lotus/Weapons/Syndicates/SteelMeridian/Melee/SMSydon"
+  }
+}

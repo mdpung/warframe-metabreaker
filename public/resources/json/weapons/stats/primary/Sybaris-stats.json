@@ -1,0 +1,33 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "3.98",
+    "Accuracy": "28.6",
+    "Magazine": "10",
+    "MaxAmmo": "540",
+    "Reload": "2 s",
+    "Disposition": "●●●●○ (1.25x)"
+  },
+  "Normal": {
+    "Attack1Total": "80 (34%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "3.98",
+    "Attack1BurstCount": "2",
+    "Attack1BurstFireRate": "3.33",
+    "Attack1BurstDelay": "0.105 s",
+    "Attack1Multishot": "1 (80 damage per projectile)",
+    "Attack1StatusChance": "10%",
+    "Attack1CritChance": "25%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Introduced": "Update 13.3 (2014-05-14)",
+    "Variants": "Dex Sybaris Dex SybarisSybaris Prime Sybaris Prime",
+    "InternalName": "/Lotus/Weapons/Tenno/LongGuns/TnoLeverAction/TnoLeverActionRifle"
+  }
+}

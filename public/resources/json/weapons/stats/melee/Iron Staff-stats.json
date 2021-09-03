@@ -1,0 +1,37 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "ComboDur": "5 s",
+    "BlockAngle": "65°",
+    "FollowThrough": "100%"
+  },
+  "Normal Attack": {
+    "Attack1Total": "250 (68%)",
+    "Attack1FireRate": "1",
+    "Attack1StatusChance": "30%",
+    "Attack1CritChance": "25%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,250",
+    "WindUp": "0.5 s",
+    "HeavySlamAttack": "1,250",
+    "HeavySlamRadius": "10 m",
+    "HeavyRadialDmg": "1,250"
+  },
+  "Slam Attack": {
+    "SlamAttack": "750",
+    "SlamRadius": "7 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "250"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "None",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Users": "WukongWukong Prime",
+    "Introduced": "Update 23.0 (2018-06-15)"
+  }
+}

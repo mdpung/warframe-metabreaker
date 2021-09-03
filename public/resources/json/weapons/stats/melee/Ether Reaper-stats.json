@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.08",
+    "ComboDur": "5 s",
+    "BlockAngle": "60°",
+    "FollowThrough": "60%",
+    "Disposition": "●●●●● (1.45x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "180 (70%)",
+    "Attack1FireRate": "1.08",
+    "Attack1StatusChance": "20%",
+    "Attack1CritChance": "20%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,080",
+    "WindUp": "1 s",
+    "HeavySlamAttack": "900",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "900"
+  },
+  "Slam Attack": {
+    "SlamAttack": "540",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "360"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Users": "Misery",
+    "Introduced": "Update 10.0 (2013-09-13)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Scythe/EtherScytheWeapon"
+  }
+}

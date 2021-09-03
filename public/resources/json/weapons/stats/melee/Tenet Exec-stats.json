@@ -1,0 +1,38 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "40%",
+    "Disposition": "●○○○○ (0.50x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "237.5 (43.2%)",
+    "Attack1FireRate": "1",
+    "Attack1StatusChance": "22%",
+    "Attack1CritChance": "38%",
+    "Attack1CritMultiplier": "2.4x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,425",
+    "WindUp": "1.1 s",
+    "HeavySlamAttack": "1,187.5",
+    "HeavySlamRadius": "4 m",
+    "HeavyRadialDmg": "1,187.5"
+  },
+  "Slam Attack": {
+    "SlamAttack": "712.5",
+    "SlamRadius": "4 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "475"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Update 30.5 (2021-07-06)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Swords/CrpBigSlash/CrpBigSlash"
+  }
+}

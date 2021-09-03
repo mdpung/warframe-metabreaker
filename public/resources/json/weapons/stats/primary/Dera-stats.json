@@ -1,0 +1,32 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Projectile",
+    "ShotSpeed": "100 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "11.25",
+    "Accuracy": "100",
+    "Magazine": "45",
+    "MaxAmmo": "540",
+    "Reload": "1.8 s",
+    "Disposition": "●●●●● (1.40x)"
+  },
+  "Normal": {
+    "Attack1Total": "30 (75%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "100 m/s",
+    "Attack1FireRate": "11.25",
+    "Attack1Multishot": "1 (30 damage per projectile)",
+    "Attack1StatusChance": "22%",
+    "Attack1CritChance": "8%",
+    "Attack1CritMultiplier": "1.6x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Users": "CrewmanCorrupted LancerRanger",
+    "Introduced": "Update 8.0 (2013-05-23)",
+    "Variants": "Dera Vandal Dera Vandal",
+    "InternalName": "/Lotus/Weapons/ClanTech/Energy/EnergyRifle"
+  }
+}

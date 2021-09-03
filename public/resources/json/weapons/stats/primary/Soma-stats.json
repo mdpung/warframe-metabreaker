@@ -1,0 +1,32 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "15",
+    "Spool": "8",
+    "Accuracy": "28.6",
+    "Magazine": "100",
+    "MaxAmmo": "540",
+    "Reload": "3 s",
+    "Disposition": "●●●○○ (1.10x)"
+  },
+  "Fully Spooled": {
+    "Attack1Total": "12 (50%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "15",
+    "Attack1Multishot": "1 (12 damage per projectile)",
+    "Attack1StatusChance": "7%",
+    "Attack1CritChance": "30%",
+    "Attack1CritMultiplier": "3x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Users": "Rhino Specter",
+    "Introduced": "Update 10.0 (2013-09-13)",
+    "Variants": "Soma Prime Soma Prime",
+    "InternalName": "/Lotus/Weapons/Tenno/Rifle/TennoAR"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "Utility": {
+    "AmmoType": "Shotgun",
+    "ShotType": "Projectile",
+    "ShotSpeed": "75 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "4.33",
+    "Accuracy": "25",
+    "Magazine": "24",
+    "MaxAmmo": "120",
+    "Reload": "2 s",
+    "Disposition": "●○○○○ (0.50x)"
+  },
+  "Slug Impact": {
+    "Attack1Total": "100",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "75 m/s",
+    "ForcedProcs": "Impact Damage Impact",
+    "Attack1FireRate": "4.33",
+    "Attack1Multishot": "1 (100 damage per projectile)",
+    "Attack1StatusChance": "37%",
+    "Attack1CritChance": "21%",
+    "Attack1CritMultiplier": "1.9x",
+    "Attack1Falloff": "100% damage up to 30 m50% damage at 60 m50% max reduction"
+  },
+  "Glass Explosion": {
+    "Attack2Total": "140 (65%)",
+    "Attack2ShotType": "AoE",
+    "Attack2Range": "2.4 m",
+    "Attack2FireRate": "4.33",
+    "Attack2Multishot": "1 (140 damage per projectile)",
+    "Attack2StatusChance": "37%",
+    "Attack2CritChance": "21%",
+    "Attack2CritMultiplier": "1.9x",
+    "Attack2Falloff": "100% damage up to 0 m70% damage at 2.4 m30% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 30.3 (2021-05-25)",
+    "Variants": "Astilla Astilla",
+    "InternalName": "/Lotus/Weapons/Tenno/LongGuns/PrimeAstilla/AstillaPrimeWeapon"
+  }
+}

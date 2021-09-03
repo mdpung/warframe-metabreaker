@@ -1,0 +1,90 @@
+{
+  "Utility": {
+    "AmmoType": 19,
+    "ShotType": 19,
+    "ShotSpeed": 10,
+    "NoiseLevel": 19,
+    "FireRate": 19,
+    "Accuracy": 19,
+    "Magazine": 19,
+    "MaxAmmo": 19,
+    "Reload": 19,
+    "Disposition": 19
+  },
+  "Normal": {
+    "Attack1Total": 16,
+    "Attack1ShotType": 16,
+    "Attack1ShotSpeed": 8,
+    "Attack1FireRate": 16,
+    "Attack1Multishot": 16,
+    "Attack1StatusChance": 16,
+    "Attack1CritChance": 16,
+    "Attack1CritMultiplier": 16,
+    "Attack1PunchThrough": 16,
+    "Attack1Trigger": 1,
+    "Attack1BurstCount": 1,
+    "Attack1BurstDelay": 3,
+    "ForcedProcs": 1
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": 19,
+    "Polarities": 19,
+    "Introduced": 19,
+    "Variants": 10
+  },
+  "Explosion": {
+    "Attack5Total": 1,
+    "Attack5ShotType": 1,
+    "Attack5FireRate": 1,
+    "Attack5Multishot": 1,
+    "Attack5StatusChance": 1,
+    "Attack5CritChance": 1,
+    "Attack5CritMultiplier": 1,
+    "Attack5PunchThrough": 1,
+    "Attack5Radius": 1
+  },
+  "Charged Attack": {
+    "Attack1Total": 1,
+    "Attack1ShotType": 1,
+    "Attack1FireRate": 1,
+    "Attack1ChargeTime": 1,
+    "Attack1Multishot": 1,
+    "Attack1StatusChance": 1,
+    "Attack1CritChance": 1,
+    "Attack1CritMultiplier": 1,
+    "Attack1PunchThrough": 1
+  },
+  "First Attack": {
+    "Attack1Total": 2,
+    "Attack1ShotType": 2,
+    "Attack1ShotSpeed": 2,
+    "Attack1FireRate": 2,
+    "Attack1Multishot": 2,
+    "Attack1StatusChance": 2,
+    "Attack1CritChance": 2,
+    "Attack1CritMultiplier": 2,
+    "Attack1PunchThrough": 2
+  },
+  "Second Attack": {
+    "Attack2Total": 2,
+    "Attack2ShotType": 2,
+    "Attack2ShotSpeed": 2,
+    "Attack2FireRate": 2,
+    "Attack2Multishot": 2,
+    "Attack2StatusChance": 2,
+    "Attack2CritChance": 2,
+    "Attack2CritMultiplier": 2,
+    "Attack2PunchThrough": 2
+  },
+  "Third Attack": {
+    "Attack3Total": 2,
+    "Attack3ShotType": 2,
+    "Attack3ShotSpeed": 2,
+    "Attack3FireRate": 2,
+    "Attack3Multishot": 2,
+    "Attack3StatusChance": 2,
+    "Attack3CritChance": 2,
+    "Attack3CritMultiplier": 2,
+    "Attack3PunchThrough": 2
+  }
+}

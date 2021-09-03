@@ -1,0 +1,58 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.5",
+    "Accuracy": "80",
+    "Magazine": "1",
+    "MaxAmmo": "60",
+    "Reload": "0.6 s",
+    "Disposition": "●○○○○ (0.50x)"
+  },
+  "Charged Shot": {
+    "Attack1Total": "300 ( 45%)",
+    "Attack1Trigger": "Charge",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "? m/s",
+    "ForcedProcs": " ",
+    "Attack1FireRate": "1.5",
+    "Attack1ChargeTime": "0.36 s",
+    "Attack1Multishot": "1 (300 damage per projectile)",
+    "Attack1StatusChance": "4%",
+    "Attack1CritChance": "48%",
+    "Attack1CritMultiplier": "2.6x",
+    "Attack1PunchThrough": "2 m"
+  },
+  "Uncharged Direct Hit": {
+    "Attack2Total": "100 ( 40%)",
+    "Attack2Trigger": "Semi-Auto",
+    "Attack2ShotType": "Projectile",
+    "Attack2ShotSpeed": "? m/s",
+    "ForcedProcs": " ,  ",
+    "Attack2FireRate": "1.5",
+    "Attack2Multishot": "1 (100 damage per projectile)",
+    "Attack2StatusChance": "50%",
+    "Attack2CritChance": "2%",
+    "Attack2CritMultiplier": "1.2x",
+    "Attack2PunchThrough": "0 m"
+  },
+  "Uncharged AoE": {
+    "Attack3Total": "20",
+    "Attack3ShotType": "AoE",
+    "Attack3FireRate": "1.5",
+    "Attack3Multishot": "1 (20 damage per projectile)",
+    "Attack3StatusChance": "50%",
+    "Attack3CritChance": "2%",
+    "Attack3CritMultiplier": "1.2x",
+    "Attack3PunchThrough": "0 m",
+    "Attack3Radius": "8 m",
+    "Attack3Falloff": "100% damage up to 0 m20% damage at 8 m80% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 30.0 (2021-04-13)"
+  }
+}

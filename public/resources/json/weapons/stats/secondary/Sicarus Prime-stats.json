@@ -1,0 +1,31 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "9.38",
+    "Accuracy": "25",
+    "Magazine": "24",
+    "MaxAmmo": "210",
+    "Reload": "2 s",
+    "Disposition": "●●●●○ (1.20x)"
+  },
+  "Normal": {
+    "Attack1Total": "50 ( 40%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1FireRate": "9.38",
+    "Attack1BurstCount": "3",
+    "Attack1BurstDelay": "0.04 s",
+    "Attack1Multishot": "1 (50 damage per projectile)",
+    "Attack1StatusChance": "20%",
+    "Attack1CritChance": "25%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 11.0 (2013-11-20)",
+    "Variants": " Sicarus"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "10",
+    "Accuracy": "23.5",
+    "Magazine": "28",
+    "MaxAmmo": "210",
+    "Reload": "1.1 s",
+    "Disposition": "●●●○○ (0.95x)"
+  },
+  "Normal": {
+    "Attack1Total": "28 ( 60%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1FireRate": "10",
+    "Attack1Multishot": "1 (28 damage per projectile)",
+    "Attack1StatusChance": "18%",
+    "Attack1CritChance": "18%",
+    "Attack1CritMultiplier": "1.8x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 12.0 (2014-02-05)",
+    "Variants": " Akstiletto Prime"
+  }
+}

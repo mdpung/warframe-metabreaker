@@ -1,0 +1,38 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "50%",
+    "Disposition": "●●●●● (1.41x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "190 (52.63%)",
+    "Attack1FireRate": "1",
+    "Attack1StatusChance": "35%",
+    "Attack1CritChance": "10%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "950",
+    "WindUp": "0.5 s",
+    "HeavySlamAttack": "760",
+    "HeavySlamRadius": "7 m",
+    "HeavyRadialDmg": "760"
+  },
+  "Slam Attack": {
+    "SlamAttack": "380",
+    "SlamRadius": "6 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "380"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Update 17.4 (2015-09-09)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Nunchaku/Nunchaku/Nunchaku"
+  }
+}

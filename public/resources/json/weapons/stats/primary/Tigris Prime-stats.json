@@ -1,0 +1,31 @@
+{
+  "Utility": {
+    "AmmoType": "Shotgun",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "2",
+    "Accuracy": "9.1",
+    "Magazine": "2",
+    "MaxAmmo": "120",
+    "Reload": "1.8 s",
+    "Disposition": "●●○○○ (0.85x)"
+  },
+  "Normal": {
+    "Attack1Total": "1,560 (80%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "2",
+    "Attack1Multishot": "8 (195 damage per projectile)",
+    "Attack1StatusChance": "11.25%",
+    "Attack1CritChance": "10%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1Falloff": "100% damage up to 10 m51% damage at 20 m49% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Hotfix: The Silver Grove 3 (2016-08-23)",
+    "Variants": "Sancti Tigris Sancti TigrisTigris Tigris",
+    "InternalName": "/Lotus/Weapons/Tenno/LongGuns/PrimeTigris/PrimeTigris"
+  }
+}

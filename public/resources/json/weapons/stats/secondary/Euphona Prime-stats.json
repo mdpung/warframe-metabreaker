@@ -1,0 +1,41 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "180 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.5",
+    "Accuracy": "100",
+    "Magazine": "5",
+    "MaxAmmo": "40",
+    "Reload": "2 s",
+    "Disposition": "●●○○○ (0.80x)"
+  },
+  "Slug": {
+    "Attack1Total": "325 ( 90%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "180 m/s",
+    "Attack1FireRate": "1.5",
+    "Attack1Multishot": "1 (325 damage per projectile)",
+    "Attack1StatusChance": "2%",
+    "Attack1CritChance": "30%",
+    "Attack1CritMultiplier": "2.5x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Buckshot": {
+    "Attack2Total": "880 ( 75%)",
+    "Attack2ShotType": "Hit-Scan",
+    "Attack2FireRate": "1.5",
+    "Attack2Multishot": "10 (88 damage per projectile)",
+    "Attack2StatusChance": "9%",
+    "Attack2CritChance": "2%",
+    "Attack2CritMultiplier": "2x",
+    "Attack2PunchThrough": "0 m",
+    "Attack2Falloff": "100% damage up to 6 m1% damage at 12 m99% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Hotfix 19.11.5 (2017-02-28)"
+  }
+}

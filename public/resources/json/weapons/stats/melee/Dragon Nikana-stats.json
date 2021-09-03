@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "70%",
+    "Disposition": "●●●●○ (1.15x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "188 (85%)",
+    "Attack1FireRate": "1",
+    "Attack1StatusChance": "22%",
+    "Attack1CritChance": "22%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "940",
+    "WindUp": "0.5 s",
+    "HeavySlamAttack": "752",
+    "HeavySlamRadius": "7 m",
+    "HeavyRadialDmg": "752"
+  },
+  "Slam Attack": {
+    "SlamAttack": "564",
+    "SlamRadius": "6 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "376"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 13.0 (2014-04-09)",
+    "Variants": "Nikana Prime Nikana PrimeNikana Nikana",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Swords/KatanaAndWakizashi/LowKatana"
+  }
+}

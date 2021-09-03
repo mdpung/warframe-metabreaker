@@ -1,0 +1,87 @@
+{
+  "Utility": {
+    "ShotType": "Thrown",
+    "ShotSpeed": "30 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.17",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "70%",
+    "Disposition": "●●○○○ (0.75x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "225 (80%)",
+    "Attack1FireRate": "1.17",
+    "Attack1StatusChance": "35%",
+    "Attack1CritChance": "19%",
+    "Attack1CritMultiplier": "2.3x"
+  },
+  "Throw": {
+    "Attack2Total": "263.1 (33.33%)",
+    "Attack2ShotType": "Thrown",
+    "Attack2ShotSpeed": "30 m/s",
+    "ForcedProcs": "Impact Damage Impact",
+    "Attack2Range": "30 m",
+    "Attack2FireRate": "1.17",
+    "Attack2StatusChance": "39%",
+    "Attack2CritChance": "21%",
+    "Attack2CritMultiplier": "2.3x"
+  },
+  "Throw Explosion": {
+    "Attack3Total": "658",
+    "Attack3ShotType": "AoE",
+    "ForcedProcs": "Impact Damage Impact",
+    "Attack3Range": "5.1 m",
+    "Attack3FireRate": "1.17",
+    "Attack3StatusChance": "39%",
+    "Attack3CritChance": "21%",
+    "Attack3CritMultiplier": "2.3x",
+    "Attack3Falloff": "100% damage up to 0 m100% damage at 5.1 m0% max reduction"
+  },
+  "Charged Throw": {
+    "Attack4Total": "497 (84.83%)",
+    "Attack4ShotType": "Thrown",
+    "Attack4ShotSpeed": "30 m/s",
+    "ForcedProcs": "Impact Damage Impact",
+    "Attack4Range": "30 m",
+    "Attack4FireRate": "0.833",
+    "Attack4ChargeTime": "1.2 s",
+    "Attack4StatusChance": "41%",
+    "Attack4CritChance": "21%",
+    "Attack4CritMultiplier": "2.5x",
+    "Attack4PunchThrough": "1 m"
+  },
+  "Charged Throw Explosion": {
+    "Attack5Total": "1,314",
+    "Attack5ShotType": "AoE",
+    "ForcedProcs": "Impact Damage Impact",
+    "Attack5Range": "5.1 m",
+    "Attack5FireRate": "0.833",
+    "Attack5ChargeTime": "1.2 s",
+    "Attack5StatusChance": "41%",
+    "Attack5CritChance": "21%",
+    "Attack5CritMultiplier": "2.5x",
+    "Attack5Falloff": "100% damage up to 0 m100% damage at 5.1 m0% max reduction"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "0",
+    "WindUp": "1.2 s",
+    "HeavySlamAttack": "900",
+    "HeavySlamRadius": "6 m",
+    "HeavyRadialDmg": "900"
+  },
+  "Slam Attack": {
+    "SlamAttack": "675",
+    "SlamRadius": "5 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "450"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Hotfix 29.10.10 (2021-04-05)",
+    "InternalName": "/Lotus/Weapons/Grineer/Melee/GrnBoomerang/HalikarWraithWeapon"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Hit-Scan",
+    "Range": "50 m",
+    "NoiseLevel": "Alarming",
+    "FireRate": "14.8",
+    "Accuracy": "100",
+    "Magazine": "0",
+    "MaxAmmo": "INF",
+    "Reload": "0 s"
+  },
+  "Normal": {
+    "Attack1Total": "50 ( 50%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "50 m",
+    "Attack1FireRate": "14.8",
+    "Attack1Multishot": "1 (50 damage per projectile)",
+    "Attack1StatusChance": "10%",
+    "Attack1CritChance": "25%",
+    "Attack1CritMultiplier": "3x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Users": "MesaMesa Prime",
+    "Introduced": "Update 23.0 (2018-06-15)"
+  }
+}

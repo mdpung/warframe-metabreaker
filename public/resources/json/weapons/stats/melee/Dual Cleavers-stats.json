@@ -1,0 +1,40 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.833",
+    "ComboDur": "5 s",
+    "BlockAngle": "60°",
+    "FollowThrough": "50%",
+    "Disposition": "●●●●○ (1.20x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "157 (70%)",
+    "Attack1FireRate": "0.833",
+    "Attack1StatusChance": "10%",
+    "Attack1CritChance": "25%",
+    "Attack1CritMultiplier": "3x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "628",
+    "WindUp": "0.7 s",
+    "HeavySlamAttack": "628",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "628"
+  },
+  "Slam Attack": {
+    "SlamAttack": "314",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "314"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Users": "Butcher (single blade)Corrupted Butcher (single blade)",
+    "Introduced": "Update 8.0 (2013-05-23)",
+    "Variants": "Prisma Dual Cleavers Prisma Dual Cleavers",
+    "InternalName": "/Lotus/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/DualCleaverWeapon"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.08",
+    "ComboDur": "5 s",
+    "BlockAngle": "50°",
+    "FollowThrough": "40%",
+    "Disposition": "●●●●● (1.35x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "280 (85%)",
+    "Attack1FireRate": "1.08",
+    "Attack1StatusChance": "40%",
+    "Attack1CritChance": "16%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,680",
+    "WindUp": "1.2 s",
+    "HeavySlamAttack": "1,400",
+    "HeavySlamRadius": "10 m",
+    "HeavyRadialDmg": "1,400"
+  },
+  "Slam Attack": {
+    "SlamAttack": "840",
+    "SlamRadius": "9 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "560"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Update: The Silver Grove 2.0 (2016-09-15)",
+    "Variants": "Heliocor Heliocor",
+    "InternalName": "/Lotus/Weapons/Syndicates/CephalonSuda/Melee/CSHeliocor"
+  }
+}

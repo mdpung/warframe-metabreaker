@@ -1,0 +1,29 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "2.08",
+    "Accuracy": "16",
+    "Magazine": "8",
+    "MaxAmmo": "210",
+    "Reload": "2.35 s",
+    "Disposition": "●●●●○ (1.20x)"
+  },
+  "Normal": {
+    "Attack1Total": "150 ( 80%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1FireRate": "2.08",
+    "Attack1Multishot": "1 (150 damage per projectile)",
+    "Attack1StatusChance": "25%",
+    "Attack1CritChance": "25%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 13.0 (2014-04-09)",
+    "Variants": " Lex"
+  }
+}

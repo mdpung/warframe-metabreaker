@@ -1,0 +1,38 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.917",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "60%",
+    "Disposition": "●●●●● (1.40x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "120 (75%)",
+    "Attack1FireRate": "0.917",
+    "Attack1StatusChance": "16%",
+    "Attack1CritChance": "8%",
+    "Attack1CritMultiplier": "1.5x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "600",
+    "WindUp": "0.6 s",
+    "HeavySlamAttack": "480",
+    "HeavySlamRadius": "8 m",
+    "HeavyRadialDmg": "480"
+  },
+  "Slam Attack": {
+    "SlamAttack": "360",
+    "SlamRadius": "7 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "120"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 5.0 (2012-12-18)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Swords/JawSword/JawLongSword"
+  }
+}

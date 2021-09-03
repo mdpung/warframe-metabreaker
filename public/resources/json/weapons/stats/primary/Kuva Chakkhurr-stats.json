@@ -1,0 +1,44 @@
+{
+  "Utility": {
+    "AmmoType": "Sniper",
+    "ShotType": "Projectile",
+    "ShotSpeed": "180 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.17",
+    "Accuracy": "100",
+    "Magazine": "11",
+    "MaxAmmo": "55",
+    "Reload": "3.3 s",
+    "Disposition": "●●○○○ (0.85x)"
+  },
+  "Normal": {
+    "Attack1Total": "325 (80%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "180 m/s",
+    "ForcedProcs": "Impact Damage Impact",
+    "Attack1FireRate": "1.17",
+    "Attack1Multishot": "1 (325 damage per projectile)",
+    "Attack1StatusChance": "27%",
+    "Attack1CritChance": "50%",
+    "Attack1CritMultiplier": "2.3x"
+  },
+  "Explosion": {
+    "Attack2Total": "132.5 (39.25%)",
+    "Attack2ShotType": "AoE",
+    "ForcedProcs": "Impact Damage Impact",
+    "Attack2Range": "2.9 m",
+    "Attack2FireRate": "1.17",
+    "Attack2Multishot": "1 (132.5 damage per projectile)",
+    "Attack2StatusChance": "27%",
+    "Attack2CritChance": "50%",
+    "Attack2CritMultiplier": "2.3x",
+    "Attack2Falloff": "100% damage up to 0 m70% damage at 2.9 m30% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Users": "Kuva Lich",
+    "Introduced": "Update 26.0 (2019-10-31)",
+    "InternalName": "/Lotus/Weapons/Grineer/LongGuns/GrnKuvaLichRifle/GrnKuvaLichRifleWeapon"
+  }
+}

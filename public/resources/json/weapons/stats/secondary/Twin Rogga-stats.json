@@ -1,0 +1,30 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "2.5",
+    "Accuracy": "8",
+    "Magazine": "2",
+    "MaxAmmo": "120",
+    "Reload": "1.5 s",
+    "Disposition": "●●●●○ (1.30x)"
+  },
+  "Normal": {
+    "Attack1Total": "705 ( 50%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1FireRate": "2.5",
+    "Attack1Multishot": "15 (47 damage per projectile)",
+    "Attack1StatusChance": "6.6%",
+    "Attack1CritChance": "10%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "0 m",
+    "Attack1Falloff": "100% damage up to 10 m21% damage at 20 m79% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Users": "Kuva Guardian",
+    "Introduced": "Update 19.0 (2016-11-11)"
+  }
+}

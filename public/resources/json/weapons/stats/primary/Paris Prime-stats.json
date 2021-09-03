@@ -1,0 +1,43 @@
+{
+  "Utility": {
+    "AmmoType": "Sniper",
+    "ShotType": "Projectile",
+    "ShotSpeed": "70 m/s",
+    "NoiseLevel": "Silent",
+    "FireRate": "1",
+    "Accuracy": "16.7",
+    "Magazine": "1",
+    "MaxAmmo": "72",
+    "Reload": "0.7 s",
+    "Disposition": "●●●●● (1.35x)"
+  },
+  "Uncharged Shot": {
+    "Attack1Total": "180 (85%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "70 m/s",
+    "Attack1FireRate": "1",
+    "Attack1Multishot": "1 (180 damage per projectile)",
+    "Attack1StatusChance": "20%",
+    "Attack1CritChance": "45%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Charged Shot": {
+    "Attack2Total": "360 (80%)",
+    "Attack2ShotType": "Projectile",
+    "Attack2ShotSpeed": "95 m/s",
+    "Attack2FireRate": "1",
+    "Attack2ChargeTime": "0.5 s",
+    "Attack2Multishot": "1 (360 damage per projectile)",
+    "Attack2StatusChance": "20%",
+    "Attack2CritChance": "45%",
+    "Attack2CritMultiplier": "2x",
+    "Attack2PunchThrough": "3 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 9.0 (2013-07-13)",
+    "Variants": "MK1-Paris MK1-ParisParis Paris",
+    "InternalName": "/Lotus/Weapons/Tenno/Bows/PrimeHuntingBow"
+  }
+}

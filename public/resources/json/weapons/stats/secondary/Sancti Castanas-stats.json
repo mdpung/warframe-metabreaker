@@ -1,0 +1,36 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "30 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "3.33",
+    "Accuracy": "100",
+    "Magazine": "2",
+    "MaxAmmo": "18",
+    "Reload": "1 s",
+    "Disposition": "●●●●● (1.35x)"
+  },
+  "Normal": {
+    "Attack1Total": "300",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "30 m/s",
+    "ForcedProcs": " ",
+    "Attack1FireRate": "3.33",
+    "Attack1Multishot": "1 (300 damage per projectile)",
+    "Attack1StatusChance": "34%",
+    "Attack1CritChance": "24%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "0 m",
+    "Attack1Radius": "3.6 m",
+    "Attack1Falloff": "100% damage up to 0 m60% damage at 3.6 m40% max reduction"
+  },
+  "Miscellaneous": {
+    "SyndicateEffect": "Purity",
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Users": "New Loka Operatives",
+    "Introduced": "Update 15.5 (2014-11-27)",
+    "Variants": " Castanas"
+  }
+}

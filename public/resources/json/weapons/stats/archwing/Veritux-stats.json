@@ -1,0 +1,22 @@
+{
+  "Utility": {
+    "Range": "143 m",
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.833"
+  },
+  "Normal": {
+    "Attack1Total": "470 ( 70%)",
+    "Attack1FireRate": "0.833",
+    "Attack1Multishot": "1 (470 damage per projectile)",
+    "Attack1StatusChance": "10%",
+    "Attack1CritChance": "5%",
+    "Attack1CritMultiplier": "1.5x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 15.0 (2014-10-24)",
+    "Variants": " Prisma Veritux"
+  }
+}

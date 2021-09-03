@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.833",
+    "ComboDur": "5 s",
+    "BlockAngle": "50°",
+    "FollowThrough": "80%",
+    "Disposition": "●●●●● (1.49x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "224 (70%)",
+    "Attack1FireRate": "0.833",
+    "Attack1StatusChance": "30%",
+    "Attack1CritChance": "10%",
+    "Attack1CritMultiplier": "1.8x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "448",
+    "WindUp": "0.5 s",
+    "HeavySlamAttack": "896",
+    "HeavySlamRadius": "7 m",
+    "HeavyRadialDmg": "896"
+  },
+  "Slam Attack": {
+    "SlamAttack": "448",
+    "SlamRadius": "6 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "448"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Users": "Nova Specter",
+    "Introduced": "Hotfix 7.7.3 (2013-04-12)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/DualDagger/DualEtherDagger"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.883",
+    "ComboDur": "5 s",
+    "BlockAngle": "60°",
+    "FollowThrough": "50%",
+    "Disposition": "●●●●● (1.35x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "142 (80%)",
+    "Attack1FireRate": "0.883",
+    "Attack1StatusChance": "24%",
+    "Attack1CritChance": "16%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "568",
+    "WindUp": "0.7 s",
+    "HeavySlamAttack": "568",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "568"
+  },
+  "Slam Attack": {
+    "SlamAttack": "284",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "284"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Hotfix 16.1.2 (2015-03-25)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Swords/DexTheSecond/DexTheSecond"
+  }
+}

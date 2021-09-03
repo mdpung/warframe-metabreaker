@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.917",
+    "ComboDur": "5 s",
+    "BlockAngle": "60°",
+    "FollowThrough": "50%",
+    "Disposition": "●●●●○ (1.20x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "250 (70%)",
+    "Attack1FireRate": "0.917",
+    "Attack1StatusChance": "33%",
+    "Attack1CritChance": "19%",
+    "Attack1CritMultiplier": "1.7x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,000",
+    "WindUp": "0.7 s",
+    "HeavySlamAttack": "1,000",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "1,000"
+  },
+  "Slam Attack": {
+    "SlamAttack": "500",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "500"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Users": "Tusk Predator",
+    "Introduced": "Update 22.0 (2017-10-12)",
+    "InternalName": "/Lotus/Weapons/Grineer/Melee/GrnEgyptSwd/DualGrnEgyptSwdWeapon"
+  }
+}

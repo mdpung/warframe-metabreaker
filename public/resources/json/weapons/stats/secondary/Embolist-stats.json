@@ -1,0 +1,31 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Discharge",
+    "Range": "9 m",
+    "NoiseLevel": "Alarming",
+    "FireRate": "8",
+    "Accuracy": "100",
+    "Magazine": "33",
+    "MaxAmmo": "210",
+    "Reload": "1.3 s",
+    "Disposition": "●●●●● (1.40x)"
+  },
+  "Normal": {
+    "Attack1Total": "35",
+    "Attack1ShotType": "Discharge",
+    "Attack1Range": "9 m",
+    "Attack1FireRate": "8",
+    "Attack1Multishot": "1 (35 damage per projectile)",
+    "Attack1StatusChance": "41%",
+    "Attack1CritChance": "3%",
+    "Attack1CritMultiplier": "1.5x",
+    "Attack1PunchThrough": "0 m",
+    "Attack1AmmoCost": "0.5"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 10.0 (2013-09-13)"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "60%",
+    "Disposition": "●●●○○ (1.05x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "182 (95%)",
+    "Attack1FireRate": "1",
+    "Attack1StatusChance": "20%",
+    "Attack1CritChance": "10%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,092",
+    "WindUp": "1.1 s",
+    "HeavySlamAttack": "910",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "910"
+  },
+  "Slam Attack": {
+    "SlamAttack": "546",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "364"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 10.2 (2013-09-27)",
+    "Variants": "Galatine Prime Galatine Prime",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Swords/GreatSword/TennoGreatSword"
+  }
+}

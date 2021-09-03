@@ -1,0 +1,38 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "60%",
+    "Disposition": "●●●●● (1.38x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "184 (75%)",
+    "Attack1FireRate": "1",
+    "Attack1StatusChance": "25%",
+    "Attack1CritChance": "5%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,104",
+    "WindUp": "0.9 s",
+    "HeavySlamAttack": "920",
+    "HeavySlamRadius": "8 m",
+    "HeavyRadialDmg": "920"
+  },
+  "Slam Attack": {
+    "SlamAttack": "552",
+    "SlamRadius": "7 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "368"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 15.15 (2015-02-18)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Polearms/FlowerPowerPolearm/FlowerPowerPolearmWep"
+  }
+}

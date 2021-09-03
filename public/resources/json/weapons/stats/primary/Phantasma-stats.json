@@ -1,0 +1,63 @@
+{
+  "Utility": {
+    "AmmoType": "Shotgun",
+    "ShotType": "Discharge",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "12",
+    "Accuracy": "100",
+    "Magazine": "11",
+    "MaxAmmo": "275",
+    "Reload": "0.5 s",
+    "Disposition": "●●●○○ (1.05x)"
+  },
+  "Beam": {
+    "Attack1Total": "90 (66.67%)",
+    "Attack1ShotType": "Discharge",
+    "Attack1Range": "20 m",
+    "Attack1FireRate": "12",
+    "Attack1Multishot": "6 (15 damage per projectile)",
+    "Attack1StatusChance": "22.2%",
+    "Attack1CritChance": "3%",
+    "Attack1CritMultiplier": "1.5x"
+  },
+  "Plasma Bomb Impact": {
+    "Attack2Total": "15",
+    "Attack2ShotType": "Projectile",
+    "Attack2ShotSpeed": "? m/s",
+    "ForcedProcs": "Impact Damage Impact",
+    "Attack2FireRate": "2",
+    "Attack2ChargeTime": "1 s",
+    "Attack2Multishot": "1 (15 damage per projectile)",
+    "Attack2StatusChance": "37%",
+    "Attack2CritChance": "3%",
+    "Attack2CritMultiplier": "1.5x"
+  },
+  "Plasma Bomb Explosion": {
+    "Attack3Total": "73",
+    "Attack3ShotType": "AoE",
+    "Attack3Range": "4.8 m",
+    "Attack3FireRate": "2",
+    "Attack3Multishot": "1 (73 damage per projectile)",
+    "Attack3StatusChance": "37%",
+    "Attack3CritChance": "3%",
+    "Attack3CritMultiplier": "1.5x",
+    "Attack3Falloff": "100% damage up to 0 m50% damage at 4.8 m50% max reduction"
+  },
+  "Cluster Bombs": {
+    "Attack4Total": "75",
+    "Attack4ShotType": "Projectile",
+    "Attack4ShotSpeed": "? m/s",
+    "Attack4FireRate": "2",
+    "Attack4Multishot": "5 (15 damage per projectile)",
+    "Attack4StatusChance": "37%",
+    "Attack4CritChance": "3%",
+    "Attack4CritMultiplier": "1.5x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 23.5 (2018-08-24)",
+    "InternalName": "/Lotus/Weapons/Tenno/LongGuns/RevenantShotgun/RevenantShotgun"
+  }
+}

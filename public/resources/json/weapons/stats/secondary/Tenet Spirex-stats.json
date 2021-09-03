@@ -1,0 +1,43 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "2.33",
+    "Accuracy": "12.5",
+    "Magazine": "8",
+    "MaxAmmo": "80",
+    "Reload": "2.4 s",
+    "Disposition": "●○○○○ (0.50x)"
+  },
+  "Rocket Impact": {
+    "Attack1Total": "150 ( 40%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "? m/s",
+    "ForcedProcs": " ",
+    "Attack1FireRate": "2.33",
+    "Attack1Multishot": "1 (150 damage per projectile)",
+    "Attack1StatusChance": "40%",
+    "Attack1CritChance": "26%",
+    "Attack1CritMultiplier": "2.4x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Rocket Explosion": {
+    "Attack2Total": "100 ( 80%)",
+    "Attack2ShotType": "AoE",
+    "Attack2FireRate": "2.33",
+    "Attack2Multishot": "1 (100 damage per projectile)",
+    "Attack2StatusChance": "40%",
+    "Attack2CritChance": "26%",
+    "Attack2CritMultiplier": "2.4x",
+    "Attack2PunchThrough": "0 m",
+    "Attack2Radius": "2 m",
+    "Attack2Falloff": "100% damage up to 0 m80% damage at 2 m20% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 30.5 (2021-07-06)"
+  }
+}

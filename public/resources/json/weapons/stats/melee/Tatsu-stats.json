@@ -1,0 +1,38 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "70%",
+    "Disposition": "●●●○○ (0.95x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "214 (33.64%)",
+    "Attack1FireRate": "1",
+    "Attack1StatusChance": "28%",
+    "Attack1CritChance": "16%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,284",
+    "WindUp": "0.7 s",
+    "HeavySlamAttack": "1,070",
+    "HeavySlamRadius": "8 m",
+    "HeavyRadialDmg": "1,070"
+  },
+  "Slam Attack": {
+    "SlamAttack": "642",
+    "SlamRadius": "7 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "428"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Update 24.4 (2019-03-08)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Swords/TnTwoHandedKatana/TnTwoHandedKatana"
+  }
+}

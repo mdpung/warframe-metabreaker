@@ -1,0 +1,32 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Projectile",
+    "ShotSpeed": "80 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "12.5",
+    "Spool": "4",
+    "Accuracy": "28.6",
+    "Magazine": "300",
+    "MaxAmmo": "1,600",
+    "Reload": "3 s",
+    "Disposition": "●●●○○ (0.95x)"
+  },
+  "Fully Spooled": {
+    "Attack1Total": "40 (75%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "80 m/s",
+    "Attack1FireRate": "12.5",
+    "Attack1Multishot": "1 (40 damage per projectile)",
+    "Attack1StatusChance": "30%",
+    "Attack1CritChance": "16%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 20.4 (2017-05-04)",
+    "Variants": "Supra Supra",
+    "InternalName": "/Lotus/Weapons/Corpus/LongGuns/Machinegun/SupraVandal"
+  }
+}

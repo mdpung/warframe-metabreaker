@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.917",
+    "ComboDur": "5 s",
+    "BlockAngle": "50°",
+    "FollowThrough": "90%",
+    "Disposition": "●●●●● (1.40x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "242 (70%)",
+    "Attack1FireRate": "0.917",
+    "Attack1StatusChance": "38%",
+    "Attack1CritChance": "16%",
+    "Attack1CritMultiplier": "1.8x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "2,904",
+    "WindUp": "0.5 s",
+    "HeavySlamAttack": "968",
+    "HeavySlamRadius": "8 m",
+    "HeavyRadialDmg": "968"
+  },
+  "Slam Attack": {
+    "SlamAttack": "726",
+    "SlamRadius": "7 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "484"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 22.7 (2017-12-12)",
+    "Variants": "Kogake Kogake",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/PrimeKogake/KogakePrimeKnuckles"
+  }
+}

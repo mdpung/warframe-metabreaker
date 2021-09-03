@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.733",
+    "ComboDur": "5 s",
+    "BlockAngle": "50°",
+    "FollowThrough": "40%",
+    "Disposition": "●●●●○ (1.30x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "360 (65%)",
+    "Attack1FireRate": "0.733",
+    "Attack1StatusChance": "38%",
+    "Attack1CritChance": "24%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "2,160",
+    "WindUp": "1.2 s",
+    "HeavySlamAttack": "1,800",
+    "HeavySlamRadius": "10 m",
+    "HeavyRadialDmg": "1,800"
+  },
+  "Slam Attack": {
+    "SlamAttack": "1,080",
+    "SlamRadius": "9 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "720"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Users": "Amalgam Arca Heqet",
+    "Introduced": "Update 21.7 (2017-09-09)",
+    "InternalName": "/Lotus/Weapons/Corpus/Melee/Hammer/CorpusHammerWeapon"
+  }
+}

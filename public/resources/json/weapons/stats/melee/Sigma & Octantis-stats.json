@@ -1,0 +1,38 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.08",
+    "ComboDur": "5 s",
+    "BlockAngle": "70°",
+    "FollowThrough": "70%",
+    "Disposition": "●●●○○ (1.00x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "174 (62%)",
+    "Attack1FireRate": "1.08",
+    "Attack1StatusChance": "16%",
+    "Attack1CritChance": "28%",
+    "Attack1CritMultiplier": "2.2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "870",
+    "WindUp": "0.7 s",
+    "HeavySlamAttack": "696",
+    "HeavySlamRadius": "8 m",
+    "HeavyRadialDmg": "696"
+  },
+  "Slam Attack": {
+    "SlamAttack": "522",
+    "SlamRadius": "7 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "174"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Hotfix 22.1.2 (2017-10-30)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/SwordsAndBoards/SundialSwordBoard/SundialBoardSword"
+  }
+}

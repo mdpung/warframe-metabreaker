@@ -1,0 +1,37 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.08",
+    "ComboDur": "5 s",
+    "BlockAngle": "90°",
+    "FollowThrough": "70%"
+  },
+  "Normal Attack": {
+    "Attack1Total": "200 (75%)",
+    "Attack1FireRate": "1.08",
+    "Attack1StatusChance": "10%",
+    "Attack1CritChance": "20%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "200",
+    "WindUp": "0 s",
+    "HeavySlamAttack": "200",
+    "HeavySlamRadius": "0 m",
+    "HeavyRadialDmg": "200"
+  },
+  "Slam Attack": {
+    "SlamAttack": "200",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "429"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "None",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Users": "TitaniaTitania Prime",
+    "Introduced": "Update 23.0 (2018-06-15)"
+  }
+}

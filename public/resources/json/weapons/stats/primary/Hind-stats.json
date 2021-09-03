@@ -1,0 +1,44 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "6.25",
+    "Accuracy": "33.33",
+    "Magazine": "65",
+    "MaxAmmo": "540",
+    "Reload": "2 s",
+    "Disposition": "●●●●● (1.42x)"
+  },
+  "Burst Mode": {
+    "Attack1Total": "30 (50%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "6.25",
+    "Attack1Accuracy": "33.33",
+    "Attack1BurstCount": "5",
+    "Attack1BurstFireRate": "5",
+    "Attack1BurstDelay": "0.12 s",
+    "Attack1Multishot": "1 (30 damage per projectile)",
+    "Attack1StatusChance": "15%",
+    "Attack1CritChance": "7%",
+    "Attack1CritMultiplier": "1.5x"
+  },
+  "Semi-Auto Mode": {
+    "Attack2Total": "60 (60%)",
+    "Attack2Trigger": "Semi-Auto",
+    "Attack2FireRate": "2.5",
+    "Attack2Accuracy": "28.6",
+    "Attack2Multishot": "1 (60 damage per projectile)",
+    "Attack2StatusChance": "10%",
+    "Attack2CritChance": "15%",
+    "Attack2CritMultiplier": "2x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Users": "Elite LancerDok ThulTusk LancerAerial CommanderPlains Commander",
+    "Introduced": "Update 9.6 (2013-08-16)",
+    "InternalName": "/Lotus/Weapons/Grineer/LongGuns/BurstRifle/GrnBurstRifle"
+  }
+}

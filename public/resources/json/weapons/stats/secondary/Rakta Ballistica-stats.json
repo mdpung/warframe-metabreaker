@@ -1,0 +1,47 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "100 m/s",
+    "NoiseLevel": "Silent",
+    "FireRate": "11.43",
+    "Accuracy": "4",
+    "Magazine": "20",
+    "MaxAmmo": "210",
+    "Reload": "2 s",
+    "Disposition": "●●●●○ (1.20x)"
+  },
+  "Burst Shot": {
+    "Attack1Total": "75 ( 50%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "100 m/s",
+    "Attack1FireRate": "11.43",
+    "Attack1BurstCount": "4",
+    "Attack1BurstDelay": "0.05 s",
+    "Attack1Multishot": "1 (75 damage per projectile)",
+    "Attack1StatusChance": "7.5%",
+    "Attack1CritChance": "5%",
+    "Attack1CritMultiplier": "1.5x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Charged Shot": {
+    "Attack2Total": "300 ( 90%)",
+    "Attack2ShotType": "Projectile",
+    "Attack2ShotSpeed": "100 m/s",
+    "Attack2FireRate": "3.33",
+    "Attack2ChargeTime": "1 s",
+    "Attack2Multishot": "1 (300 damage per projectile)",
+    "Attack2StatusChance": "10%",
+    "Attack2CritChance": "20%",
+    "Attack2CritMultiplier": "1.5x",
+    "Attack2PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "SyndicateEffect": "Blight",
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Users": "Red Veil Operatives",
+    "Introduced": "Update 15.5 (2014-11-27)",
+    "Variants": " Ballistica Prime Ballistica"
+  }
+}

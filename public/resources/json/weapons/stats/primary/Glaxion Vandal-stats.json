@@ -1,0 +1,30 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Discharge",
+    "NoiseLevel": "Alarming",
+    "FireRate": "12",
+    "Accuracy": "100",
+    "Magazine": "100",
+    "MaxAmmo": "1,000",
+    "Reload": "1.8 s",
+    "Disposition": "●●●●○ (1.25x)"
+  },
+  "Normal": {
+    "Attack1Total": "29",
+    "Attack1ShotType": "Discharge",
+    "Attack1Range": "28 m",
+    "Attack1FireRate": "12",
+    "Attack1Multishot": "1 (29 damage per projectile)",
+    "Attack1StatusChance": "38%",
+    "Attack1CritChance": "14%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Introduced": "Update 25.0 (2019-05-22)",
+    "Variants": "Glaxion Glaxion",
+    "InternalName": "/Lotus/Weapons/Corpus/LongGuns/CrpFreezeRay/Vandal/CrpFreezeRayVandalRifle"
+  }
+}

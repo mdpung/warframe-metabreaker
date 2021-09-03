@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.2",
+    "ComboDur": "5 s",
+    "BlockAngle": "50°",
+    "FollowThrough": "60%",
+    "Disposition": "●○○○○ (0.50x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "250 (46%)",
+    "Attack1FireRate": "1.2",
+    "Attack1StatusChance": "34%",
+    "Attack1CritChance": "20%",
+    "Attack1CritMultiplier": "1.8x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,500",
+    "WindUp": "1.1 s",
+    "HeavySlamAttack": "1,250",
+    "HeavySlamRadius": "10 m",
+    "HeavyRadialDmg": "1,250"
+  },
+  "Slam Attack": {
+    "SlamAttack": "750",
+    "SlamRadius": "10 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "500"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 30.3 (2021-05-25)",
+    "Variants": "Volnus Volnus",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/PrimeVolnus/VolnusPrimeWeapon"
+  }
+}

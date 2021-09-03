@@ -1,0 +1,34 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "6.33",
+    "Accuracy": "90.9",
+    "Magazine": "84",
+    "MaxAmmo": "840",
+    "Reload": "1.9 s",
+    "Disposition": "●●●●○ (1.25x)"
+  },
+  "Burst-Fire": {
+    "Attack1Total": "49 (37%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "6.33",
+    "Attack1BurstCount": "4",
+    "Attack1BurstFireRate": "1.5833",
+    "Attack1BurstDelay": "0 s",
+    "Attack1Multishot": "1 (49 damage per projectile)",
+    "Attack1StatusChance": "27%",
+    "Attack1CritChance": "19%",
+    "Attack1CritMultiplier": "2.3x",
+    "Attack1PunchThrough": "0.5 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 22.0 (2017-10-12)",
+    "Variants": "Kuva Quartakk Kuva Quartakk",
+    "InternalName": "/Lotus/Weapons/Grineer/LongGuns/GrnFourBarrelRifle/GrnFourBarrelRifleWeapon"
+  }
+}

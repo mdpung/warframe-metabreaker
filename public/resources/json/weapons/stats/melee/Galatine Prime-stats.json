@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "60%",
+    "Disposition": "●●○○○ (0.80x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "280 (95%)",
+    "Attack1FireRate": "1",
+    "Attack1StatusChance": "26%",
+    "Attack1CritChance": "26%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,680",
+    "WindUp": "1.1 s",
+    "HeavySlamAttack": "1,400",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "1,400"
+  },
+  "Slam Attack": {
+    "SlamAttack": "840",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "560"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Hotfix: The Silver Grove 3 (2016-08-23)",
+    "Variants": "Galatine Galatine",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Swords/PrimeGalatine/PrimeGalatine"
+  }
+}

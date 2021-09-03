@@ -1,0 +1,38 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.667",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "60%",
+    "Disposition": "●●●●● (1.48x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "200 (44%)",
+    "Attack1FireRate": "0.667",
+    "Attack1StatusChance": "18%",
+    "Attack1CritChance": "18%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,000",
+    "WindUp": "0.6 s",
+    "HeavySlamAttack": "800",
+    "HeavySlamRadius": "8 m",
+    "HeavyRadialDmg": "800"
+  },
+  "Slam Attack": {
+    "SlamAttack": "600",
+    "SlamRadius": "7 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "200"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Update 5.0 (2012-12-18)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Swords/PlasmaSword/PlasmaLongSword"
+  }
+}

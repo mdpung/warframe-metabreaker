@@ -1,0 +1,50 @@
+{
+  "Utility": {
+    "AmmoType": "Heavy",
+    "ShotType": "Discharge",
+    "NoiseLevel": "Alarming",
+    "FireRate": "12",
+    "Accuracy": "100",
+    "Magazine": "100",
+    "MaxAmmo": "300",
+    "Reload": "2.5 s",
+    "Disposition": "●○○○○ (0.50x)"
+  },
+  "Held": {
+    "Attack1Total": "90",
+    "Attack1ShotType": "Discharge",
+    "Attack1FireRate": "12",
+    "Attack1Multishot": "1 (90 damage per projectile)",
+    "Attack1StatusChance": "40%",
+    "Attack1CritChance": "20%",
+    "Attack1CritMultiplier": "1.9x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Grenade Impact": {
+    "Attack3Total": "30",
+    "Attack3Trigger": "Active",
+    "Attack3FireRate": "0.25",
+    "Attack3Multishot": "3 (10 damage per projectile)",
+    "Attack3StatusChance": "16.7%",
+    "Attack3CritChance": "30%",
+    "Attack3CritMultiplier": "2.4x",
+    "Attack3PunchThrough": "0 m"
+  },
+  "Radial Attack": {
+    "Attack5Total": "3,000",
+    "Attack5ShotType": "AoE",
+    "Attack5FireRate": "0.25",
+    "Attack5Multishot": "3 (1,000 damage per projectile)",
+    "Attack5StatusChance": "16.7%",
+    "Attack5CritChance": "30%",
+    "Attack5CritMultiplier": "2.4x",
+    "Attack5PunchThrough": "0 m",
+    "Attack5Radius": "4 m",
+    "Attack5Falloff": "100% damage up to 0 m70% damage at 4 m30% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Update 29.0 (2020-08-25)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "35 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "4",
+    "Accuracy": "100",
+    "Magazine": "20",
+    "MaxAmmo": "210",
+    "Reload": "2 s",
+    "Disposition": "●●●●● (1.48x)"
+  },
+  "Blob Impact": {
+    "Attack1Total": "4",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "35 m/s",
+    "Attack1FireRate": "4",
+    "Attack1Multishot": "1 (4 damage per projectile)",
+    "Attack1StatusChance": "0%",
+    "Attack1CritChance": "5%",
+    "Attack1CritMultiplier": "1.5x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Blob Explosion": {
+    "Attack5Total": "75",
+    "Attack5ShotType": "AoE",
+    "Attack5FireRate": "4",
+    "Attack5Multishot": "1 (75 damage per projectile)",
+    "Attack5StatusChance": "10%",
+    "Attack5CritChance": "5%",
+    "Attack5CritMultiplier": "1.5x",
+    "Attack5PunchThrough": "0 m",
+    "Attack5Radius": "0.3 m",
+    "Attack5Falloff": "100% damage up to 0 m70% damage at 0.3 m30% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Users": "Artificer",
+    "Introduced": "Update 11.5 (2013-12-19)"
+  }
+}

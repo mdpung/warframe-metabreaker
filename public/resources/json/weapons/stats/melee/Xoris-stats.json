@@ -1,0 +1,86 @@
+{
+  "Utility": {
+    "ShotType": "Thrown",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.17",
+    "ComboDur": "inf s",
+    "BlockAngle": "55°",
+    "FollowThrough": "70%",
+    "Disposition": "●○○○○ (0.65x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "120 (46%)",
+    "Attack1FireRate": "1.17",
+    "Attack1StatusChance": "18%",
+    "Attack1CritChance": "20%",
+    "Attack1CritMultiplier": "2.4x"
+  },
+  "Throw": {
+    "Attack2Total": "120 (46%)",
+    "Attack2ShotType": "Thrown",
+    "Attack2ShotSpeed": "? m/s",
+    "ForcedProcs": "Impact Damage Impact",
+    "Attack2Range": "22 m",
+    "Attack2FireRate": "1.17",
+    "Attack2StatusChance": "18%",
+    "Attack2CritChance": "20%",
+    "Attack2CritMultiplier": "2.4x"
+  },
+  "Throw Explosion": {
+    "Attack3Total": "500",
+    "Attack3ShotType": "AoE",
+    "ForcedProcs": "Impact Damage Impact, Electricity Damage Electricity",
+    "Attack3Range": "8 m",
+    "Attack3FireRate": "1.17",
+    "Attack3StatusChance": "18%",
+    "Attack3CritChance": "20%",
+    "Attack3CritMultiplier": "2.4x",
+    "Attack3Falloff": "100% damage up to 0 m100% damage at 8 m0% max reduction"
+  },
+  "Charged Throw": {
+    "Attack4Total": "240 (46%)",
+    "Attack4ShotType": "Thrown",
+    "Attack4ShotSpeed": "? m/s",
+    "ForcedProcs": "Impact Damage Impact",
+    "Attack4Range": "22 m",
+    "Attack4FireRate": "0.833",
+    "Attack4ChargeTime": "1.2 s",
+    "Attack4StatusChance": "20%",
+    "Attack4CritChance": "22%",
+    "Attack4CritMultiplier": "2.4x"
+  },
+  "Charged Throw Explosion": {
+    "Attack5Total": "1,000",
+    "Attack5ShotType": "AoE",
+    "ForcedProcs": "Impact Damage Impact, Electricity Damage Electricity",
+    "Attack5Range": "9 m",
+    "Attack5FireRate": "0.833",
+    "Attack5ChargeTime": "1.2 s",
+    "Attack5StatusChance": "20%",
+    "Attack5CritChance": "22%",
+    "Attack5CritMultiplier": "2.4x",
+    "Attack5Falloff": "100% damage up to 0 m100% damage at 9 m0% max reduction"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "0",
+    "WindUp": "1.2 s",
+    "HeavySlamAttack": "480",
+    "HeavySlamRadius": "8 m",
+    "HeavyRadialDmg": "480"
+  },
+  "Slam Attack": {
+    "SlamAttack": "360",
+    "SlamRadius": "6 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "240"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Update 28.0 (2020-06-11)",
+    "InternalName": "/Lotus/Weapons/Corpus/Melee/Glaive/CrpGhostCatcherGlaive/CrpGhostCatcherGlaive"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "70%",
+    "Disposition": "●●●●● (1.43x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "172 (70%)",
+    "Attack1FireRate": "1",
+    "Attack1StatusChance": "25%",
+    "Attack1CritChance": "15%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,032",
+    "WindUp": "0.7 s",
+    "HeavySlamAttack": "688",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "688"
+  },
+  "Slam Attack": {
+    "SlamAttack": "516",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "344"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 13.5 (2014-05-28)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Swords/CutlassAndPoignard/TennoCutlass"
+  }
+}

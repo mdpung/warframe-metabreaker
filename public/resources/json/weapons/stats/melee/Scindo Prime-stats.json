@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.967",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "60%",
+    "Disposition": "●●●●○ (1.25x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "250 (80%)",
+    "Attack1FireRate": "0.967",
+    "Attack1StatusChance": "24%",
+    "Attack1CritChance": "26%",
+    "Attack1CritMultiplier": "2.4x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,500",
+    "WindUp": "1.1 s",
+    "HeavySlamAttack": "1,250",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "1,250"
+  },
+  "Slam Attack": {
+    "SlamAttack": "750",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "500"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 14.8 (2014-09-24)",
+    "Variants": "Scindo Scindo",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Axe/PrimeScindo/PrimeScindoWeapon"
+  }
+}

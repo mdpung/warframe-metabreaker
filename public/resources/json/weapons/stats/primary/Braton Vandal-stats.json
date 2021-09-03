@@ -1,0 +1,31 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "7.5",
+    "Accuracy": "33.33",
+    "Magazine": "50",
+    "MaxAmmo": "550",
+    "Reload": "1.75 s",
+    "Disposition": "●●●●○ (1.30x)"
+  },
+  "Normal": {
+    "Attack1Total": "35 (60%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "7.5",
+    "Attack1Multishot": "1 (35 damage per projectile)",
+    "Attack1StatusChance": "16%",
+    "Attack1CritChance": "16%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Users": "Excalibur Specter",
+    "Introduced": "Hotfix 6.3.1 (2013-02-15)",
+    "Variants": "Braton Prime Braton PrimeBraton BratonMK1-Braton MK1-Braton",
+    "InternalName": "/Lotus/Weapons/Tenno/Rifle/VIPRifle"
+  }
+}

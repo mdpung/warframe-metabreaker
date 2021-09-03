@@ -1,0 +1,56 @@
+{
+  "Utility": {
+    "ShotType": "Projectile",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "Accuracy": "0",
+    "ComboDur": "5 s",
+    "BlockAngle": "45°",
+    "FollowThrough": "50%",
+    "Disposition": "●○○○○ (0.50x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "220 (38%)",
+    "Attack1FireRate": "1",
+    "Attack1StatusChance": "14%",
+    "Attack1CritChance": "30%",
+    "Attack1CritMultiplier": "2.4x"
+  },
+  "Charged Shots": {
+    "Attack2Total": "700",
+    "Attack2Trigger": "Charge",
+    "Attack2ShotType": "Projectile",
+    "Attack2ShotSpeed": "? m/s",
+    "ForcedProcs": "Impact Damage Impact, Stagger Stagger",
+    "Attack2Range": "17 m",
+    "Attack2FireRate": "2.5",
+    "Attack2ChargeTime": "0.4 s",
+    "Attack2Accuracy": "0",
+    "Attack2StatusChance": "14%",
+    "Attack2CritChance": "30%",
+    "Attack2CritMultiplier": "2.4x",
+    "Attack2Falloff": "100% damage up to 8 m10% damage at 16 m90% max reduction"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "2,800",
+    "WindUp": "0.4 s",
+    "HeavySlamAttack": "880",
+    "HeavySlamRadius": "8 m",
+    "HeavyRadialDmg": "880"
+  },
+  "Slam Attack": {
+    "SlamAttack": "660",
+    "SlamRadius": "5 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "440"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Update 28.0 (2020-06-11)",
+    "InternalName": "/Lotus/Weapons/Corpus/Melee/Gunblade/CrpGunBlade/CrpGunbladeWeapon"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "75 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "10",
+    "Accuracy": "26.7",
+    "Magazine": "30",
+    "MaxAmmo": "210",
+    "Reload": "2.6 s",
+    "Disposition": "●●●●○ (1.25x)"
+  },
+  "Normal": {
+    "Attack1Total": "47 ( 90%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "75 m/s",
+    "Attack1FireRate": "10",
+    "Attack1Multishot": "1 (47 damage per projectile)",
+    "Attack1StatusChance": "29%",
+    "Attack1CritChance": "13%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "SyndicateEffect": "Truth",
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Users": "Arbiters of Hexis Operatives",
+    "Introduced": "Update 15.5 (2014-11-27)",
+    "Variants": " Akbolto Prime Akbolto"
+  }
+}

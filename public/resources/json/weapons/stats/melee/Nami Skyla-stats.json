@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.917",
+    "ComboDur": "5 s",
+    "BlockAngle": "60°",
+    "FollowThrough": "50%",
+    "Disposition": "●●●●○ (1.30x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "125 (70%)",
+    "Attack1FireRate": "0.917",
+    "Attack1StatusChance": "15%",
+    "Attack1CritChance": "10%",
+    "Attack1CritMultiplier": "1.5x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "500",
+    "WindUp": "0.7 s",
+    "HeavySlamAttack": "500",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "500"
+  },
+  "Slam Attack": {
+    "SlamAttack": "250",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "250"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Update 13.0 (2014-04-09)",
+    "Variants": "Nami Skyla Prime Nami Skyla Prime",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Swords/CutlassAndPoignard/CutlassPoignardSwords"
+  }
+}

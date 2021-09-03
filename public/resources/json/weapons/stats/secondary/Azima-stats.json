@@ -1,0 +1,38 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "10",
+    "Accuracy": "22.2",
+    "Magazine": "75",
+    "MaxAmmo": "525",
+    "Reload": "1.4 s",
+    "Disposition": "●●●●○ (1.25x)"
+  },
+  "Normal": {
+    "Attack1Total": "20 ( 65%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1FireRate": "10",
+    "Attack1Multishot": "1 (20 damage per projectile)",
+    "Attack1StatusChance": "16%",
+    "Attack1CritChance": "16%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Launch Turret": {
+    "Attack2Total": "75",
+    "Attack2FireRate": "10",
+    "Attack2Multishot": "1 (75 damage per projectile)",
+    "Attack2StatusChance": "16%",
+    "Attack2CritChance": "16%",
+    "Attack2CritMultiplier": "2x",
+    "Attack2PunchThrough": "0 m",
+    "Attack2AmmoCost": "75"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 18.5 (2016-03-04)"
+  }
+}

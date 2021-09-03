@@ -1,0 +1,78 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Discharge",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "12",
+    "Accuracy": "6.3",
+    "Magazine": "31",
+    "MaxAmmo": "155",
+    "Reload": "1.7 s",
+    "Disposition": "●●●○○ (1.00x)"
+  },
+  "Primary": {
+    "Attack1Total": "53",
+    "Attack1Trigger": "Held",
+    "Attack1ShotType": "Discharge",
+    "Attack1FireRate": "12",
+    "Attack1Multishot": "1 (53 damage per projectile)",
+    "Attack1StatusChance": "43%",
+    "Attack1CritChance": "11%",
+    "Attack1CritMultiplier": "2.9x",
+    "Attack1PunchThrough": "0.9 m",
+    "Attack1Falloff": "100% damage up to 9 m80% damage at 19 m20% max reduction"
+  },
+  "Partial Reload Impact": {
+    "Attack2Total": "11",
+    "Attack2ShotType": "Projectile",
+    "Attack2ShotSpeed": "? m/s",
+    "Attack2FireRate": "12",
+    "Attack2Multishot": "1 (11 damage per projectile)",
+    "Attack2StatusChance": "43%",
+    "Attack2CritChance": "11%",
+    "Attack2CritMultiplier": "2.9x",
+    "Attack2PunchThrough": "0 m"
+  },
+  "Partial Reload Explosion": {
+    "Attack3Total": "203",
+    "Attack3ShotType": "AoE",
+    "Attack3FireRate": "12",
+    "Attack3Multishot": "1 (203 damage per projectile)",
+    "Attack3StatusChance": "43%",
+    "Attack3CritChance": "11%",
+    "Attack3CritMultiplier": "2.9x",
+    "Attack3PunchThrough": "0 m",
+    "Attack3Radius": "5 m",
+    "Attack3Falloff": "100% damage up to 0 m50% damage at 5 m50% max reduction"
+  },
+  "Reload From Empty Impact": {
+    "Attack4Total": "11",
+    "Attack4ShotType": "Projectile",
+    "Attack4ShotSpeed": "? m/s",
+    "Attack4FireRate": "12",
+    "Attack4Reload": "2.1 s",
+    "Attack4Multishot": "1 (11 damage per projectile)",
+    "Attack4StatusChance": "59%",
+    "Attack4CritChance": "31%",
+    "Attack4CritMultiplier": "2.9x",
+    "Attack4PunchThrough": "0.9 m"
+  },
+  "Reload From Empty Explosion": {
+    "Attack5Total": "1,997",
+    "Attack5ShotType": "AoE",
+    "Attack5FireRate": "12",
+    "Attack5Multishot": "1 (1,997 damage per projectile)",
+    "Attack5StatusChance": "59%",
+    "Attack5CritChance": "31%",
+    "Attack5CritMultiplier": "2.9x",
+    "Attack5PunchThrough": "0 m",
+    "Attack5Radius": "7 m",
+    "Attack5Falloff": "100% damage up to 0 m50% damage at 7 m50% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 29.5 (2020-11-19)"
+  }
+}

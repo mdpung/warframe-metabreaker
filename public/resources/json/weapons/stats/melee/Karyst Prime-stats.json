@@ -1,0 +1,38 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.667",
+    "ComboDur": "5 s",
+    "BlockAngle": "50°",
+    "FollowThrough": "90%",
+    "Disposition": "●●●○○ (1.05x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "344 (29.65%)",
+    "Attack1FireRate": "0.667",
+    "Attack1StatusChance": "30%",
+    "Attack1CritChance": "24%",
+    "Attack1CritMultiplier": "2.2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "688",
+    "WindUp": "0.4 s",
+    "HeavySlamAttack": "1,376",
+    "HeavySlamRadius": "8 m",
+    "HeavyRadialDmg": "1,376"
+  },
+  "Slam Attack": {
+    "SlamAttack": "688",
+    "SlamRadius": "5 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "Toxin Damage Toxin688"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 28.2 (2020-07-14)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Swords/PrimeKaryst/PrimeKrisDagger"
+  }
+}

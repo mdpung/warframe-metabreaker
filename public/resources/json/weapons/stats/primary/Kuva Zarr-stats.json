@@ -1,0 +1,77 @@
+{
+  "Utility": {
+    "AmmoType": "Sniper",
+    "ShotType": "Projectile",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "2.17",
+    "Accuracy": "100",
+    "Magazine": "5",
+    "MaxAmmo": "15",
+    "Reload": "4.8 s",
+    "Disposition": "●○○○○ (0.50x)"
+  },
+  "Cannon Mode Projectile": {
+    "Attack1Total": "62.5 (80%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "? m/s",
+    "Attack1FireRate": "2.17",
+    "Attack1Accuracy": "100",
+    "Attack1Multishot": "1 (62.5 damage per projectile)",
+    "Attack1StatusChance": "31%",
+    "Attack1CritChance": "25%",
+    "Attack1CritMultiplier": "2.5x"
+  },
+  "Cannon Mode Explosion": {
+    "Attack2Total": "841.25 (80%)",
+    "Attack2ShotType": "AoE",
+    "Attack2Range": "7 m",
+    "Attack2FireRate": "2.17",
+    "Attack2Multishot": "1 (841.25 damage per projectile)",
+    "Attack2StatusChance": "31%",
+    "Attack2CritChance": "25%",
+    "Attack2CritMultiplier": "2.5x",
+    "Attack2Falloff": "100% damage up to 0 m30% damage at 7 m70% max reduction"
+  },
+  "Cannon Mode Cluster Bomb Contact": {
+    "Attack3Total": "56.25 (80%)",
+    "Attack3ShotType": "Projectile",
+    "Attack3ShotSpeed": "? m/s",
+    "Attack3FireRate": "2.17",
+    "Attack3Multishot": "3 (18.75 damage per projectile)",
+    "Attack3StatusChance": "31%",
+    "Attack3CritChance": "25%",
+    "Attack3CritMultiplier": "2.5x"
+  },
+  "Cannon Mode Cluster Bomb Explosion": {
+    "Attack4Total": "187.5 (80%)",
+    "Attack4ShotType": "AoE",
+    "Attack4Range": "3 m",
+    "Attack4FireRate": "2.17",
+    "Attack4Multishot": "3 (62.5 damage per projectile)",
+    "Attack4StatusChance": "31%",
+    "Attack4CritChance": "25%",
+    "Attack4CritMultiplier": "2.5x",
+    "Attack4Falloff": "100% damage up to 0 m70% damage at 3 m30% max reduction"
+  },
+  "Barrage Mode": {
+    "Attack5Total": "625 (40%)",
+    "Attack5ShotType": "Projectile",
+    "Attack5ShotSpeed": "? m/s",
+    "Attack5FireRate": "2.17",
+    "Attack5Accuracy": "4.3",
+    "Attack5Multishot": "10 (62.5 damage per projectile)",
+    "Attack5StatusChance": "9.7%",
+    "Attack5CritChance": "37%",
+    "Attack5CritMultiplier": "2.5x",
+    "Attack5PunchThrough": "1.6 m",
+    "Attack5Falloff": "100% damage up to 20 m2% damage at 40 m98% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 30.5 (2021-07-06)",
+    "Variants": "Zarr Zarr",
+    "InternalName": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Zarr/KuvaZarr"
+  }
+}

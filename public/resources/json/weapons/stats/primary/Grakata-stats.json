@@ -1,0 +1,31 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "20",
+    "Accuracy": "28.6",
+    "Magazine": "60",
+    "MaxAmmo": "750",
+    "Reload": "2.4 s",
+    "Disposition": "●●●●● (1.35x)"
+  },
+  "Normal": {
+    "Attack1Total": "11 (40%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "20",
+    "Attack1Multishot": "1 (11 damage per projectile)",
+    "Attack1StatusChance": "20%",
+    "Attack1CritChance": "25%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Users": "LancerHellionCommanderSteel Meridian OperativesVay Molta",
+    "Introduced": "Update 7.8 (2013-04-19)",
+    "Variants": "Prisma Grakata Prisma Grakata",
+    "InternalName": "/Lotus/Weapons/Grineer/LongGuns/GrineerAssaultRifle/GrnAssaultRifle"
+  }
+}

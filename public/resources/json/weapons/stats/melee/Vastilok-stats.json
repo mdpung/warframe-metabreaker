@@ -1,0 +1,57 @@
+{
+  "Utility": {
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "Accuracy": "0",
+    "ComboDur": "5 s",
+    "BlockAngle": "90°",
+    "FollowThrough": "50%",
+    "Disposition": "●○○○○ (0.50x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "279 (84%)",
+    "Attack1FireRate": "1",
+    "Attack1Multishot": "1 (279 damage per projectile)",
+    "Attack1StatusChance": "31%",
+    "Attack1CritChance": "19%",
+    "Attack1CritMultiplier": "1.7x"
+  },
+  "Charged Shots": {
+    "Attack2Total": "621 (72%)",
+    "Attack2Trigger": "Charge",
+    "Attack2ShotType": "Hit-Scan",
+    "ForcedProcs": "Stagger Stagger",
+    "Attack2Range": "300 m",
+    "Attack2FireRate": "2.5",
+    "Attack2ChargeTime": "0.4 s",
+    "Attack2Accuracy": "0",
+    "Attack2Multishot": "9 (69 damage per projectile)",
+    "Attack2StatusChance": "10.33%",
+    "Attack2CritChance": "19%",
+    "Attack2CritMultiplier": "1.7x",
+    "Attack2PunchThrough": "1.3 m",
+    "Attack2Falloff": "100% damage up to 24 m0% damage at 49 m100% max reduction"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,395",
+    "WindUp": "0.4 s",
+    "HeavySlamAttack": "279",
+    "HeavySlamRadius": "7 m",
+    "HeavyRadialDmg": "279"
+  },
+  "Slam Attack": {
+    "SlamAttack": "837",
+    "SlamRadius": "5 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "558"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Hotfix 30.5.4 (2021-07-17)",
+    "InternalName": "/Lotus/Weapons/Grineer/Melee/GunBlade/GrnGunBlade/GrnGunblade"
+  }
+}

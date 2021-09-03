@@ -1,0 +1,45 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "4.25",
+    "Accuracy": "26.7",
+    "Magazine": "10",
+    "MaxAmmo": "20",
+    "Reload": "3.4 s",
+    "Disposition": "●●●○○ (1.05x)"
+  },
+  "Rocket Impact": {
+    "Attack1Total": "68",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "? m/s",
+    "Attack1FireRate": "4.25",
+    "Attack1BurstCount": "2",
+    "Attack1BurstDelay": "0.12 s",
+    "Attack1Multishot": "1 (68 damage per projectile)",
+    "Attack1StatusChance": "28%",
+    "Attack1CritChance": "6%",
+    "Attack1CritMultiplier": "1.8x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Rocket Detonation": {
+    "Attack2Total": "419",
+    "Attack2ShotType": "AoE",
+    "Attack2FireRate": "4.25",
+    "Attack2BurstCount": "2",
+    "Attack2Multishot": "1 (419 damage per projectile)",
+    "Attack2StatusChance": "28%",
+    "Attack2CritChance": "0%",
+    "Attack2CritMultiplier": "1x",
+    "Attack2PunchThrough": "0 m",
+    "Attack2Radius": "7.2 m",
+    "Attack2Falloff": "100% damage up to 0 m30% damage at 7.2 m70% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 25.7 (2019-08-29)"
+  }
+}

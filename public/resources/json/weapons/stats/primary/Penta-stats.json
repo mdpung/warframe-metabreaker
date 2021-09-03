@@ -1,0 +1,43 @@
+{
+  "Utility": {
+    "AmmoType": "Sniper",
+    "ShotType": "Projectile",
+    "ShotSpeed": "20 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "Accuracy": "100",
+    "Magazine": "5",
+    "MaxAmmo": "20",
+    "Reload": "2.5 s",
+    "Disposition": "●●●●● (1.35x)"
+  },
+  "Grenade Impact": {
+    "Attack1Total": "75",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "20 m/s",
+    "Attack1FireRate": "1",
+    "Attack1Multishot": "1 (75 damage per projectile)",
+    "Attack1StatusChance": "10%",
+    "Attack1CritChance": "10%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Grenade Detonation": {
+    "Attack2Total": "350",
+    "Attack2ShotType": "AoE",
+    "Attack2Range": "4 m",
+    "Attack2FireRate": "1",
+    "Attack2Multishot": "1 (350 damage per projectile)",
+    "Attack2StatusChance": "10%",
+    "Attack2CritChance": "10%",
+    "Attack2CritMultiplier": "2x",
+    "Attack2Falloff": "100% damage up to 0 m50% damage at 4 m50% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Users": "Penta RangerM-W.A.M.",
+    "Introduced": "Update 11.3 (2013-12-12)",
+    "Variants": "Carmine Penta Carmine PentaSecura Penta Secura Penta",
+    "InternalName": "/Lotus/Weapons/Corpus/LongGuns/GrenadeLauncher/GrenadeLauncher"
+  }
+}

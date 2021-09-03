@@ -1,0 +1,38 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "60%",
+    "Disposition": "●●●○○ (1.10x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "170 (80%)",
+    "Attack1FireRate": "1",
+    "Attack1StatusChance": "18%",
+    "Attack1CritChance": "36%",
+    "Attack1CritMultiplier": "2.4x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "850",
+    "WindUp": "0.6 s",
+    "HeavySlamAttack": "680",
+    "HeavySlamRadius": "8 m",
+    "HeavyRadialDmg": "680"
+  },
+  "Slam Attack": {
+    "SlamAttack": "510",
+    "SlamRadius": "7 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "170"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 10.0 (2013-09-13)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/CronusSword/PrimeCronusLongSword"
+  }
+}

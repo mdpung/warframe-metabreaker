@@ -1,0 +1,44 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "10",
+    "Accuracy": "25",
+    "Magazine": "90",
+    "MaxAmmo": "540",
+    "Reload": "2 s",
+    "Disposition": "●●●○○ (1.00x)"
+  },
+  "Full Auto Mode": {
+    "Attack1Total": "30 (35%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "10",
+    "Attack1Accuracy": "25",
+    "Attack1Multishot": "1 (30 damage per projectile)",
+    "Attack1StatusChance": "12%",
+    "Attack1CritChance": "24%",
+    "Attack1CritMultiplier": "2.6x"
+  },
+  "Semi-Auto Mode": {
+    "Attack2Total": "80 (60%)",
+    "Attack2Trigger": "Semi-Auto",
+    "Attack2ShotType": "Hit-Scan",
+    "Attack2Range": "300 m",
+    "Attack2FireRate": "3.33",
+    "Attack2Accuracy": "66.7",
+    "Attack2Multishot": "1 (80 damage per projectile)",
+    "Attack2StatusChance": "22%",
+    "Attack2CritChance": "30%",
+    "Attack2CritMultiplier": "2.8x",
+    "Attack2PunchThrough": "1 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Hotfix 24.5.8 (2019-04-02)",
+    "Variants": "Stradavar Stradavar",
+    "InternalName": "/Lotus/Weapons/Tenno/LongGuns/PrimeStradavar/PrimeStradavarGun"
+  }
+}

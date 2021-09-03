@@ -1,0 +1,38 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.08",
+    "ComboDur": "5 s",
+    "BlockAngle": "60°",
+    "FollowThrough": "50%",
+    "Disposition": "●●●●○ (1.25x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "177 (45%)",
+    "Attack1FireRate": "1.08",
+    "Attack1StatusChance": "25%",
+    "Attack1CritChance": "19%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "708",
+    "WindUp": "0.4 s",
+    "HeavySlamAttack": "708",
+    "HeavySlamRadius": "8 m",
+    "HeavyRadialDmg": "708"
+  },
+  "Slam Attack": {
+    "SlamAttack": "531",
+    "SlamRadius": "7 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "177"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 17.11 (2015-11-12)",
+    "InternalName": "/Lotus/Weapons/Infested/Melee/Swords/Mios/Mios"
+  }
+}

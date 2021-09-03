@@ -1,0 +1,30 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "15",
+    "Accuracy": "200",
+    "Magazine": "120",
+    "MaxAmmo": "1,200",
+    "Reload": "1.8 s",
+    "Disposition": "●○○○○ (0.50x)"
+  },
+  "Normal": {
+    "Attack1Total": "27.5 (62.55%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "15",
+    "Attack1Multishot": "1 (27.5 damage per projectile)",
+    "Attack1StatusChance": "26%",
+    "Attack1CritChance": "20%",
+    "Attack1CritMultiplier": "1.8x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Introduced": "Update 30.5 (2021-07-06)",
+    "Variants": "Flux Rifle Flux Rifle",
+    "InternalName": "/Lotus/Weapons/Corpus/BoardExec/Primary/CrpBEFluxRifle/CrpBEFluxRifle"
+  }
+}

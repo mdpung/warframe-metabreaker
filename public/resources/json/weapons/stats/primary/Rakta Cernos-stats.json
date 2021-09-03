@@ -1,0 +1,44 @@
+{
+  "Utility": {
+    "AmmoType": "Sniper",
+    "ShotType": "Projectile",
+    "ShotSpeed": "100 m/s",
+    "NoiseLevel": "Silent",
+    "FireRate": "1",
+    "Accuracy": "16.7",
+    "Magazine": "1",
+    "MaxAmmo": "72",
+    "Reload": "0.6 s",
+    "Disposition": "●●●●○ (1.25x)"
+  },
+  "Uncharged Shot": {
+    "Attack1Total": "235 (90%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "100 m/s",
+    "Attack1FireRate": "1",
+    "Attack1Multishot": "1 (235 damage per projectile)",
+    "Attack1StatusChance": "15%",
+    "Attack1CritChance": "35%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Charged Shot": {
+    "Attack2Total": "470 (90%)",
+    "Attack2ShotType": "Projectile",
+    "Attack2ShotSpeed": "? m/s",
+    "Attack2FireRate": "1",
+    "Attack2ChargeTime": "0.25 s",
+    "Attack2Multishot": "1 (470 damage per projectile)",
+    "Attack2StatusChance": "15%",
+    "Attack2CritChance": "35%",
+    "Attack2CritMultiplier": "2x",
+    "Attack2PunchThrough": "1 m"
+  },
+  "Miscellaneous": {
+    "SyndicateEffect": "Blight",
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 17.3 (2015-09-02)",
+    "Variants": "Cernos Prime Cernos PrimeCernos CernosMutalist Cernos Mutalist CernosProboscis Cernos Proboscis Cernos",
+    "InternalName": "/Lotus/Weapons/Syndicates/RedVeil/Bows/RVCernos"
+  }
+}

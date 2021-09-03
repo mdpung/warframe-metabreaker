@@ -1,0 +1,47 @@
+{
+  "Utility": {
+    "AmmoType": "Shotgun",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.734",
+    "Spool": "5",
+    "Accuracy": "8",
+    "Magazine": "245",
+    "MaxAmmo": "960",
+    "Reload": "2 s",
+    "Disposition": "●●●●○ (1.30x)"
+  },
+  "Single Pellet": {
+    "Attack1Total": "30 (60%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "0.734",
+    "Attack1Multishot": "1 (30 damage per projectile)",
+    "Attack1StatusChance": "75%",
+    "Attack1CritChance": "11%",
+    "Attack1CritMultiplier": "2.3x",
+    "Attack1PunchThrough": "1.5 m",
+    "Attack1Falloff": "100% damage up to 15 m27% damage at 25 m73% max reduction"
+  },
+  "Fully Spooled": {
+    "Attack2Total": "360 (60%)",
+    "Attack2ShotType": "Hit-Scan",
+    "Attack2Range": "300 m",
+    "Attack2FireRate": "3.67",
+    "Attack2Multishot": "12 (30 damage per projectile)",
+    "Attack2StatusChance": "6.25%",
+    "Attack2CritChance": "11%",
+    "Attack2CritMultiplier": "2.3x",
+    "Attack2PunchThrough": "1.5 m",
+    "Attack2Falloff": "100% damage up to 15 m27% damage at 25 m73% max reduction",
+    "Attack2AmmoCost": "4"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Users": "Kuva Lancer",
+    "Introduced": "Update 15.6 (2014-12-11)",
+    "Variants": "Kuva Kohm Kuva Kohm",
+    "InternalName": "/Lotus/Weapons/Grineer/LongGuns/GrnSpark/GrnSparkRifle"
+  }
+}

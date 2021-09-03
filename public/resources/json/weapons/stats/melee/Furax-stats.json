@@ -1,0 +1,40 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "ComboDur": "5 s",
+    "BlockAngle": "50°",
+    "FollowThrough": "90%",
+    "Disposition": "●●●●● (1.38x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "135 (70%)",
+    "Attack1FireRate": "1",
+    "Attack1StatusChance": "11%",
+    "Attack1CritChance": "25%",
+    "Attack1CritMultiplier": "2.3x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "675",
+    "WindUp": "0.6 s",
+    "HeavySlamAttack": "540",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "540"
+  },
+  "Slam Attack": {
+    "SlamAttack": "405",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "405"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Users": "Powerfist (single Furax)",
+    "Introduced": "Vanilla (2012-10-25)",
+    "Variants": "Furax Wraith Furax WraithMK1-Furax MK1-Furax",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Fist/Fist"
+  }
+}

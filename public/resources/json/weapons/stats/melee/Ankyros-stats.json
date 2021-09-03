@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.17",
+    "ComboDur": "5 s",
+    "BlockAngle": "50°",
+    "FollowThrough": "90%",
+    "Disposition": "●●●●● (1.45x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "90 (70%)",
+    "Attack1FireRate": "1.17",
+    "Attack1StatusChance": "10%",
+    "Attack1CritChance": "20%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "450",
+    "WindUp": "0.6 s",
+    "HeavySlamAttack": "360",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "360"
+  },
+  "Slam Attack": {
+    "SlamAttack": "270",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "270"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Update 7.8 (2013-04-19)",
+    "Variants": "Ankyros Prime Ankyros Prime",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Gauntlet/Gauntlet"
+  }
+}

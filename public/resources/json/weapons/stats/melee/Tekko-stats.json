@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.917",
+    "ComboDur": "5 s",
+    "BlockAngle": "50°",
+    "FollowThrough": "90%",
+    "Disposition": "●●●●● (1.40x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "160 (70%)",
+    "Attack1FireRate": "0.917",
+    "Attack1StatusChance": "10%",
+    "Attack1CritChance": "30%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "800",
+    "WindUp": "0.6 s",
+    "HeavySlamAttack": "640",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "640"
+  },
+  "Slam Attack": {
+    "SlamAttack": "480",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "480"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 17.5 (2015-10-01)",
+    "Variants": "Tekko Prime Tekko Prime",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Gauntlet/BrawlerKnuckles/BrawlerKnuckles"
+  }
+}

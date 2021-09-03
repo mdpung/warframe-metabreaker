@@ -1,0 +1,29 @@
+{
+  "Utility": {
+    "AmmoType": "Shotgun",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "Accuracy": "3.3",
+    "Magazine": "20",
+    "MaxAmmo": "INF",
+    "Reload": "2 s",
+    "Disposition": "●●●○○ (1.00x)"
+  },
+  "Normal": {
+    "Attack1Total": "60 ( 85%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1FireRate": "1",
+    "Attack1Multishot": "6 (10 damage per projectile)",
+    "Attack1StatusChance": "2.5%",
+    "Attack1CritChance": "5%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 16.11 (2015-07-07)",
+    "Variants": " Sweeper"
+  }
+}

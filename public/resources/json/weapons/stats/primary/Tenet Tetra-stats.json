@@ -1,0 +1,55 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Projectile",
+    "ShotSpeed": "100 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "5",
+    "Accuracy": "18.2",
+    "Magazine": "80",
+    "MaxAmmo": "480",
+    "Reload": "2.2 s",
+    "Disposition": "●○○○○ (0.50x)"
+  },
+  "Normal": {
+    "Attack1Total": "75 (44.8%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "100 m/s",
+    "Attack1FireRate": "5",
+    "Attack1Multishot": "1 (75 damage per projectile)",
+    "Attack1StatusChance": "30%",
+    "Attack1CritChance": "28%",
+    "Attack1CritMultiplier": "2.2x"
+  },
+  "Grenade Impact": {
+    "Attack2Total": "250 (80%)",
+    "Attack2ShotType": "Projectile",
+    "Attack2ShotSpeed": "? m/s",
+    "Attack2FireRate": "1.33",
+    "Attack2Reload": "1.8 s",
+    "Attack2Multishot": "1 (250 damage per projectile)",
+    "Attack2StatusChance": "30%",
+    "Attack2CritChance": "28%",
+    "Attack2CritMultiplier": "2.2x",
+    "Attack2AmmoCost": "80"
+  },
+  "Grenade Explosion": {
+    "Attack3Total": "1,250 (80%)",
+    "Attack3ShotType": "AoE",
+    "Attack3Range": "8 m",
+    "Attack3FireRate": "1.33",
+    "Attack3Multishot": "1 (1,250 damage per projectile)",
+    "Attack3StatusChance": "30%",
+    "Attack3CritChance": "28%",
+    "Attack3CritMultiplier": "2.2x",
+    "Attack3Falloff": "100% damage up to 0 m40% damage at 8 m60% max reduction",
+    "Attack3AmmoCost": "80"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Introduced": "Update 30.5 (2021-07-06)",
+    "Variants": "Prisma Tetra Prisma TetraTetra Tetra",
+    "InternalName": "/Lotus/Weapons/Corpus/BoardExec/Primary/CrpBETetra/CrpBETetra"
+  }
+}

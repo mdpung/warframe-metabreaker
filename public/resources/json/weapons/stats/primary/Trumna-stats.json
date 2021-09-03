@@ -1,0 +1,62 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "4.67",
+    "Accuracy": "200",
+    "Magazine": "200",
+    "MaxAmmo": "400",
+    "Reload": "5 s",
+    "Disposition": "●●○○○ (0.75x)"
+  },
+  "Auto": {
+    "Attack1Total": "82 (64.63%)",
+    "Attack1Trigger": "Auto",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "4.67",
+    "Attack1Multishot": "1 (82 damage per projectile)",
+    "Attack1StatusChance": "30%",
+    "Attack1CritChance": "24%",
+    "Attack1CritMultiplier": "2.2x"
+  },
+  "Auto Radial Attack": {
+    "Attack2Total": "50",
+    "Attack2ShotType": "AoE",
+    "Attack2Range": "1.6 m",
+    "Attack2FireRate": "4.67",
+    "Attack2Multishot": "1 (50 damage per projectile)",
+    "Attack2StatusChance": "30%",
+    "Attack2CritChance": "24%",
+    "Attack2CritMultiplier": "2.2x",
+    "Attack2Falloff": "100% damage up to 0 m85% damage at 1.6 m15% max reduction"
+  },
+  "Grenade Impact": {
+    "Attack3Total": "100",
+    "Attack3Trigger": "Semi-Auto",
+    "Attack3FireRate": "1.33",
+    "Attack3Accuracy": "9.1",
+    "Attack3Multishot": "1 (100 damage per projectile)",
+    "Attack3StatusChance": "50%",
+    "Attack3CritChance": "38%",
+    "Attack3CritMultiplier": "2.4x"
+  },
+  "Grenade Explosion on Bounce": {
+    "Attack4Total": "1,000",
+    "Attack4ShotType": "AoE",
+    "Attack4Range": "6 m",
+    "Attack4FireRate": "1.33",
+    "Attack4Multishot": "1 (1,000 damage per projectile)",
+    "Attack4StatusChance": "50%",
+    "Attack4CritChance": "38%",
+    "Attack4CritMultiplier": "2.4x",
+    "Attack4Falloff": "100% damage up to 0 m60% damage at 6 m40% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Introduced": "Update 29.0 (2020-08-25)",
+    "InternalName": "/Lotus/Weapons/Thanotech/ThanoRifle/ThanotechRifle"
+  }
+}

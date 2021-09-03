@@ -1,0 +1,38 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.17",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "70%",
+    "Disposition": "●●●○○ (0.90x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "175 (78%)",
+    "Attack1FireRate": "1.17",
+    "Attack1StatusChance": "30%",
+    "Attack1CritChance": "19%",
+    "Attack1CritMultiplier": "2.1x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "875",
+    "WindUp": "0.5 s",
+    "HeavySlamAttack": "700",
+    "HeavySlamRadius": "7 m",
+    "HeavyRadialDmg": "700"
+  },
+  "Slam Attack": {
+    "SlamAttack": "525",
+    "SlamRadius": "6 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "350"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 23.0 (2018-06-15)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Swords/UmbraKatana/UmbraKatana"
+  }
+}

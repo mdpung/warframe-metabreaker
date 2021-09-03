@@ -1,0 +1,31 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "4.17",
+    "Accuracy": "28.6",
+    "Magazine": "15",
+    "MaxAmmo": "540",
+    "Reload": "2.4 s",
+    "Disposition": "●●●●● (1.40x)"
+  },
+  "Normal": {
+    "Attack1Total": "55 (70%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "4.17",
+    "Attack1Multishot": "1 (55 damage per projectile)",
+    "Attack1StatusChance": "12%",
+    "Attack1CritChance": "12%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Users": "Clem",
+    "Introduced": "Vanilla (2012-10-25)",
+    "Variants": "Latron Prime Latron PrimeLatron Wraith Latron Wraith",
+    "InternalName": "/Lotus/Weapons/Tenno/Rifle/SemiAutoRifle"
+  }
+}

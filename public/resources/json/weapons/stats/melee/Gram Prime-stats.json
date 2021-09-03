@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.8",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "60%",
+    "Disposition": "●●○○○ (0.75x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "300 (75%)",
+    "Attack1FireRate": "0.8",
+    "Attack1StatusChance": "32%",
+    "Attack1CritChance": "32%",
+    "Attack1CritMultiplier": "2.6x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,800",
+    "WindUp": "1.1 s",
+    "HeavySlamAttack": "300",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "1,500"
+  },
+  "Slam Attack": {
+    "SlamAttack": "900",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "600"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 23.9 (2018-09-25)",
+    "Variants": "Gram Gram",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Swords/PrimeGram/PrimeGram"
+  }
+}

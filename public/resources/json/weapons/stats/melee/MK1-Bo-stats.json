@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "ComboDur": "5 s",
+    "BlockAngle": "60°",
+    "FollowThrough": "50%",
+    "Disposition": "●●●●● (1.40x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "90 (90%)",
+    "Attack1FireRate": "1",
+    "Attack1StatusChance": "10%",
+    "Attack1CritChance": "10%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "450",
+    "WindUp": "0.5 s",
+    "HeavySlamAttack": "360",
+    "HeavySlamRadius": "7 m",
+    "HeavyRadialDmg": "360"
+  },
+  "Slam Attack": {
+    "SlamAttack": "270",
+    "SlamRadius": "6 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "90"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 14.0 (2014-07-18)",
+    "Variants": "Bo Prime Bo PrimeBo Bo",
+    "InternalName": "/Lotus/Weapons/MK1Series/MK1Bo"
+  }
+}

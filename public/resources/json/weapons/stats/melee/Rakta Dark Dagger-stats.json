@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "ComboDur": "5 s",
+    "BlockAngle": "45°",
+    "FollowThrough": "90%",
+    "Disposition": "●●●○○ (0.95x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "246 (39.02%)",
+    "Attack1FireRate": "1",
+    "Attack1StatusChance": "30%",
+    "Attack1CritChance": "12%",
+    "Attack1CritMultiplier": "1.8x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "492",
+    "WindUp": "0.4 s",
+    "HeavySlamAttack": "984",
+    "HeavySlamRadius": "6 m",
+    "HeavyRadialDmg": "984"
+  },
+  "Slam Attack": {
+    "SlamAttack": "492",
+    "SlamRadius": "5 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "492"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update: The Silver Grove 2.0 (2016-09-15)",
+    "Variants": "Dark Dagger Dark Dagger",
+    "InternalName": "/Lotus/Weapons/Syndicates/RedVeil/Melee/RVDarkDagger"
+  }
+}

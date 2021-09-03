@@ -1,0 +1,30 @@
+{
+  "Utility": {
+    "AmmoType": "Shotgun",
+    "ShotType": "Discharge",
+    "NoiseLevel": "Alarming",
+    "FireRate": "12",
+    "Accuracy": "50",
+    "Magazine": "90",
+    "MaxAmmo": "720",
+    "Reload": "2 s",
+    "Disposition": "●●●●● (1.46x)"
+  },
+  "Normal": {
+    "Attack1Total": "35",
+    "Attack1ShotType": "Discharge",
+    "Attack1Range": "25 m",
+    "Attack1FireRate": "12",
+    "Attack1Multishot": "7 (5 damage per projectile)",
+    "Attack1StatusChance": "15.5%",
+    "Attack1CritChance": "19%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1AmmoCost": "0.5"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 12.0 (2014-02-05)",
+    "InternalName": "/Lotus/Weapons/Infested/LongGuns/Tentacluster/InfestedShotgun"
+  }
+}

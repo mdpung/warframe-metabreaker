@@ -1,0 +1,85 @@
+{
+  "Utility": {
+    "ShotType": "Thrown",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.75",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "70%",
+    "Disposition": "●●●●● (1.35x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "195 (75%)",
+    "Attack1FireRate": "0.75",
+    "Attack1StatusChance": "18%",
+    "Attack1CritChance": "18%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Throw": {
+    "Attack2Total": "215 (75%)",
+    "Attack2ShotType": "Thrown",
+    "Attack2ShotSpeed": "? m/s",
+    "Attack2Range": "30 m",
+    "Attack2FireRate": "0.75",
+    "Attack2StatusChance": "20%",
+    "Attack2CritChance": "20%",
+    "Attack2CritMultiplier": "2.2x"
+  },
+  "Throw Explosion": {
+    "Attack3Total": "586",
+    "Attack3ShotType": "AoE",
+    "ForcedProcs": "Cold Damage Cold",
+    "Attack3Range": "4 m",
+    "Attack3FireRate": "0.75",
+    "Attack3StatusChance": "20%",
+    "Attack3CritChance": "20%",
+    "Attack3CritMultiplier": "2.2x",
+    "Attack3Falloff": "100% damage up to 0 m100% damage at 4 m0% max reduction"
+  },
+  "Charged Throw": {
+    "Attack4Total": "429 (75%)",
+    "Attack4ShotType": "Thrown",
+    "Attack4ShotSpeed": "? m/s",
+    "Attack4Range": "30 m",
+    "Attack4FireRate": "0.833",
+    "Attack4ChargeTime": "1.2 s",
+    "Attack4StatusChance": "22%",
+    "Attack4CritChance": "22%",
+    "Attack4CritMultiplier": "2.4x"
+  },
+  "Charged Throw Explosion": {
+    "Attack5Total": "1,170",
+    "Attack5ShotType": "AoE",
+    "ForcedProcs": "Cold Damage Cold",
+    "Attack5Range": "4 m",
+    "Attack5FireRate": "0.833",
+    "Attack5ChargeTime": "1.2 s",
+    "Attack5StatusChance": "22%",
+    "Attack5CritChance": "22%",
+    "Attack5CritMultiplier": "2.4x",
+    "Attack5Falloff": "100% damage up to 0 m100% damage at 4 m0% max reduction"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "0",
+    "WindUp": "1.2 s",
+    "HeavySlamAttack": "780",
+    "HeavySlamRadius": "6 m",
+    "HeavyRadialDmg": "780"
+  },
+  "Slam Attack": {
+    "SlamAttack": "585",
+    "SlamRadius": "5 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "390"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Users": "Teshin",
+    "Introduced": "Update 19.0 (2016-11-11)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Glaives/TeshinGlaive/TnTeshinGlaiveWep"
+  }
+}

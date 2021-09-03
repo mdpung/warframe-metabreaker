@@ -1,0 +1,58 @@
+{
+  "Utility": {
+    "AmmoType": "Sniper",
+    "ShotType": "Projectile",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Silent",
+    "FireRate": "1",
+    "Accuracy": "16.7",
+    "Magazine": "1",
+    "MaxAmmo": "9",
+    "Reload": "0.6 s",
+    "Disposition": "●○○○○ (0.55x)"
+  },
+  "Charged Shot": {
+    "Attack1Total": "279 (52.01%)",
+    "Attack1Trigger": "Charge",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "? m/s",
+    "Attack1FireRate": "1",
+    "Attack1ChargeTime": "0.7 s",
+    "Attack1Multishot": "1 (279 damage per projectile)",
+    "Attack1StatusChance": "43%",
+    "Attack1CritChance": "7%",
+    "Attack1CritMultiplier": "1.9x"
+  },
+  "Appendages": {
+    "Attack2Total": "90 (56.25%)",
+    "Attack2ShotType": "AoE",
+    "Attack2Range": "9 m",
+    "Attack2FireRate": "1",
+    "Attack2ChargeTime": "0.7 s",
+    "Attack2Multishot": "1 (90 damage per projectile)",
+    "Attack2StatusChance": "43%",
+    "Attack2CritChance": "7%",
+    "Attack2CritMultiplier": "1.9x",
+    "Attack2Falloff": "100% damage up to 0 m100% damage at 9 m0% max reduction"
+  },
+  "Charged Shot Explosion": {
+    "Attack3Total": "1,003",
+    "Attack3ShotType": "AoE",
+    "Attack3Range": "7 m",
+    "Attack3FireRate": "1",
+    "Attack3ChargeTime": "0.7 s",
+    "Attack3Multishot": "1 (1,003 damage per projectile)",
+    "Attack3StatusChance": "43%",
+    "Attack3CritChance": "7%",
+    "Attack3CritMultiplier": "1.9x",
+    "Attack3ExplosionDelay": "1.7 s",
+    "Attack3Falloff": "100% damage up to 0 m50% damage at 7 m50% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 29.5 (2020-11-19)",
+    "Variants": "Cernos Prime Cernos PrimeCernos CernosMutalist Cernos Mutalist CernosRakta Cernos Rakta Cernos",
+    "InternalName": "/Lotus/Weapons/Tenno/Bows/PrimeDerelictCernos/DerelictCernos"
+  }
+}

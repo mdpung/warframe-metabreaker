@@ -1,0 +1,30 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Projectile",
+    "ShotSpeed": "90 m/s",
+    "NoiseLevel": "Silent",
+    "FireRate": "3.67",
+    "Accuracy": "40",
+    "Magazine": "20",
+    "MaxAmmo": "540",
+    "Reload": "2.83 s",
+    "Disposition": "●●●●● (1.42x)"
+  },
+  "Normal": {
+    "Attack1Total": "80 (75%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "90 m/s",
+    "Attack1FireRate": "3.67",
+    "Attack1Multishot": "1 (80 damage per projectile)",
+    "Attack1StatusChance": "10%",
+    "Attack1CritChance": "25%",
+    "Attack1CritMultiplier": "3x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 13.0 (2014-04-09)",
+    "InternalName": "/Lotus/Weapons/Tenno/LongGuns/TnoPrmryXbow/TnoPrmryXbowWeapon"
+  }
+}

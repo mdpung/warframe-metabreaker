@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.17",
+    "ComboDur": "5 s",
+    "BlockAngle": "60°",
+    "FollowThrough": "50%",
+    "Disposition": "●●●●○ (1.20x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "160 (75%)",
+    "Attack1FireRate": "1.17",
+    "Attack1StatusChance": "25%",
+    "Attack1CritChance": "20%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "640",
+    "WindUp": "0.7 s",
+    "HeavySlamAttack": "640",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "640"
+  },
+  "Slam Attack": {
+    "SlamAttack": "320",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "320"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 17.6 (2015-10-06)",
+    "Variants": "Dual Kamas Dual Kamas",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/PrimeDualKamas/PrimeDualKamas"
+  }
+}

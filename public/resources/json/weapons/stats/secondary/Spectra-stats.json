@@ -1,0 +1,32 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Discharge",
+    "Range": "18 m",
+    "NoiseLevel": "Alarming",
+    "FireRate": "12",
+    "Accuracy": "100",
+    "Magazine": "60",
+    "MaxAmmo": "360",
+    "Reload": "1.8 s",
+    "Disposition": "●●●●● (1.49x)"
+  },
+  "Normal": {
+    "Attack1Total": "18 ( 58%)",
+    "Attack1ShotType": "Discharge",
+    "Attack1Range": "18 m",
+    "Attack1FireRate": "12",
+    "Attack1Multishot": "1 (18 damage per projectile)",
+    "Attack1StatusChance": "22%",
+    "Attack1CritChance": "14%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "0.5 m",
+    "Attack1AmmoCost": "0.5"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Introduced": "Update 9.0 (2013-07-13)",
+    "Variants": " Spectra Vandal"
+  }
+}

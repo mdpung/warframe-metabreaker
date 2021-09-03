@@ -1,0 +1,30 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "13.33",
+    "Spool": "11",
+    "Accuracy": "12.5",
+    "Magazine": "80",
+    "MaxAmmo": "880",
+    "Reload": "1.4 s",
+    "Disposition": "●●●○○ (0.95x)"
+  },
+  "Fully Spooled": {
+    "Attack1Total": "20 ( 50%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1FireRate": "13.33",
+    "Attack1Multishot": "1 (20 damage per projectile)",
+    "Attack1StatusChance": "18%",
+    "Attack1CritChance": "24%",
+    "Attack1CritMultiplier": "3x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Hotfix 27.0.4 (2019-12-17)",
+    "Variants": " Aksomati"
+  }
+}

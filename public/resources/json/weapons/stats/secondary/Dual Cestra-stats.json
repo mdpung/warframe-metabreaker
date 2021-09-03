@@ -1,0 +1,32 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "100 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "18.75",
+    "Accuracy": "20",
+    "Magazine": "120",
+    "MaxAmmo": "480",
+    "Reload": "3.5 s",
+    "Disposition": "●●●●● (1.35x)"
+  },
+  "Normal": {
+    "Attack1Total": "26 ( 80%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "100 m/s",
+    "Attack1FireRate": "18.75",
+    "Attack1Multishot": "1 (26 damage per projectile)",
+    "Attack1StatusChance": "20%",
+    "Attack1CritChance": "6%",
+    "Attack1CritMultiplier": "1.6x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Users": "DarvoJen Dro",
+    "Introduced": "Update 12.0 (2014-02-05)",
+    "Variants": " Secura Dual Cestra"
+  }
+}

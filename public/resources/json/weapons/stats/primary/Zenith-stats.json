@@ -1,0 +1,43 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "10.83",
+    "Accuracy": "33.33",
+    "Magazine": "90",
+    "MaxAmmo": "540",
+    "Reload": "1.6 s",
+    "Disposition": "●●●○○ (1.10x)"
+  },
+  "Auto Mode": {
+    "Attack1Total": "30 (65%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "10.83",
+    "Attack1Multishot": "1 (30 damage per projectile)",
+    "Attack1StatusChance": "34%",
+    "Attack1CritChance": "10%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Semi-Auto Mode": {
+    "Attack2Total": "150 (80%)",
+    "Attack2Trigger": "Semi-Auto",
+    "Attack2ShotType": "Hit-Scan",
+    "Attack2Range": "300 m",
+    "Attack2FireRate": "3",
+    "Attack2Reload": "1.4 s",
+    "Attack2Multishot": "1 (150 damage per projectile)",
+    "Attack2StatusChance": "8%",
+    "Attack2CritChance": "35%",
+    "Attack2CritMultiplier": "2.5x",
+    "Attack2PunchThrough": "99999 m",
+    "Attack2AmmoCost": "3"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 20.2 (2017-04-12)",
+    "InternalName": "/Lotus/Weapons/Tenno/LongGuns/LoginPrimary/SundialRifle"
+  }
+}

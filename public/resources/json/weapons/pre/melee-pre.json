@@ -1,0 +1,726 @@
+[
+  {
+    "name": "Keratinos",
+    "link": "https://warframe.fandom.com/wiki/Keratinos"
+  },
+  {
+    "name": "Ripkas",
+    "link": "https://warframe.fandom.com/wiki/Ripkas"
+  },
+  {
+    "name": "Venka",
+    "link": "https://warframe.fandom.com/wiki/Venka"
+  },
+  {
+    "name": "Venka Prime",
+    "link": "https://warframe.fandom.com/wiki/Venka_Prime"
+  },
+  {
+    "name": "Ankyros",
+    "link": "https://warframe.fandom.com/wiki/Ankyros"
+  },
+  {
+    "name": "Ankyros Prime",
+    "link": "https://warframe.fandom.com/wiki/Ankyros_Prime"
+  },
+  {
+    "name": "Furax",
+    "link": "https://warframe.fandom.com/wiki/Furax"
+  },
+  {
+    "name": "MK1-Furax",
+    "link": "https://warframe.fandom.com/wiki/MK1-Furax"
+  },
+  {
+    "name": "Furax Wraith",
+    "link": "https://warframe.fandom.com/wiki/Furax_Wraith"
+  },
+  {
+    "name": "Tekko",
+    "link": "https://warframe.fandom.com/wiki/Tekko"
+  },
+  {
+    "name": "Tekko Prime",
+    "link": "https://warframe.fandom.com/wiki/Tekko_Prime"
+  },
+  {
+    "name": "Hirudo",
+    "link": "https://warframe.fandom.com/wiki/Hirudo"
+  },
+  {
+    "name": "Kogake",
+    "link": "https://warframe.fandom.com/wiki/Kogake"
+  },
+  {
+    "name": "Kogake Prime",
+    "link": "https://warframe.fandom.com/wiki/Kogake_Prime"
+  },
+  {
+    "name": "Korrudo",
+    "link": "https://warframe.fandom.com/wiki/Korrudo"
+  },
+  {
+    "name": "Obex",
+    "link": "https://warframe.fandom.com/wiki/Obex"
+  },
+  {
+    "name": "Prisma Obex",
+    "link": "https://warframe.fandom.com/wiki/Prisma_Obex"
+  },
+  {
+    "name": "Ceramic Dagger",
+    "link": "https://warframe.fandom.com/wiki/Ceramic_Dagger"
+  },
+  {
+    "name": "Dark Dagger",
+    "link": "https://warframe.fandom.com/wiki/Dark_Dagger"
+  },
+  {
+    "name": "Rakta Dark Dagger",
+    "link": "https://warframe.fandom.com/wiki/Rakta_Dark_Dagger"
+  },
+  {
+    "name": "Heat Dagger",
+    "link": "https://warframe.fandom.com/wiki/Heat_Dagger"
+  },
+  {
+    "name": "Karyst",
+    "link": "https://warframe.fandom.com/wiki/Karyst"
+  },
+  {
+    "name": "Karyst Prime",
+    "link": "https://warframe.fandom.com/wiki/Karyst_Prime"
+  },
+  {
+    "name": "Sheev",
+    "link": "https://warframe.fandom.com/wiki/Sheev"
+  },
+  {
+    "name": "Ether Daggers",
+    "link": "https://warframe.fandom.com/wiki/Ether_Daggers"
+  },
+  {
+    "name": "Fang",
+    "link": "https://warframe.fandom.com/wiki/Fang"
+  },
+  {
+    "name": "Fang Prime",
+    "link": "https://warframe.fandom.com/wiki/Fang_Prime"
+  },
+  {
+    "name": "Okina",
+    "link": "https://warframe.fandom.com/wiki/Okina"
+  },
+  {
+    "name": "Dark Split-Sword (Heavy Blade)",
+    "link": "https://warframe.fandom.com/wiki/Dark_Split-Sword_(Heavy_Blade)"
+  },
+  {
+    "name": "Galatine",
+    "link": "https://warframe.fandom.com/wiki/Galatine"
+  },
+  {
+    "name": "Galatine Prime",
+    "link": "https://warframe.fandom.com/wiki/Galatine_Prime"
+  },
+  {
+    "name": "Gram",
+    "link": "https://warframe.fandom.com/wiki/Gram"
+  },
+  {
+    "name": "Gram Prime",
+    "link": "https://warframe.fandom.com/wiki/Gram_Prime"
+  },
+  {
+    "name": "Masseter",
+    "link": "https://warframe.fandom.com/wiki/Masseter"
+  },
+  {
+    "name": "Paracesis",
+    "link": "https://warframe.fandom.com/wiki/Paracesis"
+  },
+  {
+    "name": "Scindo",
+    "link": "https://warframe.fandom.com/wiki/Scindo"
+  },
+  {
+    "name": "Scindo Prime",
+    "link": "https://warframe.fandom.com/wiki/Scindo_Prime"
+  },
+  {
+    "name": "Tenet Exec",
+    "link": "https://warframe.fandom.com/wiki/Tenet_Exec"
+  },
+  {
+    "name": "Vitrica",
+    "link": "https://warframe.fandom.com/wiki/Vitrica"
+  },
+  {
+    "name": "War",
+    "link": "https://warframe.fandom.com/wiki/War"
+  },
+  {
+    "name": "Zenistar",
+    "link": "https://warframe.fandom.com/wiki/Zenistar"
+  },
+  {
+    "name": "Arca Titron",
+    "link": "https://warframe.fandom.com/wiki/Arca_Titron"
+  },
+  {
+    "name": "Fragor",
+    "link": "https://warframe.fandom.com/wiki/Fragor"
+  },
+  {
+    "name": "Fragor Prime",
+    "link": "https://warframe.fandom.com/wiki/Fragor_Prime"
+  },
+  {
+    "name": "Heliocor",
+    "link": "https://warframe.fandom.com/wiki/Heliocor"
+  },
+  {
+    "name": "Synoid Heliocor",
+    "link": "https://warframe.fandom.com/wiki/Synoid_Heliocor"
+  },
+  {
+    "name": "Jat Kittag",
+    "link": "https://warframe.fandom.com/wiki/Jat_Kittag"
+  },
+  {
+    "name": "Magistar",
+    "link": "https://warframe.fandom.com/wiki/Magistar"
+  },
+  {
+    "name": "Kuva Shildeg",
+    "link": "https://warframe.fandom.com/wiki/Kuva_Shildeg"
+  },
+  {
+    "name": "Sancti Magistar",
+    "link": "https://warframe.fandom.com/wiki/Sancti_Magistar"
+  },
+  {
+    "name": "Sibear",
+    "link": "https://warframe.fandom.com/wiki/Sibear"
+  },
+  {
+    "name": "Volnus",
+    "link": "https://warframe.fandom.com/wiki/Volnus"
+  },
+  {
+    "name": "Volnus Prime",
+    "link": "https://warframe.fandom.com/wiki/Volnus_Prime"
+  },
+  {
+    "name": "Wolf Sledge",
+    "link": "https://warframe.fandom.com/wiki/Wolf_Sledge"
+  },
+  {
+    "name": "Jat Kusar",
+    "link": "https://warframe.fandom.com/wiki/Jat_Kusar"
+  },
+  {
+    "name": "Lacera",
+    "link": "https://warframe.fandom.com/wiki/Lacera"
+  },
+  {
+    "name": "Ceti Lacera",
+    "link": "https://warframe.fandom.com/wiki/Ceti_Lacera"
+  },
+  {
+    "name": "Mios",
+    "link": "https://warframe.fandom.com/wiki/Mios"
+  },
+  {
+    "name": "Cerata",
+    "link": "https://warframe.fandom.com/wiki/Cerata"
+  },
+  {
+    "name": "Falcor",
+    "link": "https://warframe.fandom.com/wiki/Falcor"
+  },
+  {
+    "name": "Glaive",
+    "link": "https://warframe.fandom.com/wiki/Glaive"
+  },
+  {
+    "name": "Glaive Prime",
+    "link": "https://warframe.fandom.com/wiki/Glaive_Prime"
+  },
+  {
+    "name": "Halikar",
+    "link": "https://warframe.fandom.com/wiki/Halikar"
+  },
+  {
+    "name": "Halikar Wraith",
+    "link": "https://warframe.fandom.com/wiki/Halikar_Wraith"
+  },
+  {
+    "name": "Kestrel",
+    "link": "https://warframe.fandom.com/wiki/Kestrel"
+  },
+  {
+    "name": "Orvius",
+    "link": "https://warframe.fandom.com/wiki/Orvius"
+  },
+  {
+    "name": "Xoris",
+    "link": "https://warframe.fandom.com/wiki/Xoris"
+  },
+  {
+    "name": "Pathocyst",
+    "link": "https://warframe.fandom.com/wiki/Pathocyst"
+  },
+  {
+    "name": "Redeemer",
+    "link": "https://warframe.fandom.com/wiki/Redeemer"
+  },
+  {
+    "name": "Redeemer Prime",
+    "link": "https://warframe.fandom.com/wiki/Redeemer_Prime"
+  },
+  {
+    "name": "Sarpa",
+    "link": "https://warframe.fandom.com/wiki/Sarpa"
+  },
+  {
+    "name": "Stropha",
+    "link": "https://warframe.fandom.com/wiki/Stropha"
+  },
+  {
+    "name": "Vastilok",
+    "link": "https://warframe.fandom.com/wiki/Vastilok"
+  },
+  {
+    "name": "Atterax",
+    "link": "https://warframe.fandom.com/wiki/Atterax"
+  },
+  {
+    "name": "Galvacord",
+    "link": "https://warframe.fandom.com/wiki/Galvacord"
+  },
+  {
+    "name": "Lecta",
+    "link": "https://warframe.fandom.com/wiki/Lecta"
+  },
+  {
+    "name": "Secura Lecta",
+    "link": "https://warframe.fandom.com/wiki/Secura_Lecta"
+  },
+  {
+    "name": "Scoliac",
+    "link": "https://warframe.fandom.com/wiki/Scoliac"
+  },
+  {
+    "name": "Ninkondi",
+    "link": "https://warframe.fandom.com/wiki/Ninkondi"
+  },
+  {
+    "name": "Ninkondi Prime",
+    "link": "https://warframe.fandom.com/wiki/Ninkondi_Prime"
+  },
+  {
+    "name": "Shaku",
+    "link": "https://warframe.fandom.com/wiki/Shaku"
+  },
+  {
+    "name": "Pulmonars",
+    "link": "https://warframe.fandom.com/wiki/Pulmonars"
+  },
+  {
+    "name": "Cassowar",
+    "link": "https://warframe.fandom.com/wiki/Cassowar"
+  },
+  {
+    "name": "Guandao",
+    "link": "https://warframe.fandom.com/wiki/Guandao"
+  },
+  {
+    "name": "Guandao Prime",
+    "link": "https://warframe.fandom.com/wiki/Guandao_Prime"
+  },
+  {
+    "name": "Orthos Prime",
+    "link": "https://warframe.fandom.com/wiki/Orthos_Prime"
+  },
+  {
+    "name": "Kesheg",
+    "link": "https://warframe.fandom.com/wiki/Kesheg"
+  },
+  {
+    "name": "Lesion",
+    "link": "https://warframe.fandom.com/wiki/Lesion"
+  },
+  {
+    "name": "Orthos",
+    "link": "https://warframe.fandom.com/wiki/Orthos"
+  },
+  {
+    "name": "Pupacyst",
+    "link": "https://warframe.fandom.com/wiki/Pupacyst"
+  },
+  {
+    "name": "Serro",
+    "link": "https://warframe.fandom.com/wiki/Serro"
+  },
+  {
+    "name": "Sydon",
+    "link": "https://warframe.fandom.com/wiki/Sydon"
+  },
+  {
+    "name": "Vaykor Sydon",
+    "link": "https://warframe.fandom.com/wiki/Vaykor_Sydon"
+  },
+  {
+    "name": "Tonbo",
+    "link": "https://warframe.fandom.com/wiki/Tonbo"
+  },
+  {
+    "name": "Anku",
+    "link": "https://warframe.fandom.com/wiki/Anku"
+  },
+  {
+    "name": "Caustacyst",
+    "link": "https://warframe.fandom.com/wiki/Caustacyst"
+  },
+  {
+    "name": "Ether Reaper",
+    "link": "https://warframe.fandom.com/wiki/Ether_Reaper"
+  },
+  {
+    "name": "Hate",
+    "link": "https://warframe.fandom.com/wiki/Hate"
+  },
+  {
+    "name": "Reaper Prime",
+    "link": "https://warframe.fandom.com/wiki/Reaper_Prime"
+  },
+  {
+    "name": "Tenet Grigori",
+    "link": "https://warframe.fandom.com/wiki/Tenet_Grigori"
+  },
+  {
+    "name": "Amphis",
+    "link": "https://warframe.fandom.com/wiki/Amphis"
+  },
+  {
+    "name": "Bo",
+    "link": "https://warframe.fandom.com/wiki/Bo"
+  },
+  {
+    "name": "MK1-Bo",
+    "link": "https://warframe.fandom.com/wiki/MK1-Bo"
+  },
+  {
+    "name": "Bo Prime",
+    "link": "https://warframe.fandom.com/wiki/Bo_Prime"
+  },
+  {
+    "name": "Broken Scepter",
+    "link": "https://warframe.fandom.com/wiki/Broken_Scepter"
+  },
+  {
+    "name": "Cadus",
+    "link": "https://warframe.fandom.com/wiki/Cadus"
+  },
+  {
+    "name": "Tipedo",
+    "link": "https://warframe.fandom.com/wiki/Tipedo"
+  },
+  {
+    "name": "Tipedo Prime",
+    "link": "https://warframe.fandom.com/wiki/Tipedo_Prime"
+  },
+  {
+    "name": "Dark Split-Sword (Dual Swords)",
+    "link": "https://warframe.fandom.com/wiki/Dark_Split-Sword_(Dual_Swords)"
+  },
+  {
+    "name": "Dex Dakra",
+    "link": "https://warframe.fandom.com/wiki/Dex_Dakra"
+  },
+  {
+    "name": "Dual Cleavers",
+    "link": "https://warframe.fandom.com/wiki/Dual_Cleavers"
+  },
+  {
+    "name": "Prisma Dual Cleavers",
+    "link": "https://warframe.fandom.com/wiki/Prisma_Dual_Cleavers"
+  },
+  {
+    "name": "Dual Ether",
+    "link": "https://warframe.fandom.com/wiki/Dual_Ether"
+  },
+  {
+    "name": "Dual Heat Swords",
+    "link": "https://warframe.fandom.com/wiki/Dual_Heat_Swords"
+  },
+  {
+    "name": "Dual Ichor",
+    "link": "https://warframe.fandom.com/wiki/Dual_Ichor"
+  },
+  {
+    "name": "Dual Kamas",
+    "link": "https://warframe.fandom.com/wiki/Dual_Kamas"
+  },
+  {
+    "name": "Dual Kamas Prime",
+    "link": "https://warframe.fandom.com/wiki/Dual_Kamas_Prime"
+  },
+  {
+    "name": "Dual Keres",
+    "link": "https://warframe.fandom.com/wiki/Dual_Keres"
+  },
+  {
+    "name": "Dual Raza",
+    "link": "https://warframe.fandom.com/wiki/Dual_Raza"
+  },
+  {
+    "name": "Dual Skana",
+    "link": "https://warframe.fandom.com/wiki/Dual_Skana"
+  },
+  {
+    "name": "Dual Zoren",
+    "link": "https://warframe.fandom.com/wiki/Dual_Zoren"
+  },
+  {
+    "name": "Nami Skyla",
+    "link": "https://warframe.fandom.com/wiki/Nami_Skyla"
+  },
+  {
+    "name": "Nami Skyla Prime",
+    "link": "https://warframe.fandom.com/wiki/Nami_Skyla_Prime"
+  },
+  {
+    "name": "Twin Basolk",
+    "link": "https://warframe.fandom.com/wiki/Twin_Basolk"
+  },
+  {
+    "name": "Twin Krohkur",
+    "link": "https://warframe.fandom.com/wiki/Twin_Krohkur"
+  },
+  {
+    "name": "Gazal Machete",
+    "link": "https://warframe.fandom.com/wiki/Gazal_Machete"
+  },
+  {
+    "name": "Kama",
+    "link": "https://warframe.fandom.com/wiki/Kama"
+  },
+  {
+    "name": "Kreska",
+    "link": "https://warframe.fandom.com/wiki/Kreska"
+  },
+  {
+    "name": "Machete",
+    "link": "https://warframe.fandom.com/wiki/Machete"
+  },
+  {
+    "name": "Prisma Machete",
+    "link": "https://warframe.fandom.com/wiki/Prisma_Machete"
+  },
+  {
+    "name": "Machete Wraith",
+    "link": "https://warframe.fandom.com/wiki/Machete_Wraith"
+  },
+  {
+    "name": "Nami Solo",
+    "link": "https://warframe.fandom.com/wiki/Nami_Solo"
+  },
+  {
+    "name": "Prova",
+    "link": "https://warframe.fandom.com/wiki/Prova"
+  },
+  {
+    "name": "Prova Vandal",
+    "link": "https://warframe.fandom.com/wiki/Prova_Vandal"
+  },
+  {
+    "name": "Nikana",
+    "link": "https://warframe.fandom.com/wiki/Nikana"
+  },
+  {
+    "name": "Dragon Nikana",
+    "link": "https://warframe.fandom.com/wiki/Dragon_Nikana"
+  },
+  {
+    "name": "Nikana Prime",
+    "link": "https://warframe.fandom.com/wiki/Nikana_Prime"
+  },
+  {
+    "name": "Skiajati",
+    "link": "https://warframe.fandom.com/wiki/Skiajati"
+  },
+  {
+    "name": "Destreza",
+    "link": "https://warframe.fandom.com/wiki/Destreza"
+  },
+  {
+    "name": "Destreza Prime",
+    "link": "https://warframe.fandom.com/wiki/Destreza_Prime"
+  },
+  {
+    "name": "Endura",
+    "link": "https://warframe.fandom.com/wiki/Endura"
+  },
+  {
+    "name": "Broken War",
+    "link": "https://warframe.fandom.com/wiki/Broken_War"
+  },
+  {
+    "name": "Cronus",
+    "link": "https://warframe.fandom.com/wiki/Cronus"
+  },
+  {
+    "name": "Dakra Prime",
+    "link": "https://warframe.fandom.com/wiki/Dakra_Prime"
+  },
+  {
+    "name": "Dark Sword",
+    "link": "https://warframe.fandom.com/wiki/Dark_Sword"
+  },
+  {
+    "name": "Ether Sword",
+    "link": "https://warframe.fandom.com/wiki/Ether_Sword"
+  },
+  {
+    "name": "Heat Sword",
+    "link": "https://warframe.fandom.com/wiki/Heat_Sword"
+  },
+  {
+    "name": "Jaw Sword",
+    "link": "https://warframe.fandom.com/wiki/Jaw_Sword"
+  },
+  {
+    "name": "Krohkur",
+    "link": "https://warframe.fandom.com/wiki/Krohkur"
+  },
+  {
+    "name": "Mire",
+    "link": "https://warframe.fandom.com/wiki/Mire"
+  },
+  {
+    "name": "Pangolin Prime",
+    "link": "https://warframe.fandom.com/wiki/Pangolin_Prime"
+  },
+  {
+    "name": "Pangolin Sword",
+    "link": "https://warframe.fandom.com/wiki/Pangolin_Sword"
+  },
+  {
+    "name": "Plasma Sword",
+    "link": "https://warframe.fandom.com/wiki/Plasma_Sword"
+  },
+  {
+    "name": "Skana",
+    "link": "https://warframe.fandom.com/wiki/Skana"
+  },
+  {
+    "name": "Skana Prime",
+    "link": "https://warframe.fandom.com/wiki/Skana_Prime"
+  },
+  {
+    "name": "Prisma Skana",
+    "link": "https://warframe.fandom.com/wiki/Prisma_Skana"
+  },
+  {
+    "name": "Ack & Brunt",
+    "link": "https://warframe.fandom.com/wiki/Ack_%26_Brunt"
+  },
+  {
+    "name": "Cobra & Crane",
+    "link": "https://warframe.fandom.com/wiki/Cobra_%26_Crane"
+  },
+  {
+    "name": "Sigma & Octantis",
+    "link": "https://warframe.fandom.com/wiki/Sigma_%26_Octantis"
+  },
+  {
+    "name": "Silva & Aegis",
+    "link": "https://warframe.fandom.com/wiki/Silva_%26_Aegis"
+  },
+  {
+    "name": "Silva & Aegis Prime",
+    "link": "https://warframe.fandom.com/wiki/Silva_%26_Aegis_Prime"
+  },
+  {
+    "name": "Tenet Agendus",
+    "link": "https://warframe.fandom.com/wiki/Tenet_Agendus"
+  },
+  {
+    "name": "Pennant",
+    "link": "https://warframe.fandom.com/wiki/Pennant"
+  },
+  {
+    "name": "Tatsu",
+    "link": "https://warframe.fandom.com/wiki/Tatsu"
+  },
+  {
+    "name": "Tenet Livia",
+    "link": "https://warframe.fandom.com/wiki/Tenet_Livia"
+  },
+  {
+    "name": "Desert Wind",
+    "link": "https://warframe.fandom.com/wiki/Desert_Wind"
+  },
+  {
+    "name": "Diwata",
+    "link": "https://warframe.fandom.com/wiki/Diwata"
+  },
+  {
+    "name": "Exalted Blade",
+    "link": "https://warframe.fandom.com/wiki/Exalted_Blade"
+  },
+  {
+    "name": "Exalted Umbra Blade",
+    "link": "https://warframe.fandom.com/wiki/Exalted_Umbra_Blade"
+  },
+  {
+    "name": "Garuda's Talons",
+    "link": "https://warframe.fandom.com/wiki/Garuda%27s_Talons"
+  },
+  {
+    "name": "Iron Staff",
+    "link": "https://warframe.fandom.com/wiki/Iron_Staff"
+  },
+  {
+    "name": "Shadow Claws",
+    "link": "https://warframe.fandom.com/wiki/Shadow_Claws"
+  },
+  {
+    "name": "Valkyr Talons",
+    "link": "https://warframe.fandom.com/wiki/Valkyr_Talons"
+  },
+  {
+    "name": "Boltace",
+    "link": "https://warframe.fandom.com/wiki/Boltace"
+  },
+  {
+    "name": "Telos Boltace",
+    "link": "https://warframe.fandom.com/wiki/Telos_Boltace"
+  },
+  {
+    "name": "Kronen",
+    "link": "https://warframe.fandom.com/wiki/Kronen"
+  },
+  {
+    "name": "Kronen Prime",
+    "link": "https://warframe.fandom.com/wiki/Kronen_Prime"
+  },
+  {
+    "name": "Ohma",
+    "link": "https://warframe.fandom.com/wiki/Ohma"
+  },
+  {
+    "name": "Arum Spinosa",
+    "link": "https://warframe.fandom.com/wiki/Arum_Spinosa"
+  },
+  {
+    "name": "Gunsen",
+    "link": "https://warframe.fandom.com/wiki/Gunsen"
+  },
+  {
+    "name": "Quassus",
+    "link": "https://warframe.fandom.com/wiki/Quassus"
+  }
+]

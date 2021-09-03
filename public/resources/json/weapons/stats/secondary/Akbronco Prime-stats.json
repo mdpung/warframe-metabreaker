@@ -1,0 +1,30 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "4.33",
+    "Accuracy": "3.7",
+    "Magazine": "8",
+    "MaxAmmo": "210",
+    "Reload": "2.25 s",
+    "Disposition": "●●●●○ (1.30x)"
+  },
+  "Normal": {
+    "Attack1Total": "350 ( 80%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1FireRate": "4.33",
+    "Attack1Multishot": "7 (50 damage per projectile)",
+    "Attack1StatusChance": "12.86%",
+    "Attack1CritChance": "6%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "0 m",
+    "Attack1Falloff": "100% damage up to 9 m25% damage at 18 m75% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 12.4 (2014-03-05)",
+    "Variants": " Akbronco"
+  }
+}

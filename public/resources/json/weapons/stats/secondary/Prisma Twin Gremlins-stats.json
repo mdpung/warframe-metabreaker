@@ -1,0 +1,31 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "65 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "8.83",
+    "Accuracy": "36.4",
+    "Magazine": "70",
+    "MaxAmmo": "600",
+    "Reload": "0.9 s",
+    "Disposition": "●●●●○ (1.15x)"
+  },
+  "Normal": {
+    "Attack1Total": "27 ( 47%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "65 m/s",
+    "Attack1FireRate": "8.83",
+    "Attack1Multishot": "1 (27 damage per projectile)",
+    "Attack1StatusChance": "23%",
+    "Attack1CritChance": "23%",
+    "Attack1CritMultiplier": "1.9x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Hotfix 23.4.2 (2018-08-17)",
+    "Variants": " Twin Gremlins"
+  }
+}

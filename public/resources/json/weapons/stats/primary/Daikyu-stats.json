@@ -1,0 +1,33 @@
+{
+  "Utility": {
+    "AmmoType": "Sniper",
+    "ShotType": "Projectile",
+    "ShotSpeed": "140 m/s",
+    "NoiseLevel": "Silent",
+    "FireRate": "1",
+    "Accuracy": "16.7",
+    "Magazine": "1",
+    "MaxAmmo": "72",
+    "Reload": "0.6 s",
+    "Disposition": "●●●●○ (1.25x)"
+  },
+  "Charged Shot": {
+    "Attack1Total": "700 (40%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "140 m/s",
+    "ForcedProcs": "Impact Damage Impact",
+    "Attack1FireRate": "1",
+    "Attack1ChargeTime": "1 s",
+    "Attack1Multishot": "1 (700 damage per projectile)",
+    "Attack1StatusChance": "46%",
+    "Attack1CritChance": "34%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "3 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 16.5 (2015-05-12)",
+    "InternalName": "/Lotus/Weapons/Tenno/Bows/AsymetricalBow/AsymetricalBow"
+  }
+}

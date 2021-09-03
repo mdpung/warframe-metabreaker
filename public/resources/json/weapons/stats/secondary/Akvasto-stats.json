@@ -1,0 +1,30 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "8.67",
+    "Accuracy": "11.1",
+    "Magazine": "12",
+    "MaxAmmo": "210",
+    "Reload": "2 s",
+    "Disposition": "●●●●○ (1.25x)"
+  },
+  "Normal": {
+    "Attack1Total": "58 ( 50%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1FireRate": "8.67",
+    "Attack1Multishot": "1 (58 damage per projectile)",
+    "Attack1StatusChance": "12%",
+    "Attack1CritChance": "16%",
+    "Attack1CritMultiplier": "1.8x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Users": "Torment",
+    "Introduced": "Update 9.7 (2013-08-30)",
+    "Variants": " Akvasto Prime"
+  }
+}

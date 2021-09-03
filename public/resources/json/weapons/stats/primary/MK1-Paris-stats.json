@@ -1,0 +1,43 @@
+{
+  "Utility": {
+    "AmmoType": "Sniper",
+    "ShotType": "Projectile",
+    "ShotSpeed": "85 m/s",
+    "NoiseLevel": "Silent",
+    "FireRate": "1",
+    "Accuracy": "16.7",
+    "Magazine": "1",
+    "MaxAmmo": "72",
+    "Reload": "0.55 s",
+    "Disposition": "●●●●● (1.45x)"
+  },
+  "Charged Shot": {
+    "Attack1Total": "230 (80%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "85 m/s",
+    "Attack1FireRate": "1",
+    "Attack1ChargeTime": "0.5 s",
+    "Attack1Multishot": "1 (230 damage per projectile)",
+    "Attack1StatusChance": "15%",
+    "Attack1CritChance": "30%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "2 m"
+  },
+  "Uncharged Shot": {
+    "Attack2Total": "115 (75%)",
+    "Attack2ShotType": "Projectile",
+    "Attack2ShotSpeed": "70 m/s",
+    "Attack2FireRate": "1",
+    "Attack2Multishot": "1 (115 damage per projectile)",
+    "Attack2StatusChance": "15%",
+    "Attack2CritChance": "30%",
+    "Attack2CritMultiplier": "2x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 14.0 (2014-07-18)",
+    "Variants": "Paris Prime Paris PrimeParis Paris",
+    "InternalName": "/Lotus/Weapons/MK1Series/MK1Paris"
+  }
+}

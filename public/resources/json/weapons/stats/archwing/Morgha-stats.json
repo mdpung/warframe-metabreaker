@@ -1,0 +1,82 @@
+{
+  "Utility": {
+    "AmmoType": "Heavy",
+    "ShotType": "Projectile",
+    "ShotSpeed": "60 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "6",
+    "Accuracy": "6.7",
+    "Magazine": "80",
+    "MaxAmmo": "160",
+    "Reload": "3 s",
+    "Disposition": "●○○○○ (0.50x)"
+  },
+  "Auto Burst": {
+    "Attack1Total": "32",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "60 m/s",
+    "Attack1FireRate": "6",
+    "Attack1BurstCount": "2",
+    "Attack1BurstDelay": "0 s",
+    "Attack1Multishot": "1 (32 damage per projectile)",
+    "Attack1StatusChance": "28%",
+    "Attack1CritChance": "30%",
+    "Attack1CritMultiplier": "2.2x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Auto Burst Explosion": {
+    "Attack2Total": "164",
+    "Attack2ShotType": "AoE",
+    "Attack2FireRate": "6",
+    "Attack2BurstCount": "2",
+    "Attack2Multishot": "1 (164 damage per projectile)",
+    "Attack2StatusChance": "28%",
+    "Attack2CritChance": "30%",
+    "Attack2CritMultiplier": "2.2x",
+    "Attack2PunchThrough": "0 m",
+    "Attack2Radius": "3 m",
+    "Attack2Falloff": "100% damage up to 0 m70% damage at 3 m30% max reduction"
+  },
+  "Charged Shot": {
+    "Attack3Total": "100",
+    "Attack3Trigger": "Semi-Auto",
+    "Attack3FireRate": "0.833",
+    "Attack3Accuracy": "100",
+    "Attack3Multishot": "1 (100 damage per projectile)",
+    "Attack3StatusChance": "50%",
+    "Attack3CritChance": "40%",
+    "Attack3CritMultiplier": "3x",
+    "Attack3PunchThrough": "0 m"
+  },
+  "Charged Shot Explosion": {
+    "Attack4Total": "3,600 ( 33.33%)",
+    "Attack4Trigger": "Semi-Auto",
+    "Attack4ShotType": "AoE",
+    "Attack4FireRate": "0.833",
+    "Attack4Multishot": "1 (3,600 damage per projectile)",
+    "Attack4StatusChance": "50%",
+    "Attack4CritChance": "40%",
+    "Attack4CritMultiplier": "3x",
+    "Attack4PunchThrough": "0 m",
+    "Attack4Radius": "12 m",
+    "Attack4Falloff": "100% damage up to 0 m40% damage at 12 m60% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 29.5 (2020-11-19)"
+  },
+  "Radial Attack": {
+    "Attack2Total": "164",
+    "Attack2ShotType": "AoE",
+    "Attack2FireRate": "6",
+    "Attack2BurstCount": "2",
+    "Attack2Multishot": "1 (164 damage per projectile)",
+    "Attack2StatusChance": "28%",
+    "Attack2CritChance": "30%",
+    "Attack2CritMultiplier": "2.2x",
+    "Attack2PunchThrough": "0 m",
+    "Attack2Radius": "3 m",
+    "Attack2Falloff": "100% damage up to 0 m70% damage at 3 m30% max reduction"
+  }
+}

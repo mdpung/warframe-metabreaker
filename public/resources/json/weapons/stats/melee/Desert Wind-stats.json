@@ -1,0 +1,37 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "ComboDur": "5 s",
+    "BlockAngle": "60°",
+    "FollowThrough": "100%"
+  },
+  "Normal Attack": {
+    "Attack1Total": "250",
+    "Attack1FireRate": "1",
+    "Attack1StatusChance": "15%",
+    "Attack1CritChance": "50%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "3,750",
+    "WindUp": "0.5 s",
+    "HeavySlamAttack": "1,000",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "100"
+  },
+  "Slam Attack": {
+    "SlamAttack": "750",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "750"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "None",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Users": "Baruuk",
+    "Introduced": "Update 24.2 (2018-12-18)"
+  }
+}

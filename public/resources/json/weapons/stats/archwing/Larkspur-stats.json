@@ -1,0 +1,57 @@
+{
+  "Utility": {
+    "AmmoType": "Heavy",
+    "ShotType": "Discharge",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "12",
+    "Accuracy": "8.3",
+    "Magazine": "100",
+    "MaxAmmo": "400",
+    "Reload": "2.5 s",
+    "Disposition": "●●○○○ (0.80x)"
+  },
+  "Normal": {
+    "Attack6Total": "420 ( 42.86%)",
+    "Attack6ShotType": "Projectile",
+    "Attack6ShotSpeed": "? m/s",
+    "Attack6FireRate": "1",
+    "Attack6ChargeTime": "0.5 s",
+    "Attack6Accuracy": "100",
+    "Attack6Multishot": "1 (420 damage per projectile)",
+    "Attack6StatusChance": "34%",
+    "Attack6CritChance": "26%",
+    "Attack6CritMultiplier": "2.2x",
+    "Attack6PunchThrough": "0 m"
+  },
+  "Projectile Impact": {
+    "Attack6Total": "420 ( 42.86%)",
+    "Attack6ShotType": "Projectile",
+    "Attack6ShotSpeed": "? m/s",
+    "Attack6FireRate": "1",
+    "Attack6ChargeTime": "0.5 s",
+    "Attack6Accuracy": "100",
+    "Attack6Multishot": "1 (420 damage per projectile)",
+    "Attack6StatusChance": "34%",
+    "Attack6CritChance": "26%",
+    "Attack6CritMultiplier": "2.2x",
+    "Attack6PunchThrough": "0 m"
+  },
+  "Explosion": {
+    "Attack7Total": "800 ( 50%)",
+    "Attack7ShotType": "AoE",
+    "Attack7FireRate": "1",
+    "Attack7Multishot": "1 (800 damage per projectile)",
+    "Attack7StatusChance": "34%",
+    "Attack7CritChance": "26%",
+    "Attack7CritMultiplier": "2.2x",
+    "Attack7PunchThrough": "0 m",
+    "Attack7Radius": "9.6 m",
+    "Attack7Falloff": "100% damage up to 0 m40% damage at 9.6 m60% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Update 24.4 (2019-03-08)"
+  }
+}

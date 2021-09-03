@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.08",
+    "ComboDur": "5 s",
+    "BlockAngle": "60°",
+    "FollowThrough": "50%",
+    "Disposition": "●●●●○ (1.15x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "216 (46.3%)",
+    "Attack1FireRate": "1.08",
+    "Attack1StatusChance": "40%",
+    "Attack1CritChance": "20%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "864",
+    "WindUp": "0.4 s",
+    "HeavySlamAttack": "1,080",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "1,080"
+  },
+  "Slam Attack": {
+    "SlamAttack": "648",
+    "SlamRadius": "7 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "216"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 27.3 (2020-03-24)",
+    "Variants": "Lacera Lacera",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Swords/StalkerMios/OperationsLacera"
+  }
+}

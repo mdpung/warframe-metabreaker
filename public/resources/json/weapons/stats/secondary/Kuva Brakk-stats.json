@@ -1,0 +1,30 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "5.83",
+    "Accuracy": "7.7",
+    "Magazine": "11",
+    "MaxAmmo": "221",
+    "Reload": "1.1 s",
+    "Disposition": "●●●○○ (0.90x)"
+  },
+  "Normal": {
+    "Attack1Total": "162.5 ( 36%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1FireRate": "5.83",
+    "Attack1Multishot": "10 (16.25 damage per projectile)",
+    "Attack1StatusChance": "11.1%",
+    "Attack1CritChance": "29%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "0.5 m",
+    "Attack1Falloff": "100% damage up to 10 m4% damage at 20 m96% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 26.0 (2019-10-31)",
+    "Variants": " Brakk"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "6.67",
+    "Accuracy": "18.2",
+    "Magazine": "20",
+    "MaxAmmo": "210",
+    "Reload": "1 s",
+    "Disposition": "●●●●● (1.35x)"
+  },
+  "Normal": {
+    "Attack1Total": "48 ( 70%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1FireRate": "6.67",
+    "Attack1Multishot": "1 (48 damage per projectile)",
+    "Attack1StatusChance": "20%",
+    "Attack1CritChance": "30%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 5.0 (2012-12-18)",
+    "Variants": " Lato Vandal Lato"
+  }
+}

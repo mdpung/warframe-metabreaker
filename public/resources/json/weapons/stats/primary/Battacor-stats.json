@@ -1,0 +1,59 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Projectile",
+    "ShotSpeed": "115 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "3.57",
+    "Accuracy": "25",
+    "Magazine": "60",
+    "MaxAmmo": "720",
+    "Reload": "2 s",
+    "Disposition": "●●●○○ (1.05x)"
+  },
+  "Normal": {
+    "Attack1Total": "66 (63.64%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "115 m/s",
+    "Attack1FireRate": "3.57",
+    "Attack1Accuracy": "25",
+    "Attack1BurstCount": "2",
+    "Attack1BurstFireRate": "2.5",
+    "Attack1BurstDelay": "0.08 s",
+    "Attack1Multishot": "1 (66 damage per projectile)",
+    "Attack1StatusChance": "18%",
+    "Attack1CritChance": "32%",
+    "Attack1CritMultiplier": "2.4x"
+  },
+  "Secondary Fire": {
+    "Attack2Total": "208",
+    "Attack2Trigger": "Auto Charge",
+    "Attack2ShotType": "Hit-Scan",
+    "Attack2Range": "300 m",
+    "Attack2FireRate": "5",
+    "Attack2ChargeTime": "0.4 s",
+    "Attack2Accuracy": "100",
+    "Attack2Multishot": "1 (208 damage per projectile)",
+    "Attack2StatusChance": "8%",
+    "Attack2CritChance": "34%",
+    "Attack2CritMultiplier": "3x",
+    "Attack2PunchThrough": "2 m"
+  },
+  "Beam AoE": {
+    "Attack3Total": "208",
+    "Attack3ShotType": "AoE",
+    "Attack3Range": "3.4 m",
+    "Attack3FireRate": "5",
+    "Attack3Multishot": "1 (208 damage per projectile)",
+    "Attack3StatusChance": "50%",
+    "Attack3CritChance": "20%",
+    "Attack3CritMultiplier": "2x",
+    "Attack3Falloff": "100% damage up to 0 m60% damage at 3.4 m40% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Introduced": "Update 24.0 (2018-11-08)",
+    "InternalName": "/Lotus/Weapons/Corpus/LongGuns/CrpSentExperimentRifle/CrpSentExperimentRifle"
+  }
+}

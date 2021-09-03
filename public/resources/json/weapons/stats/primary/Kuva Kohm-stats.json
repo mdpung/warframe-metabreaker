@@ -1,0 +1,46 @@
+{
+  "Utility": {
+    "AmmoType": "Shotgun",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.834",
+    "Spool": "5",
+    "Accuracy": "8",
+    "Magazine": "209",
+    "MaxAmmo": "836",
+    "Reload": "2 s",
+    "Disposition": "●●○○○ (0.85x)"
+  },
+  "Single Pellet": {
+    "Attack1Total": "25 (48%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "0.834",
+    "Attack1Multishot": "1 (25 damage per projectile)",
+    "Attack1StatusChance": "90%",
+    "Attack1CritChance": "19%",
+    "Attack1CritMultiplier": "2.3x",
+    "Attack1PunchThrough": "1.5 m",
+    "Attack1Falloff": "100% damage up to 13 m6% damage at 26 m94% max reduction"
+  },
+  "Fully Spooled": {
+    "Attack2Total": "300 (48%)",
+    "Attack2ShotType": "Hit-Scan",
+    "Attack2Range": "300 m",
+    "Attack2FireRate": "4.17",
+    "Attack2Multishot": "12 (25 damage per projectile)",
+    "Attack2StatusChance": "7.5%",
+    "Attack2CritChance": "19%",
+    "Attack2CritMultiplier": "2.3x",
+    "Attack2Falloff": "100% damage up to 13 m6% damage at 26 m94% max reduction",
+    "Attack2AmmoCost": "4"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Users": "Kuva Lich",
+    "Introduced": "Update 26.0 (2019-10-31)",
+    "Variants": "Kohm Kohm",
+    "InternalName": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Kohm/KuvaKohm"
+  }
+}

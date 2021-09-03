@@ -1,0 +1,44 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "66 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "5",
+    "Accuracy": "26.7",
+    "Magazine": "3",
+    "MaxAmmo": "210",
+    "Reload": "0.8 s",
+    "Disposition": "●●●●○ (1.25x)"
+  },
+  "Dart Impact": {
+    "Attack1Total": "30 ( 60%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "66 m/s",
+    "ForcedProcs": " ",
+    "Attack1FireRate": "5",
+    "Attack1Multishot": "1 (30 damage per projectile)",
+    "Attack1StatusChance": "20%",
+    "Attack1CritChance": "2%",
+    "Attack1CritMultiplier": "1.5x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Gas Cloud": {
+    "Attack5Total": "80",
+    "Attack5ShotType": "AoE",
+    "Attack5FireRate": "5",
+    "Attack5Multishot": "1 (80 damage per projectile)",
+    "Attack5StatusChance": "20%",
+    "Attack5CritChance": "2%",
+    "Attack5CritMultiplier": "1.5x",
+    "Attack5PunchThrough": "0 m",
+    "Attack5Radius": "3.5 m",
+    "Attack5Falloff": "100% damage up to 0 m100% damage at 3.5 m0% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 21.1 (2017-07-19)",
+    "Variants": " Zakti Prime"
+  }
+}

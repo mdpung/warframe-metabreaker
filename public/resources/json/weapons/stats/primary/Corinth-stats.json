@@ -1,0 +1,56 @@
+{
+  "Utility": {
+    "AmmoType": "Shotgun",
+    "ShotType": "Hit-Scan",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.17",
+    "Accuracy": "9.1",
+    "Magazine": "5",
+    "MaxAmmo": "132",
+    "Reload": "2.3 s",
+    "Disposition": "●●●○○ (1.10x)"
+  },
+  "Buckshot": {
+    "Attack1Total": "540 (42%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "1.17",
+    "Attack1Multishot": "6 (90 damage per projectile)",
+    "Attack1StatusChance": "6%",
+    "Attack1CritChance": "30%",
+    "Attack1CritMultiplier": "2.8x",
+    "Attack1Falloff": "100% damage up to 18 m33% damage at 36 m67% max reduction"
+  },
+  "Air Burst Projectile": {
+    "Attack2Total": "100",
+    "Attack2ShotType": "Projectile",
+    "Attack2ShotSpeed": "? m/s",
+    "ForcedProcs": "Impact Damage Impact",
+    "Attack2FireRate": "1.17",
+    "Attack2Multishot": "1 (100 damage per projectile)",
+    "Attack2StatusChance": "28%",
+    "Attack2CritChance": "4%",
+    "Attack2CritMultiplier": "1.6x",
+    "Attack2AmmoCost": "4"
+  },
+  "Air Burst Explosion": {
+    "Attack3Total": "404",
+    "Attack3ShotType": "AoE",
+    "Attack3Range": "9.4 m",
+    "Attack3FireRate": "1.17",
+    "Attack3Multishot": "1 (404 damage per projectile)",
+    "Attack3StatusChance": "28%",
+    "Attack3CritChance": "4%",
+    "Attack3CritMultiplier": "1.6x",
+    "Attack3Falloff": "100% damage up to 0 m10% damage at 9.4 m90% max reduction",
+    "Attack3AmmoCost": "4"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 22.8 (2017-12-21)",
+    "Variants": "Corinth Prime Corinth Prime",
+    "InternalName": "/Lotus/Weapons/Tenno/LongGuns/TnHeavyShotgun/TnHeavyShotgunGun"
+  }
+}

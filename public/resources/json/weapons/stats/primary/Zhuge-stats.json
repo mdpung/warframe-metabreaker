@@ -1,0 +1,31 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Projectile",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Silent",
+    "FireRate": "4.17",
+    "Accuracy": "40",
+    "Magazine": "20",
+    "MaxAmmo": "540",
+    "Reload": "2.5 s",
+    "Disposition": "●●●●○ (1.20x)"
+  },
+  "Normal": {
+    "Attack1Total": "100 (75%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "? m/s",
+    "Attack1FireRate": "4.17",
+    "Attack1Multishot": "1 (100 damage per projectile)",
+    "Attack1StatusChance": "35%",
+    "Attack1CritChance": "20%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 18.6 (2016-03-16)",
+    "Variants": "Zhuge Prime Zhuge Prime",
+    "InternalName": "/Lotus/Weapons/Tenno/LongGuns/RepeatingCrossbow/RepeatingCrossbow"
+  }
+}

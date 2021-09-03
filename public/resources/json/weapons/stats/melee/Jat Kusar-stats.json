@@ -1,0 +1,38 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.833",
+    "ComboDur": "5 s",
+    "BlockAngle": "60°",
+    "FollowThrough": "50%",
+    "Disposition": "●●●○○ (1.10x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "218 (37.16%)",
+    "Attack1FireRate": "0.833",
+    "Attack1StatusChance": "19%",
+    "Attack1CritChance": "35%",
+    "Attack1CritMultiplier": "2.5x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "872",
+    "WindUp": "0.4 s",
+    "HeavySlamAttack": "872",
+    "HeavySlamRadius": "8 m",
+    "HeavyRadialDmg": "872"
+  },
+  "Slam Attack": {
+    "SlamAttack": "654",
+    "SlamRadius": "7 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "218"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 21.2 (2017-07-26)",
+    "InternalName": "/Lotus/Weapons/Grineer/Melee/GrnKusarigama/GrnKusarigamaWeapon"
+  }
+}

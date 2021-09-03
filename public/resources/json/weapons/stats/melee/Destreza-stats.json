@@ -1,0 +1,40 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "ComboDur": "5 s",
+    "BlockAngle": "60°",
+    "FollowThrough": "70%",
+    "Disposition": "●●●●○ (1.25x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "158 (85%)",
+    "Attack1FireRate": "1",
+    "Attack1StatusChance": "14%",
+    "Attack1CritChance": "28%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "711",
+    "WindUp": "0.5 s",
+    "HeavySlamAttack": "553",
+    "HeavySlamRadius": "7 m",
+    "HeavyRadialDmg": "553"
+  },
+  "Slam Attack": {
+    "SlamAttack": "474",
+    "SlamRadius": "6 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "158"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Users": "Violence",
+    "Introduced": "Update 18.3 (2016-01-13)",
+    "Variants": "Destreza Prime Destreza Prime",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Swords/TnoRapier/TnoRapier"
+  }
+}

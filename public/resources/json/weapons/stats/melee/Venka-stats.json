@@ -1,0 +1,40 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "80%",
+    "Disposition": "●●●○○ (1.05x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "140 (70%)",
+    "Attack1FireRate": "1",
+    "Attack1StatusChance": "15%",
+    "Attack1CritChance": "15%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "700",
+    "WindUp": "0.6 s",
+    "HeavySlamAttack": "560",
+    "HeavySlamRadius": "7 m",
+    "HeavyRadialDmg": "560"
+  },
+  "Slam Attack": {
+    "SlamAttack": "420",
+    "SlamRadius": "6 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "420"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Users": "Violence",
+    "Introduced": "Update 13.9 (2014-06-25)",
+    "Variants": "Venka Prime Venka Prime",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Claws/TennoClaws"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Utility": {
+    "AmmoType": "Sniper",
+    "ShotType": "Projectile",
+    "ShotSpeed": "30 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "3.17",
+    "Accuracy": "100",
+    "Magazine": "1",
+    "MaxAmmo": "60",
+    "Reload": "1.5 s",
+    "Disposition": "●●●○○ (0.95x)"
+  },
+  "Grenade Impact": {
+    "Attack1Total": "73.75 (80%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "30 m/s",
+    "Attack1FireRate": "3.17",
+    "Attack1Multishot": "1 (73.75 damage per projectile)",
+    "Attack1StatusChance": "17%",
+    "Attack1CritChance": "30%",
+    "Attack1CritMultiplier": "2.5x"
+  },
+  "Grenade Explosion": {
+    "Attack2Total": "842.5 (35.85%)",
+    "Attack2ShotType": "AoE",
+    "Attack2Range": "7 m",
+    "Attack2FireRate": "3.17",
+    "Attack2Multishot": "1 (842.5 damage per projectile)",
+    "Attack2StatusChance": "17%",
+    "Attack2CritChance": "30%",
+    "Attack2CritMultiplier": "2.5x",
+    "Attack2Falloff": "100% damage up to 0 m30% damage at 7 m70% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Users": "Kuva Lich",
+    "Introduced": "Update 26.0 (2019-10-31)",
+    "Variants": "Tonkor Tonkor",
+    "InternalName": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Tonkor/KuvaTonkor"
+  }
+}

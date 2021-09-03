@@ -1,0 +1,31 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "65 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "5",
+    "Accuracy": "16.7",
+    "Magazine": "30",
+    "MaxAmmo": "210",
+    "Reload": "1.1 s",
+    "Disposition": "●●●●○ (1.20x)"
+  },
+  "Normal": {
+    "Attack1Total": "36.99 ( 33.33%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "65 m/s",
+    "Attack1FireRate": "5",
+    "Attack1Multishot": "1 (36.99 damage per projectile)",
+    "Attack1StatusChance": "15%",
+    "Attack1CritChance": "15%",
+    "Attack1CritMultiplier": "1.5x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 9.5 (2013-08-09)",
+    "Variants": " Prisma Twin Gremlins"
+  }
+}

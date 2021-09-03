@@ -1,0 +1,88 @@
+{
+  "Utility": {
+    "ShotType": "Thrown",
+    "ShotSpeed": "40 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.25",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "70%",
+    "Disposition": "●●●○○ (0.90x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "164 (70%)",
+    "Attack1FireRate": "1.25",
+    "Attack1StatusChance": "30%",
+    "Attack1CritChance": "22%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Throw": {
+    "Attack2Total": "180 (70%)",
+    "Attack2ShotType": "Thrown",
+    "Attack2ShotSpeed": "40 m/s",
+    "ForcedProcs": "Impact Damage Impact, Slash Damage Slash",
+    "Attack2Range": "50 m",
+    "Attack2FireRate": "1.25",
+    "Attack2StatusChance": "32%",
+    "Attack2CritChance": "24%",
+    "Attack2CritMultiplier": "2.2x"
+  },
+  "Throw Explosion": {
+    "Attack3Total": "592",
+    "Attack3ShotType": "AoE",
+    "ForcedProcs": "Impact Damage Impact, Slash Damage Slash",
+    "Attack3Range": "4.8 m",
+    "Attack3FireRate": "1.25",
+    "Attack3StatusChance": "32%",
+    "Attack3CritChance": "24%",
+    "Attack3CritMultiplier": "2.2x",
+    "Attack3Falloff": "100% damage up to 0 m100% damage at 4.8 m0% max reduction"
+  },
+  "Charged Throw": {
+    "Attack4Total": "360 (70%)",
+    "Attack4ShotType": "Thrown",
+    "Attack4ShotSpeed": "40 m/s",
+    "ForcedProcs": "Impact Damage Impact, Slash Damage Slash",
+    "Attack4Range": "50 m",
+    "Attack4FireRate": "0.833",
+    "Attack4ChargeTime": "1.2 s",
+    "Attack4StatusChance": "34%",
+    "Attack4CritChance": "26%",
+    "Attack4CritMultiplier": "2.4x",
+    "Attack4PunchThrough": "1 m"
+  },
+  "Charged Throw Explosion": {
+    "Attack5Total": "1,184",
+    "Attack5ShotType": "AoE",
+    "ForcedProcs": "Impact Damage Impact, Slash Damage Slash",
+    "Attack5Range": "4.8 m",
+    "Attack5FireRate": "0.833",
+    "Attack5ChargeTime": "1.2 s",
+    "Attack5StatusChance": "34%",
+    "Attack5CritChance": "26%",
+    "Attack5CritMultiplier": "2.4x",
+    "Attack5Falloff": "100% damage up to 0 m100% damage at 4.8 m0% max reduction"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "0",
+    "WindUp": "1.2 s",
+    "HeavySlamAttack": "656",
+    "HeavySlamRadius": "6 m",
+    "HeavyRadialDmg": "656"
+  },
+  "Slam Attack": {
+    "SlamAttack": "492",
+    "SlamRadius": "5 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "328"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 11.0 (2013-11-20)",
+    "Variants": "Glaive Glaive",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Glaives/PrimeGlaive/PrimeGlaiveWeapon"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.833",
+    "ComboDur": "5 s",
+    "BlockAngle": "50°",
+    "FollowThrough": "40%",
+    "Disposition": "●●●●● (1.35x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "210 (80%)",
+    "Attack1FireRate": "0.833",
+    "Attack1StatusChance": "10%",
+    "Attack1CritChance": "20%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,260",
+    "WindUp": "1.2 s",
+    "HeavySlamAttack": "1,050",
+    "HeavySlamRadius": "10 m",
+    "HeavyRadialDmg": "1,050"
+  },
+  "Slam Attack": {
+    "SlamAttack": "630",
+    "SlamRadius": "9 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "420"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Update 11.5 (2013-12-19)",
+    "Variants": "Sancti Magistar Sancti Magistar",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Maces/PaladinMace/PaladinMaceWeapon"
+  }
+}

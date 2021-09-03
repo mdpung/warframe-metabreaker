@@ -1,0 +1,42 @@
+{
+  "Utility": {
+    "AmmoType": "Heavy",
+    "ShotType": "Projectile",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "4.58",
+    "Accuracy": "25",
+    "Magazine": "33",
+    "MaxAmmo": "165",
+    "Reload": "3 s",
+    "Disposition": "●●●○○ (1.00x)"
+  },
+  "Grenade Impact": {
+    "Attack1Total": "108.75 ( 80%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "? m/s",
+    "Attack1FireRate": "4.58",
+    "Attack1Multishot": "1 (108.75 damage per projectile)",
+    "Attack1StatusChance": "20%",
+    "Attack1CritChance": "35%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Explosion": {
+    "Attack2Total": "233.75 ( 80%)",
+    "Attack2ShotType": "AoE",
+    "Attack2FireRate": "4.58",
+    "Attack2Multishot": "1 (233.75 damage per projectile)",
+    "Attack2StatusChance": "20%",
+    "Attack2CritChance": "35%",
+    "Attack2CritMultiplier": "2x",
+    "Attack2PunchThrough": "0 m",
+    "Attack2Radius": "6 m",
+    "Attack2Falloff": "100% damage up to 0 m50% damage at 6 m50% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Update 26.0 (2019-10-31)"
+  }
+}

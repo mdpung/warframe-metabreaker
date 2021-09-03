@@ -1,0 +1,47 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "80 m/s",
+    "Range": "15 m",
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.25",
+    "Accuracy": "100",
+    "Magazine": "15",
+    "MaxAmmo": "150",
+    "Reload": "3 s",
+    "Disposition": "●●●●○ (1.15x)"
+  },
+  "Projectile Impact": {
+    "Attack1Total": "150",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "80 m/s",
+    "ForcedProcs": "x19px ",
+    "Attack1Range": "15 m",
+    "Attack1FireRate": "1.25",
+    "Attack1Multishot": "1 (150 damage per projectile)",
+    "Attack1StatusChance": "0%",
+    "Attack1CritChance": "0%",
+    "Attack1CritMultiplier": "1x",
+    "Attack1PunchThrough": "0 m",
+    "Attack1Falloff": "100% damage up to 0 m17% damage at 20 m83% max reduction"
+  },
+  "Explosion": {
+    "Attack2Total": "50",
+    "Attack2ShotType": "AoE",
+    "ForcedProcs": " , x19px ",
+    "Attack2FireRate": "1.25",
+    "Attack2Multishot": "1 (50 damage per projectile)",
+    "Attack2StatusChance": "25%",
+    "Attack2CritChance": "10%",
+    "Attack2CritMultiplier": "2x",
+    "Attack2PunchThrough": "0 m",
+    "Attack2Radius": "5 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Users": "Derim Zahn",
+    "Introduced": "Update 17.5 (2015-10-01)"
+  }
+}

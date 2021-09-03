@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.917",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "70%",
+    "Disposition": "●●●●○ (1.30x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "190 (52.63%)",
+    "Attack1FireRate": "0.917",
+    "Attack1StatusChance": "22%",
+    "Attack1CritChance": "14%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,140",
+    "WindUp": "0.7 s",
+    "HeavySlamAttack": "760",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "760"
+  },
+  "Slam Attack": {
+    "SlamAttack": "570",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "380"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Users": "Terra Trencher",
+    "Introduced": "Update 24.0 (2018-11-08)",
+    "InternalName": "/Lotus/Weapons/Corpus/Melee/CrpVenusHatchet/CrpVenusHatchet"
+  }
+}

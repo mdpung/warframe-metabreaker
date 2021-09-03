@@ -1,0 +1,30 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.58",
+    "Accuracy": "9.8",
+    "Magazine": "12",
+    "MaxAmmo": "210",
+    "Reload": "3 s",
+    "Disposition": "●●●○○ (1.05x)"
+  },
+  "Normal": {
+    "Attack1Total": "130 ( 80%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1FireRate": "1.58",
+    "Attack1Multishot": "1 (130 damage per projectile)",
+    "Attack1StatusChance": "10%",
+    "Attack1CritChance": "20%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Users": "Maroo",
+    "Introduced": "Update 11.1 (2013-11-27)",
+    "Variants": " Aklex Prime"
+  }
+}

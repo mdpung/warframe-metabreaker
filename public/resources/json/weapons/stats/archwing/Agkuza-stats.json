@@ -1,0 +1,21 @@
+{
+  "Utility": {
+    "Range": "142.5 m",
+    "NoiseLevel": "Alarming",
+    "FireRate": "1"
+  },
+  "Normal": {
+    "Attack1Total": "436 ( 70%)",
+    "Attack1FireRate": "1",
+    "Attack1Multishot": "1 (436 damage per projectile)",
+    "Attack1StatusChance": "15%",
+    "Attack1CritChance": "5%",
+    "Attack1CritMultiplier": "1.5x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update: Specters of the Rail (2016-07-08)"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.917",
+    "ComboDur": "5 s",
+    "BlockAngle": "50°",
+    "FollowThrough": "60%",
+    "Disposition": "●●●○○ (1.00x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "248 (80%)",
+    "Attack1FireRate": "0.917",
+    "Attack1StatusChance": "30%",
+    "Attack1CritChance": "26%",
+    "Attack1CritMultiplier": "2.2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,240",
+    "WindUp": "0.6 s",
+    "HeavySlamAttack": "992",
+    "HeavySlamRadius": "8 m",
+    "HeavyRadialDmg": "992"
+  },
+  "Slam Attack": {
+    "SlamAttack": "744",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "248"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Hotfix 27.3.6 (2020-03-31)",
+    "Variants": "Pangolin Sword Pangolin Sword",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Swords/PrimePangolinSword/PrimePangolinSword"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "79 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.33",
+    "Accuracy": "9.8",
+    "Magazine": "17",
+    "MaxAmmo": "51",
+    "Reload": "3.2 s",
+    "Disposition": "●●●○○ (1.05x)"
+  },
+  "Normal": {
+    "Attack1Total": "23 ( 60%)",
+    "Attack1Trigger": "Semi-Auto",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "79 m/s",
+    "ForcedProcs": " ",
+    "Attack1FireRate": "1.33",
+    "Attack1Multishot": "1 (23 damage per projectile)",
+    "Attack1StatusChance": "30%",
+    "Attack1CritChance": "5%",
+    "Attack1CritMultiplier": "2.3x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Radial Attack": {
+    "Attack2Total": "61",
+    "Attack2ShotType": "AoE",
+    "Attack2Multishot": "1 (61 damage per projectile)",
+    "Attack2StatusChance": "30%",
+    "Attack2CritChance": "5%",
+    "Attack2CritMultiplier": "2.3x",
+    "Attack2PunchThrough": "0 m",
+    "Attack2Radius": "3.3 m",
+    "Attack2Falloff": "100% damage up to 0 m70% damage at 3.3 m30% max reduction"
+  },
+  "Headshot Explosion": {
+    "Attack3Total": "953",
+    "Attack3ShotType": "AoE",
+    "ForcedProcs": "x19px ",
+    "Attack3FireRate": "1.33",
+    "Attack3Multishot": "1 (953 damage per projectile)",
+    "Attack3StatusChance": "30%",
+    "Attack3CritChance": "5%",
+    "Attack3CritMultiplier": "2.3x",
+    "Attack3PunchThrough": "0 m",
+    "Attack3Radius": "3.3 m",
+    "Attack3Falloff": "100% damage up to 0 m70% damage at 3.3 m30% max reduction"
+  },
+  "Homing Spore Contact": {
+    "Attack4Total": "138 ( 50%)",
+    "Attack4ShotType": "Projectile",
+    "ForcedProcs": " ",
+    "Attack4FireRate": "1.33",
+    "Attack4Multishot": "6 (23 damage per projectile)",
+    "Attack4StatusChance": "30%",
+    "Attack4CritChance": "5%",
+    "Attack4CritMultiplier": "2.3x",
+    "Attack4PunchThrough": "0 m"
+  },
+  "Homing Spore Explosion": {
+    "Attack5Total": "1,998",
+    "Attack5ShotType": "AoE",
+    "Attack5FireRate": "1.33",
+    "Attack5Multishot": "6 (333 damage per projectile)",
+    "Attack5StatusChance": "30%",
+    "Attack5CritChance": "5%",
+    "Attack5CritMultiplier": "2.3x",
+    "Attack5PunchThrough": "0 m",
+    "Attack5Radius": "3.3 m",
+    "Attack5Falloff": "100% damage up to 0 m70% damage at 3.3 m30% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Users": "Zealot Proselytizer",
+    "Introduced": "Update 29.0 (2020-08-25)"
+  }
+}

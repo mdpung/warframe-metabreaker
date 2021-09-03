@@ -1,0 +1,32 @@
+{
+  "Utility": {
+    "AmmoType": "Shotgun",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "4.17",
+    "Accuracy": "5",
+    "Magazine": "20",
+    "MaxAmmo": "120",
+    "Reload": "2.7 s",
+    "Disposition": "●●●●● (1.45x)"
+  },
+  "Normal": {
+    "Attack1Total": "176 (55%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "4.17",
+    "Attack1Multishot": "8 (22 damage per projectile)",
+    "Attack1StatusChance": "7.5%",
+    "Attack1CritChance": "10%",
+    "Attack1CritMultiplier": "1.5x",
+    "Attack1Falloff": "100% damage up to 15 m50% damage at 25 m50% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Users": "New Loka Operatives",
+    "Introduced": "Vanilla (2012-10-25)",
+    "Variants": "Boar Prime Boar Prime",
+    "InternalName": "/Lotus/Weapons/Tenno/Shotgun/FullAutoShotgun"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "13.33",
+    "Accuracy": "111.1",
+    "Magazine": "96",
+    "MaxAmmo": "960",
+    "Reload": "2.6 s",
+    "Disposition": "●●●○○ (1.00x)"
+  },
+  "Auto": {
+    "Attack1Total": "24",
+    "Attack1Trigger": "Auto",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "13.33",
+    "Attack1Multishot": "1 (24 damage per projectile)",
+    "Attack1StatusChance": "26%",
+    "Attack1CritChance": "14%",
+    "Attack1CritMultiplier": "2.8x"
+  },
+  "Charge": {
+    "Attack2Total": "600",
+    "Attack2Trigger": "Charge",
+    "Attack2ShotType": "Hit-Scan",
+    "Attack2Range": "300 m",
+    "Attack2FireRate": "1",
+    "Attack2ChargeTime": "0.65 s",
+    "Attack2Accuracy": "100",
+    "Attack2Multishot": "1 (600 damage per projectile)",
+    "Attack2StatusChance": "32%",
+    "Attack2CritChance": "16%",
+    "Attack2CritMultiplier": "2.8x",
+    "Attack2AmmoCost": "48"
+  },
+  "Charged Explosion": {
+    "Attack3Total": "800",
+    "Attack3ShotType": "AoE",
+    "Attack3Range": "6 m",
+    "Attack3FireRate": "1",
+    "Attack3ChargeTime": "0.65 s",
+    "Attack3Multishot": "1 (800 damage per projectile)",
+    "Attack3StatusChance": "32%",
+    "Attack3CritChance": "16%",
+    "Attack3CritMultiplier": "2.8x",
+    "Attack3Falloff": "100% damage up to 0 m50% damage at 6 m50% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Introduced": "Update 30.5 (2021-07-06)",
+    "InternalName": "/Lotus/Weapons/Corpus/LongGuns/CrpArSniper/CrpArSniperRifle"
+  }
+}

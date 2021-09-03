@@ -1,0 +1,42 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Silent",
+    "FireRate": "2.08",
+    "Accuracy": "100",
+    "Magazine": "4",
+    "MaxAmmo": "20",
+    "Reload": "1 s",
+    "Disposition": "●●●●○ (1.20x)"
+  },
+  "Spore Impact": {
+    "Attack1Total": "50",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "? m/s",
+    "Attack1FireRate": "2.08",
+    "Attack1Multishot": "1 (50 damage per projectile)",
+    "Attack1StatusChance": "35%",
+    "Attack1CritChance": "1%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Poison Cloud": {
+    "Attack2Total": "20",
+    "Attack2ShotType": "AoE",
+    "Attack2FireRate": "1",
+    "Attack2Multishot": "1 (20 damage per projectile)",
+    "Attack2StatusChance": "35%",
+    "Attack2CritChance": "0%",
+    "Attack2CritMultiplier": "1x",
+    "Attack2PunchThrough": "0 m",
+    "Attack2Radius": "3.6 m",
+    "Attack2Falloff": "100% damage up to 0 m100% damage at 3.6 m0% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update: The Silver Grove (2016-08-19)"
+  }
+}

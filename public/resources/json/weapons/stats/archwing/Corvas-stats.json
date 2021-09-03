@@ -1,0 +1,42 @@
+{
+  "Utility": {
+    "AmmoType": "Heavy",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "2",
+    "Accuracy": "9.1",
+    "Magazine": "25",
+    "MaxAmmo": "100",
+    "Reload": "2 s",
+    "Disposition": "●●●○○ (1.05x)"
+  },
+  "Uncharged Shot": {
+    "Attack1Total": "440 ( 80%)",
+    "Attack1ShotType": "Hit-Scan",
+    "ForcedProcs": " ",
+    "Attack1FireRate": "2",
+    "Attack1Multishot": "11 (40 damage per projectile)",
+    "Attack1StatusChance": "1.3%",
+    "Attack1CritChance": "40%",
+    "Attack1CritMultiplier": "2.6x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Charged Shot": {
+    "Attack2Total": "880 ( 80%)",
+    "Attack2ShotType": "Hit-Scan",
+    "ForcedProcs": " ",
+    "Attack2FireRate": "2",
+    "Attack2ChargeTime": "0.5 s",
+    "Attack2Multishot": "11 (80 damage per projectile)",
+    "Attack2StatusChance": "1.3%",
+    "Attack2CritChance": "40%",
+    "Attack2CritMultiplier": "3x",
+    "Attack2PunchThrough": "0 m",
+    "Attack2Falloff": "100% damage up to 60 m50% damage at 120 m50% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 24.2 (2018-12-18)"
+  }
+}

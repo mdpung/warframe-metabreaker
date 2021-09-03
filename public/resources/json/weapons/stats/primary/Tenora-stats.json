@@ -1,0 +1,46 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Hit-Scan",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "11.67",
+    "Spool": "9",
+    "Accuracy": "12.5",
+    "Magazine": "150",
+    "MaxAmmo": "900",
+    "Reload": "2.5 s",
+    "Disposition": "●●●○○ (1.10x)"
+  },
+  "Fully Spooled": {
+    "Attack1Total": "24 (40%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "11.67",
+    "Attack1Multishot": "1 (24 damage per projectile)",
+    "Attack1StatusChance": "16%",
+    "Attack1CritChance": "28%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Charged Attack": {
+    "Attack2Total": "240 (60%)",
+    "Attack2Trigger": "Charge",
+    "Attack2ShotType": "Projectile",
+    "Attack2ShotSpeed": "? m/s",
+    "Attack2FireRate": "10",
+    "Attack2ChargeTime": "0.8 s",
+    "Attack2Multishot": "1 (240 damage per projectile)",
+    "Attack2StatusChance": "11%",
+    "Attack2CritChance": "34%",
+    "Attack2CritMultiplier": "3x",
+    "Attack2PunchThrough": "1 m",
+    "Attack2AmmoCost": "10"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Introduced": "Update 20.0 (2017-03-24)",
+    "Variants": "Tenora Prime Tenora Prime",
+    "InternalName": "/Lotus/Weapons/Tenno/LongGuns/TnBardRifle/TnBardRifle"
+  }
+}

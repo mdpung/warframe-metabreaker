@@ -1,0 +1,38 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "ComboDur": "5 s",
+    "BlockAngle": "60°",
+    "FollowThrough": "50%",
+    "Disposition": "●●●●● (1.45x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "180 (70%)",
+    "Attack1FireRate": "1",
+    "Attack1StatusChance": "28%",
+    "Attack1CritChance": "20%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "720",
+    "WindUp": "0.7 s",
+    "HeavySlamAttack": "720",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "720"
+  },
+  "Slam Attack": {
+    "SlamAttack": "360",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "360"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Hotfix 7.7.3 (2013-04-12)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/DualShortSword/DualEtherSword"
+  }
+}

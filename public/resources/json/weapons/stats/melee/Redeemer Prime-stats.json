@@ -1,0 +1,57 @@
+{
+  "Utility": {
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.917",
+    "Accuracy": "0",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "50%",
+    "Disposition": "●○○○○ (0.60x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "212 (70%)",
+    "Attack1FireRate": "0.917",
+    "Attack1Multishot": "1 (212 damage per projectile)",
+    "Attack1StatusChance": "30%",
+    "Attack1CritChance": "24%",
+    "Attack1CritMultiplier": "2.2x"
+  },
+  "Charged Shots": {
+    "Attack2Total": "800",
+    "Attack2Trigger": "Charge",
+    "Attack2ShotType": "Hit-Scan",
+    "ForcedProcs": "Impact Damage Impact",
+    "Attack2Range": "300 m",
+    "Attack2FireRate": "2.5",
+    "Attack2ChargeTime": "0.4 s",
+    "Attack2Accuracy": "0",
+    "Attack2Multishot": "10 (80 damage per projectile)",
+    "Attack2StatusChance": "9%",
+    "Attack2CritChance": "24%",
+    "Attack2CritMultiplier": "2.2x",
+    "Attack2Falloff": "100% damage up to 10 m6% damage at 30 m94% max reduction"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "3,200",
+    "WindUp": "0.4 s",
+    "HeavySlamAttack": "636",
+    "HeavySlamRadius": "6 m",
+    "HeavyRadialDmg": "636"
+  },
+  "Slam Attack": {
+    "SlamAttack": "636",
+    "SlamRadius": "5 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "424"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Hotfix 24.2.2 (2018-12-18)",
+    "Variants": "Redeemer Redeemer",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Gunblade/RedeemerPrime/RedeemerPrimeWep"
+  }
+}

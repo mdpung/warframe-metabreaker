@@ -1,0 +1,35 @@
+{
+  "Utility": {
+    "AmmoType": "None",
+    "ShotType": "Discharge",
+    "NoiseLevel": "Alarming",
+    "FireRate": "12",
+    "Accuracy": "100",
+    "Magazine": "50",
+    "MaxAmmo": "INF",
+    "Reload": "2.25 s",
+    "ReloadRate": "40 rounds/s",
+    "ReloadDelay": "1 s",
+    "Disposition": "●●●●● (1.55x)"
+  },
+  "Normal": {
+    "Attack1Total": "22 (78%)",
+    "Attack1ShotType": "Discharge",
+    "Attack1Range": "30 m",
+    "Attack1FireRate": "12",
+    "Attack1Multishot": "1 (22 damage per projectile)",
+    "Attack1StatusChance": "24%",
+    "Attack1CritChance": "10%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "0.5 m",
+    "Attack1AmmoCost": "0.5"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Users": "Elite Crewman",
+    "Introduced": "Update 8.0 (2013-05-23)",
+    "Variants": "Tenet Flux Rifle Tenet Flux Rifle",
+    "InternalName": "/Lotus/Weapons/ClanTech/Energy/CrpLaserRifle"
+  }
+}

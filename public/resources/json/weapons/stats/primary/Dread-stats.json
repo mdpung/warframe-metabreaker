@@ -1,0 +1,43 @@
+{
+  "Utility": {
+    "AmmoType": "Sniper",
+    "ShotType": "Projectile",
+    "ShotSpeed": "70 m/s",
+    "NoiseLevel": "Silent",
+    "FireRate": "1",
+    "Accuracy": "16.7",
+    "Magazine": "1",
+    "MaxAmmo": "72",
+    "Reload": "0.7 s",
+    "Disposition": "●●●●○ (1.30x)"
+  },
+  "Uncharged Shot": {
+    "Attack1Total": "168 (80%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "70 m/s",
+    "Attack1FireRate": "1",
+    "Attack1Multishot": "1 (168 damage per projectile)",
+    "Attack1StatusChance": "20%",
+    "Attack1CritChance": "50%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Charged Shot": {
+    "Attack2Total": "336 (90%)",
+    "Attack2ShotType": "Projectile",
+    "Attack2ShotSpeed": "85 m/s",
+    "Attack2FireRate": "1",
+    "Attack2ChargeTime": "0.5 s",
+    "Attack2Multishot": "1 (336 damage per projectile)",
+    "Attack2StatusChance": "20%",
+    "Attack2CritChance": "50%",
+    "Attack2CritMultiplier": "2x",
+    "Attack2PunchThrough": "2.5 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Users": "Stalker",
+    "Introduced": "Update 8.0 (2013-05-23)",
+    "InternalName": "/Lotus/Weapons/Tenno/Bows/StalkerBow"
+  }
+}

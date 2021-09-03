@@ -1,0 +1,29 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "25",
+    "Accuracy": "15.4",
+    "Magazine": "28",
+    "MaxAmmo": "420",
+    "Reload": "2 s",
+    "Disposition": "●●●●● (1.45x)"
+  },
+  "Normal": {
+    "Attack1Total": "17 ( 60%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1FireRate": "25",
+    "Attack1Multishot": "1 (17 damage per projectile)",
+    "Attack1StatusChance": "11%",
+    "Attack1CritChance": "15%",
+    "Attack1CritMultiplier": "1.5x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Hotfix 7.7.3 (2013-04-12)",
+    "Variants": " Twin Vipers Wraith"
+  }
+}

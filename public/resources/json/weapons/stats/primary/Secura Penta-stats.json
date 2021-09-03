@@ -1,0 +1,43 @@
+{
+  "Utility": {
+    "AmmoType": "Sniper",
+    "ShotType": "Projectile",
+    "ShotSpeed": "25 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "2",
+    "Accuracy": "100",
+    "Magazine": "7",
+    "MaxAmmo": "28",
+    "Reload": "2.5 s",
+    "Disposition": "●●●●○ (1.30x)"
+  },
+  "Grenade Impact": {
+    "Attack1Total": "75",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "25 m/s",
+    "Attack1FireRate": "2",
+    "Attack1Multishot": "1 (75 damage per projectile)",
+    "Attack1StatusChance": "26%",
+    "Attack1CritChance": "26%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Grenade Detonation": {
+    "Attack2Total": "300",
+    "Attack2ShotType": "AoE",
+    "Attack2Range": "6 m",
+    "Attack2FireRate": "2",
+    "Attack2Multishot": "1 (300 damage per projectile)",
+    "Attack2StatusChance": "26%",
+    "Attack2CritChance": "26%",
+    "Attack2CritMultiplier": "2x",
+    "Attack2Falloff": "100% damage up to 0 m40% damage at 6 m60% max reduction"
+  },
+  "Miscellaneous": {
+    "SyndicateEffect": "Sequence",
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 17.3 (2015-09-02)",
+    "Variants": "Carmine Penta Carmine PentaPenta Penta",
+    "InternalName": "/Lotus/Weapons/Syndicates/PerrinSequence/LongGuns/PSPenta"
+  }
+}

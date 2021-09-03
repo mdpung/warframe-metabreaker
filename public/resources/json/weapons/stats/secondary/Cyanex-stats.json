@@ -1,0 +1,57 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "4.67",
+    "Accuracy": "1.8",
+    "Magazine": "11",
+    "MaxAmmo": "210",
+    "Reload": "2.2 s",
+    "Disposition": "●●○○○ (0.85x)"
+  },
+  "Projectile Impact": {
+    "Attack1Total": "50",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "? m/s",
+    "Attack1FireRate": "4.67",
+    "Attack1Multishot": "1 (50 damage per projectile)",
+    "Attack1StatusChance": "32%",
+    "Attack1CritChance": "8%",
+    "Attack1CritMultiplier": "1.4x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Projectile Explosion": {
+    "Attack2Total": "41",
+    "Attack2ShotType": "AoE",
+    "Attack2FireRate": "4.67",
+    "Attack2Multishot": "1 (41 damage per projectile)",
+    "Attack2StatusChance": "32%",
+    "Attack2CritChance": "8%",
+    "Attack2CritMultiplier": "1.4x",
+    "Attack2PunchThrough": "0 m",
+    "Attack2Radius": "0.7 m",
+    "Attack2Falloff": "100% damage up to 0 m80% damage at 0.7 m20% max reduction"
+  },
+  "Burst Mode": {
+    "Attack3Total": "72 ( 54.03%)",
+    "Attack3Trigger": "Burst",
+    "Attack3ShotType": "Projectile",
+    "Attack3ShotSpeed": "? m/s",
+    "Attack3FireRate": "10.05",
+    "Attack3Accuracy": "80",
+    "Attack3BurstDelay": "0.08 s",
+    "Attack3Multishot": "1 (72 damage per projectile)",
+    "Attack3StatusChance": "32%",
+    "Attack3CritChance": "8%",
+    "Attack3CritMultiplier": "1.4x",
+    "Attack3PunchThrough": "0.5 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Users": "Amalgam Machinist",
+    "Introduced": "Update 25.0 (2019-05-22)"
+  }
+}

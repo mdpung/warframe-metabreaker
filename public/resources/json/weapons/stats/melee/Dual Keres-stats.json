@@ -1,0 +1,38 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.25",
+    "ComboDur": "5 s",
+    "BlockAngle": "60°",
+    "FollowThrough": "50%",
+    "Disposition": "●●●○○ (1.10x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "115 (58%)",
+    "Attack1FireRate": "1.25",
+    "Attack1StatusChance": "14%",
+    "Attack1CritChance": "28%",
+    "Attack1CritMultiplier": "2.6x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "460",
+    "WindUp": "0.7 s",
+    "HeavySlamAttack": "460",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "460"
+  },
+  "Slam Attack": {
+    "SlamAttack": "230",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "230"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Update 22.18 (2018-04-20)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Swords/QuillSword/QuillDualSwords"
+  }
+}

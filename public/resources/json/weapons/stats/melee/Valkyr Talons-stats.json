@@ -1,0 +1,37 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.5",
+    "ComboDur": "5 s",
+    "BlockAngle": "60°",
+    "FollowThrough": "100%"
+  },
+  "Normal Attack": {
+    "Attack1Total": "249.9 (33.33%)",
+    "Attack1FireRate": "1.5",
+    "Attack1StatusChance": "10%",
+    "Attack1CritChance": "50%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "2,083",
+    "WindUp": "0.5 s",
+    "HeavySlamAttack": "1,000",
+    "HeavySlamRadius": "7 m",
+    "HeavyRadialDmg": "1,000"
+  },
+  "Slam Attack": {
+    "SlamAttack": "750",
+    "SlamRadius": "6 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "750"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "None",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Users": "ValkyrValkyr Prime",
+    "Introduced": "Update 23.0 (2018-06-15)"
+  }
+}

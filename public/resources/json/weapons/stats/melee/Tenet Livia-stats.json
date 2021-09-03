@@ -1,0 +1,38 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.08",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "70%",
+    "Disposition": "●○○○○ (0.50x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "247.5 (72%)",
+    "Attack1FireRate": "1.08",
+    "Attack1StatusChance": "28%",
+    "Attack1CritChance": "28%",
+    "Attack1CritMultiplier": "2.2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,485",
+    "WindUp": "0.7 s",
+    "HeavySlamAttack": "990",
+    "HeavySlamRadius": "8 m",
+    "HeavyRadialDmg": "990"
+  },
+  "Slam Attack": {
+    "SlamAttack": "742.5",
+    "SlamRadius": "6 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "495"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Update 30.5 (2021-07-06)",
+    "InternalName": "/Lotus/Weapons/Corpus/Melee/CrpBriefcase2HKatana/CrpBriefcase2HKatana"
+  }
+}

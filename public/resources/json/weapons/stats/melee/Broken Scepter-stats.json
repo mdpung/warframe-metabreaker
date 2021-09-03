@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.25",
+    "ComboDur": "5 s",
+    "BlockAngle": "60°",
+    "FollowThrough": "50%",
+    "Disposition": "●●●●● (1.40x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "179 (70%)",
+    "Attack1FireRate": "1.25",
+    "Attack1StatusChance": "30%",
+    "Attack1CritChance": "10%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "895",
+    "WindUp": "0.5 s",
+    "HeavySlamAttack": "716",
+    "HeavySlamRadius": "7 m",
+    "HeavyRadialDmg": "716"
+  },
+  "Slam Attack": {
+    "SlamAttack": "537",
+    "SlamRadius": "6 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "179"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Users": "Grineer Queens",
+    "Introduced": "Update 19.0 (2016-11-11)",
+    "InternalName": "/Lotus/Weapons/Grineer/Melee/GrnQueenSceptre/GrnQueenSceptreWeapon"
+  }
+}

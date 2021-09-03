@@ -1,0 +1,30 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Projectile",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "3.3",
+    "Accuracy": "100",
+    "Magazine": "4",
+    "MaxAmmo": "INF",
+    "Reload": "1.2 s",
+    "Disposition": "●●●●● (1.31x)"
+  },
+  "Normal": {
+    "Attack1Total": "15",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "? m/s",
+    "Attack1FireRate": "3.3",
+    "Attack1Multishot": "1 (15 damage per projectile)",
+    "Attack1StatusChance": "5%",
+    "Attack1CritChance": "2.5%",
+    "Attack1CritMultiplier": "1.5x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Update 10.0 (2013-09-13)"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "3.33",
+    "Accuracy": "20",
+    "Magazine": "6",
+    "MaxAmmo": "210",
+    "Reload": "1.05 s",
+    "Disposition": "●○○○○ (0.50x)"
+  },
+  "Normal": {
+    "Attack1Total": "325 ( 80%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "? m/s",
+    "Attack1FireRate": "3.33",
+    "Attack1Multishot": "10 (32.5 damage per projectile)",
+    "Attack1StatusChance": "10%",
+    "Attack1CritChance": "18%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "0 m",
+    "Attack1Falloff": "100% damage up to 28 m45% damage at 40 m55% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Introduced": "Update 30.5 (2021-07-06)",
+    "Variants": " Detron Mara Detron"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.33",
+    "ComboDur": "5 s",
+    "BlockAngle": "50°",
+    "FollowThrough": "90%",
+    "Disposition": "●●●●○ (1.25x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "150 (70%)",
+    "Attack1Range": "6 m",
+    "Attack1FireRate": "1.33",
+    "Attack1StatusChance": "30%",
+    "Attack1CritChance": "25%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,800",
+    "WindUp": "0.5 s",
+    "HeavySlamAttack": "600",
+    "HeavySlamRadius": "8 m",
+    "HeavyRadialDmg": "600"
+  },
+  "Slam Attack": {
+    "SlamAttack": "450",
+    "SlamRadius": "7 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "300"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Hotfix 20.4.2 (2017-05-05)",
+    "Variants": "Obex Obex",
+    "InternalName": "/Lotus/Weapons/Corpus/Melee/KickAndPunch/PrismaObex"
+  }
+}

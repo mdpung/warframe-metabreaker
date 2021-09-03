@@ -1,0 +1,75 @@
+{
+  "Utility": {
+    "ShotType": "AoE",
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.833",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "60%",
+    "Disposition": "●●●○○ (1.10x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "298 (50.34%)",
+    "Attack1FireRate": "0.833",
+    "Attack1StatusChance": "30%",
+    "Attack1CritChance": "10%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Attacks While Disc Deployed": {
+    "Attack2Total": "130 (80%)",
+    "Attack2FireRate": "0.833",
+    "Attack2StatusChance": "15%",
+    "Attack2CritChance": "10%",
+    "Attack2CritMultiplier": "2x"
+  },
+  "Disc Impact": {
+    "Attack3Total": "75",
+    "Attack3Range": "9 m",
+    "Attack3FireRate": "0.909",
+    "Attack3ChargeTime": "1.1 s",
+    "Attack3StatusChance": "15%",
+    "Attack3CritChance": "10%",
+    "Attack3CritMultiplier": "2x"
+  },
+  "Disc Explosion": {
+    "Attack4Total": "350",
+    "Attack4ShotType": "AoE",
+    "Attack4Range": "4 m",
+    "Attack4FireRate": "0.909",
+    "Attack4ChargeTime": "1.1 s",
+    "Attack4StatusChance": "15%",
+    "Attack4CritChance": "0%",
+    "Attack4CritMultiplier": "1x",
+    "Attack4Falloff": "100% damage up to 0 m100% damage at 4 m0% max reduction"
+  },
+  "Disc Aura": {
+    "Attack5Total": "50",
+    "Attack5Range": "4 m",
+    "Attack5FireRate": "1.2",
+    "Attack5StatusChance": "50%",
+    "Attack5CritChance": "0%",
+    "Attack5CritMultiplier": "1x",
+    "Attack5Falloff": "100% damage up to 0 m100% damage at 4 m0% max reduction"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,788",
+    "WindUp": "1.1 s",
+    "HeavySlamAttack": "1,490",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "1,490"
+  },
+  "Slam Attack": {
+    "SlamAttack": "894",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "Heat Damage Heat260"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update: Specters of the Rail 1 (2016-07-28)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/SunDialAxe/SundialAxeWeapon"
+  }
+}

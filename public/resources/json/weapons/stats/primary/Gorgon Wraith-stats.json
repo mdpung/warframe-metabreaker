@@ -1,0 +1,31 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "13.33",
+    "Spool": "6",
+    "Accuracy": "16.7",
+    "Magazine": "90",
+    "MaxAmmo": "900",
+    "Reload": "3 s",
+    "Disposition": "●●●●● (1.35x)"
+  },
+  "Fully Spooled": {
+    "Attack1Total": "27 (85%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "13.33",
+    "Attack1Multishot": "1 (27 damage per projectile)",
+    "Attack1StatusChance": "21%",
+    "Attack1CritChance": "15%",
+    "Attack1CritMultiplier": "1.9x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Introduced": "Update 12.4 (2014-03-05)",
+    "Variants": "Gorgon GorgonPrisma Gorgon Prisma Gorgon",
+    "InternalName": "/Lotus/Weapons/Grineer/LongGuns/WraithGorgon/WraithGorgon"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.833",
+    "ComboDur": "5 s",
+    "BlockAngle": "50°",
+    "FollowThrough": "90%",
+    "Disposition": "●●●●● (1.35x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "193 (57%)",
+    "Attack1FireRate": "0.833",
+    "Attack1StatusChance": "9%",
+    "Attack1CritChance": "31%",
+    "Attack1CritMultiplier": "2.5x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "2,065",
+    "WindUp": "0.5 s",
+    "HeavySlamAttack": "772",
+    "HeavySlamRadius": "8 m",
+    "HeavyRadialDmg": "772"
+  },
+  "Slam Attack": {
+    "SlamAttack": "579",
+    "SlamRadius": "7 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "386"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Update 24.6 (2019-04-04)",
+    "InternalName": "/Lotus/Weapons/Grineer/Melee/GrnSparring/GrnSpiderSparring/GrnSpiderSparring"
+  }
+}

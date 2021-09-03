@@ -1,0 +1,31 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "70 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "5.83",
+    "Accuracy": "100",
+    "Magazine": "26",
+    "MaxAmmo": "210",
+    "Reload": "0.5 s",
+    "Disposition": "●●●●○ (1.25x)"
+  },
+  "Normal": {
+    "Attack1Total": "36 ( 85%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "70 m/s",
+    "Attack1FireRate": "5.83",
+    "Attack1Multishot": "1 (36 damage per projectile)",
+    "Attack1StatusChance": "28%",
+    "Attack1CritChance": "6%",
+    "Attack1CritMultiplier": "1.8x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 14.8 (2014-09-24)",
+    "Variants": " Hikou"
+  }
+}

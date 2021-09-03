@@ -1,0 +1,38 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.17",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "60%",
+    "Disposition": "●●●●● (1.35x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "188 (44%)",
+    "Attack1FireRate": "1.17",
+    "Attack1StatusChance": "28%",
+    "Attack1CritChance": "6%",
+    "Attack1CritMultiplier": "1.4x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,128",
+    "WindUp": "0.9 s",
+    "HeavySlamAttack": "940",
+    "HeavySlamRadius": "8 m",
+    "HeavyRadialDmg": "940"
+  },
+  "Slam Attack": {
+    "SlamAttack": "564",
+    "SlamRadius": "7 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "376"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 22.4 (2017-11-23)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Polearms/TnHalberdPolearm/TnHalberdPolearmWeapon"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.917",
+    "ComboDur": "5 s",
+    "BlockAngle": "50°",
+    "FollowThrough": "40%",
+    "Disposition": "●●○○○ (0.75x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "256.25 (39.22%)",
+    "Attack1FireRate": "0.917",
+    "Attack1StatusChance": "27%",
+    "Attack1CritChance": "31%",
+    "Attack1CritMultiplier": "2.7x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,537.5",
+    "WindUp": "1.2 s",
+    "HeavySlamAttack": "1,281.25",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "1,281.25"
+  },
+  "Slam Attack": {
+    "SlamAttack": "768.75",
+    "SlamRadius": "9 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "512.5"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Users": "Kuva Lich",
+    "Introduced": "Update 26.0 (2019-10-31)",
+    "InternalName": "/Lotus/Weapons/Grineer/Melee/GrnKuvaLichScythe/GrnKuvaLichScytheWeapon"
+  }
+}

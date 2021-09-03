@@ -1,0 +1,38 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.08",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "60%",
+    "Disposition": "●●●●○ (1.30x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "158 (41.14%)",
+    "Attack1FireRate": "1.08",
+    "Attack1StatusChance": "31%",
+    "Attack1CritChance": "9%",
+    "Attack1CritMultiplier": "1.5x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "790",
+    "WindUp": "0.6 s",
+    "HeavySlamAttack": "632",
+    "HeavySlamRadius": "8 m",
+    "HeavyRadialDmg": "632"
+  },
+  "Slam Attack": {
+    "SlamAttack": "474",
+    "SlamRadius": "7 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "158"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Hotfix 7.7.2 (2013-04-05)",
+    "InternalName": "/Lotus/Weapons/Infested/Melee/Swords/Mire/MireSword"
+  }
+}

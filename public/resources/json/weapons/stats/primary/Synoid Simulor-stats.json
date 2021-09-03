@@ -1,0 +1,54 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "AoE",
+    "NoiseLevel": "Alarming",
+    "FireRate": "3.33",
+    "Accuracy": "28.6",
+    "Magazine": "16",
+    "MaxAmmo": "96",
+    "Reload": "2 s",
+    "Disposition": "●●●●○ (1.15x)"
+  },
+  "Orb Merging Damage": {
+    "Attack1Total": "125",
+    "Attack1ShotType": "AoE",
+    "Attack1Range": "4 m",
+    "Attack1FireRate": "3.33",
+    "Attack1Multishot": "1 (125 damage per projectile)",
+    "Attack1StatusChance": "35%",
+    "Attack1CritChance": "14%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1Falloff": "100% damage up to 0 m100% damage at 4 m0% max reduction"
+  },
+  "Orb Explosion": {
+    "Attack2Total": "240",
+    "Attack2ShotType": "AoE",
+    "ForcedProcs": "Electricity Damage Electricity",
+    "Attack2Range": "5 m",
+    "Attack2FireRate": "3.33",
+    "Attack2Multishot": "1 (240 damage per projectile)",
+    "Attack2StatusChance": "35%",
+    "Attack2CritChance": "14%",
+    "Attack2CritMultiplier": "2x",
+    "Attack2Falloff": "100% damage up to 0 m0% damage at 5 m100% max reduction"
+  },
+  "Singularity": {
+    "Attack7Total": "50",
+    "Attack7Range": "5 m",
+    "Attack7FireRate": "4",
+    "Attack7Multishot": "1 (50 damage per projectile)",
+    "Attack7StatusChance": "0%",
+    "Attack7CritChance": "0%",
+    "Attack7CritMultiplier": "0x",
+    "Attack7Falloff": "100% damage up to 0 m100% damage at 5 m0% max reduction"
+  },
+  "Miscellaneous": {
+    "SyndicateEffect": "Entropy",
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 17.3 (2015-09-02)",
+    "Variants": "Simulor Simulor",
+    "InternalName": "/Lotus/Weapons/Syndicates/CephalonSuda/LongGuns/CSSimulor"
+  }
+}

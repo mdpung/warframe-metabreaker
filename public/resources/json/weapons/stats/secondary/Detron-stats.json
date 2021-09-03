@@ -1,0 +1,33 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "150 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "3.33",
+    "Accuracy": "7.1",
+    "Magazine": "5",
+    "MaxAmmo": "210",
+    "Reload": "1.05 s",
+    "Disposition": "●●●●○ (1.15x)"
+  },
+  "Normal": {
+    "Attack1Total": "280",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "150 m/s",
+    "Attack1FireRate": "3.33",
+    "Attack1Multishot": "7 (40 damage per projectile)",
+    "Attack1StatusChance": "12.86%",
+    "Attack1CritChance": "4%",
+    "Attack1CritMultiplier": "1.5x",
+    "Attack1PunchThrough": "0 m",
+    "Attack1Falloff": "100% damage up to 13 m38% damage at 22 m62% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Users": "Detron CrewmanScrambusCombaPelna CadeJad Teran",
+    "Introduced": "Hotfix 11.5.5 (2013-12-31)",
+    "Variants": " Mara Detron Tenet Detron"
+  }
+}

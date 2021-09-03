@@ -1,0 +1,32 @@
+{
+  "Utility": {
+    "AmmoType": "Shotgun",
+    "ShotType": "Discharge",
+    "NoiseLevel": "Alarming",
+    "FireRate": "12",
+    "Accuracy": "50",
+    "Magazine": "70",
+    "MaxAmmo": "700",
+    "Reload": "2 s",
+    "Disposition": "●●●●● (1.46x)"
+  },
+  "Normal": {
+    "Attack2Total": "18 (80%)",
+    "Attack2ShotType": "Discharge",
+    "Attack2Range": "30 m",
+    "Attack2FireRate": "16",
+    "Attack2Multishot": "2 (9 damage per projectile)",
+    "Attack2StatusChance": "45%",
+    "Attack2CritChance": "16%",
+    "Attack2CritMultiplier": "2.4x",
+    "Attack2PunchThrough": "0.6 m",
+    "Attack2AmmoCost": "0.5"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Users": "Terra JailerTerra Overtaker",
+    "Introduced": "Update 17.5 (2015-10-01)",
+    "InternalName": "/Lotus/Weapons/Corpus/LongGuns/CrpSplitLaser/CrpSplitLaser"
+  }
+}

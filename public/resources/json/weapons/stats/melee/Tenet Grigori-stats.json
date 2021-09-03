@@ -1,0 +1,52 @@
+{
+  "Utility": {
+    "ShotType": "Projectile",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.08",
+    "ComboDur": "5 s",
+    "BlockAngle": "90°",
+    "FollowThrough": "35%",
+    "Disposition": "●○○○○ (0.50x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "285 (48%)",
+    "Attack1FireRate": "1.08",
+    "Attack1StatusChance": "38%",
+    "Attack1CritChance": "24%",
+    "Attack1CritMultiplier": "1.6x"
+  },
+  "Energy Disk": {
+    "Attack2Total": "5,100 (26.67%)",
+    "Attack2Trigger": "Charge",
+    "Attack2ShotType": "Projectile",
+    "Attack2ShotSpeed": "? m/s",
+    "Attack2Range": "10 m",
+    "Attack2FireRate": "1",
+    "Attack2ChargeTime": "1 s",
+    "Attack2StatusChance": "38%",
+    "Attack2CritChance": "24%",
+    "Attack2CritMultiplier": "1.6x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,710",
+    "WindUp": "1 s",
+    "HeavySlamAttack": "1,425",
+    "HeavySlamRadius": "8 m",
+    "HeavyRadialDmg": "1,425"
+  },
+  "Slam Attack": {
+    "SlamAttack": "855",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "581.25"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 30.5 (2021-07-06)",
+    "InternalName": "/Lotus/Weapons/Corpus/Melee/CrpBriefcaseScythe/CrpBriefcaseScythe"
+  }
+}

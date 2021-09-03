@@ -1,0 +1,45 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "100 m/s",
+    "NoiseLevel": "Silent",
+    "FireRate": "3.33",
+    "Accuracy": "4",
+    "Magazine": "16",
+    "MaxAmmo": "210",
+    "Reload": "2 s",
+    "Disposition": "●●●●○ (1.25x)"
+  },
+  "Charged Shot": {
+    "Attack1Total": "100 ( 80%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "100 m/s",
+    "Attack1FireRate": "3.33",
+    "Attack1ChargeTime": "1 s",
+    "Attack1Multishot": "1 (100 damage per projectile)",
+    "Attack1StatusChance": "10%",
+    "Attack1CritChance": "15%",
+    "Attack1CritMultiplier": "1.5x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Burst Shot": {
+    "Attack2Total": "25 ( 80%)",
+    "Attack2ShotType": "Projectile",
+    "Attack2ShotSpeed": "100 m/s",
+    "Attack2FireRate": "11.43",
+    "Attack2BurstCount": "4",
+    "Attack2BurstDelay": "0.05 s",
+    "Attack2Multishot": "1 (25 damage per projectile)",
+    "Attack2StatusChance": "7.5%",
+    "Attack2CritChance": "3.75%",
+    "Attack2CritMultiplier": "1.5x",
+    "Attack2PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 10.4 (2013-10-16)",
+    "Variants": " Ballistica Prime Rakta Ballistica"
+  }
+}

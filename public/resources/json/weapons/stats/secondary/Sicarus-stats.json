@@ -1,0 +1,31 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "7.39",
+    "Accuracy": "20",
+    "Magazine": "15",
+    "MaxAmmo": "210",
+    "Reload": "2 s",
+    "Disposition": "●●●○○ (1.10x)"
+  },
+  "Normal": {
+    "Attack1Total": "30 ( 70%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1FireRate": "7.39",
+    "Attack1BurstCount": "3",
+    "Attack1BurstDelay": "0.04 s",
+    "Attack1Multishot": "1 (30 damage per projectile)",
+    "Attack1StatusChance": "6%",
+    "Attack1CritChance": "16%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Vanilla (2012-10-25)",
+    "Variants": " Sicarus Prime"
+  }
+}

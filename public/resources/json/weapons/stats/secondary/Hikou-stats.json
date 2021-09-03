@@ -1,0 +1,32 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "70 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "6.67",
+    "Accuracy": "100",
+    "Magazine": "20",
+    "MaxAmmo": "210",
+    "Reload": "0.75 s",
+    "Disposition": "●●●●○ (1.30x)"
+  },
+  "Normal": {
+    "Attack1Total": "26 ( 60%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "70 m/s",
+    "Attack1FireRate": "6.67",
+    "Attack1Multishot": "1 (26 damage per projectile)",
+    "Attack1StatusChance": "10%",
+    "Attack1CritChance": "4%",
+    "Attack1CritMultiplier": "1.6x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Users": "Mag Specter",
+    "Introduced": "Update 9.0 (2013-07-13)",
+    "Variants": " Hikou Prime"
+  }
+}

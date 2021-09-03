@@ -1,0 +1,38 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.17",
+    "ComboDur": "5 s",
+    "BlockAngle": "60°",
+    "FollowThrough": "50%",
+    "Disposition": "●●●●● (1.44x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "70 (90%)",
+    "Attack1FireRate": "1.17",
+    "Attack1StatusChance": "5%",
+    "Attack1CritChance": "25%",
+    "Attack1CritMultiplier": "3x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "280",
+    "WindUp": "0.7 s",
+    "HeavySlamAttack": "280",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "280"
+  },
+  "Slam Attack": {
+    "SlamAttack": "140",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "140"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 6.0 (2013-01-29)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Axe/DualAxeWeapon"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Projectile",
+    "ShotSpeed": "100 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "6.67",
+    "Accuracy": "18.2",
+    "Magazine": "60",
+    "MaxAmmo": "540",
+    "Reload": "2 s",
+    "Disposition": "●●●●● (1.50x)"
+  },
+  "Normal": {
+    "Attack1Total": "32 (80%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "100 m/s",
+    "Attack1FireRate": "6.67",
+    "Attack1Multishot": "1 (32 damage per projectile)",
+    "Attack1StatusChance": "20%",
+    "Attack1CritChance": "4%",
+    "Attack1CritMultiplier": "1.5x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Users": "Nako XolTerra ProvisorTerra Elite Crewman",
+    "Introduced": "Update 11.8 (2014-01-22)",
+    "Variants": "Prisma Tetra Prisma TetraTenet Tetra Tenet Tetra",
+    "InternalName": "/Lotus/Weapons/Corpus/LongGuns/CorpusUMP/CorpusUMP"
+  }
+}

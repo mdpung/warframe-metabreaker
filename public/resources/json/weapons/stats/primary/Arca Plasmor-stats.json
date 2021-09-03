@@ -1,0 +1,35 @@
+{
+  "Utility": {
+    "AmmoType": "Shotgun",
+    "ShotType": "Projectile",
+    "ShotSpeed": "60 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.1",
+    "Accuracy": "9.1",
+    "Magazine": "10",
+    "MaxAmmo": "48",
+    "Reload": "2.8 s",
+    "Disposition": "●○○○○ (0.70x)"
+  },
+  "Normal": {
+    "Attack1Total": "600",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "60 m/s",
+    "ForcedProcs": "Impact Damage Impact",
+    "Attack1Range": "30 m",
+    "Attack1FireRate": "1.1",
+    "Attack1Multishot": "1 (600 damage per projectile)",
+    "Attack1StatusChance": "28%",
+    "Attack1CritChance": "22%",
+    "Attack1CritMultiplier": "1.6x",
+    "Attack1Falloff": "100% damage up to 10 m33% damage at 20 m67% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Users": "Terra Plasmor CrewmanAmalgam Arca Kucumatz",
+    "Introduced": "Update 21.7 (2017-09-09)",
+    "Variants": "Tenet Arca Plasmor Tenet Arca Plasmor",
+    "InternalName": "/Lotus/Weapons/Corpus/LongGuns/CrpShotgun/CrpShotgun"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.8",
+    "ComboDur": "5 s",
+    "BlockAngle": "50°",
+    "FollowThrough": "40%",
+    "Disposition": "●●●○○ (1.05x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "270 (70%)",
+    "Attack1FireRate": "0.8",
+    "Attack1StatusChance": "18%",
+    "Attack1CritChance": "40%",
+    "Attack1CritMultiplier": "2.5x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,620",
+    "WindUp": "1.2 s",
+    "HeavySlamAttack": "1,350",
+    "HeavySlamRadius": "10 m",
+    "HeavyRadialDmg": "1,350"
+  },
+  "Slam Attack": {
+    "SlamAttack": "810",
+    "SlamRadius": "9 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "540"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 18.12 (2016-05-17)",
+    "Variants": "Fragor Fragor",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/PrimeFragor/PrimeFragor"
+  }
+}

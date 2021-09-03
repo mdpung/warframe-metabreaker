@@ -1,0 +1,62 @@
+{
+  "Utility": {
+    "ShotType": "Thrown",
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "ComboDur": "5 s",
+    "BlockAngle": "50°",
+    "FollowThrough": "80%",
+    "Disposition": "●●●●○ (1.25x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "259 (51%)",
+    "Attack1FireRate": "1",
+    "Attack1StatusChance": "33%",
+    "Attack1CritChance": "17%",
+    "Attack1CritMultiplier": "1.9x"
+  },
+  "Throw": {
+    "Attack2Total": "777 (51%)",
+    "Attack2ShotType": "Thrown",
+    "Attack2Range": "40 m",
+    "Attack2FireRate": "0.833",
+    "Attack2ChargeTime": "1.2 s",
+    "Attack2StatusChance": "33%",
+    "Attack2CritChance": "17%",
+    "Attack2CritMultiplier": "1.9x"
+  },
+  "Recall Explosion": {
+    "Attack3Total": "777",
+    "Attack3ShotType": "AoE",
+    "ForcedProcs": "Knockdown Ragdoll",
+    "Attack3Range": "5 m",
+    "Attack3FireRate": "0.833",
+    "Attack3ChargeTime": "1.2 s",
+    "Attack3StatusChance": "33%",
+    "Attack3CritChance": "17%",
+    "Attack3CritMultiplier": "1.9x",
+    "Attack3Falloff": "100% damage up to 0 m100% damage at 5 m0% max reduction"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,036",
+    "WindUp": "1.2 s",
+    "HeavySlamAttack": "1,295",
+    "HeavySlamRadius": "10 m",
+    "HeavyRadialDmg": "1,295"
+  },
+  "Slam Attack": {
+    "SlamAttack": "777",
+    "SlamRadius": "9 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "518"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Users": "Wolf of Saturn Six",
+    "Introduced": "Update 24.3 (2019-02-27)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Hammer/ThrowingHammer"
+  }
+}

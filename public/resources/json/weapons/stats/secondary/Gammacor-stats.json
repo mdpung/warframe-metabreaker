@@ -1,0 +1,32 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Discharge",
+    "Range": "25 m",
+    "NoiseLevel": "Alarming",
+    "FireRate": "12",
+    "Accuracy": "100",
+    "Magazine": "60",
+    "MaxAmmo": "240",
+    "Reload": "1.4 s",
+    "Disposition": "●●●●○ (1.15x)"
+  },
+  "Normal": {
+    "Attack1Total": "16",
+    "Attack1ShotType": "Discharge",
+    "Attack1Range": "25 m",
+    "Attack1FireRate": "12",
+    "Attack1Multishot": "1 (16 damage per projectile)",
+    "Attack1StatusChance": "20%",
+    "Attack1CritChance": "8%",
+    "Attack1CritMultiplier": "1.8x",
+    "Attack1PunchThrough": "0 m",
+    "Attack1AmmoCost": "0.5"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 15.5 (2014-11-27)",
+    "Variants": " Synoid Gammacor"
+  }
+}

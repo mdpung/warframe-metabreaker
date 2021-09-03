@@ -1,0 +1,33 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "4.17",
+    "Accuracy": "28.6",
+    "Magazine": "14",
+    "MaxAmmo": "540",
+    "Reload": "1.5 s",
+    "Disposition": "●●●●○ (1.20x)"
+  },
+  "Normal": {
+    "Attack1Total": "75 (45%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "4.17",
+    "Attack1BurstCount": "2",
+    "Attack1BurstFireRate": "3.33",
+    "Attack1BurstDelay": "0.09 s",
+    "Attack1Multishot": "1 (75 damage per projectile)",
+    "Attack1StatusChance": "10%",
+    "Attack1CritChance": "35%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Introduced": "Hotfix 18.6.2 (2016-03-22)",
+    "Variants": "Sybaris Prime Sybaris PrimeSybaris Sybaris",
+    "InternalName": "/Lotus/Weapons/Tenno/LongGuns/DexTheThird/DexTheThird"
+  }
+}

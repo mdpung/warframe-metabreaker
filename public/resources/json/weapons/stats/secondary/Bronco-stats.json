@@ -1,0 +1,30 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "5",
+    "Accuracy": "3.7",
+    "Magazine": "2",
+    "MaxAmmo": "210",
+    "Reload": "1.05 s",
+    "Disposition": "●●●●● (1.45x)"
+  },
+  "Normal": {
+    "Attack1Total": "280 ( 80%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1FireRate": "5",
+    "Attack1Multishot": "7 (40 damage per projectile)",
+    "Attack1StatusChance": "9.43%",
+    "Attack1CritChance": "6%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "0 m",
+    "Attack1Falloff": "100% damage up to 7 m25% damage at 14 m75% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Introduced": "Vanilla (2012-10-25)",
+    "Variants": " Bronco Prime"
+  }
+}

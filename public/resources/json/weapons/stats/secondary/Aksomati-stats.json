@@ -1,0 +1,30 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "12.5",
+    "Spool": "6",
+    "Accuracy": "15.4",
+    "Magazine": "70",
+    "MaxAmmo": "420",
+    "Reload": "1.4 s",
+    "Disposition": "●●●●○ (1.25x)"
+  },
+  "Fully Spooled": {
+    "Attack1Total": "18 ( 50%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1FireRate": "12.5",
+    "Attack1Multishot": "1 (18 damage per projectile)",
+    "Attack1StatusChance": "8%",
+    "Attack1CritChance": "24%",
+    "Attack1CritMultiplier": "3x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 16.3 (2015-04-09)",
+    "Variants": " Aksomati Prime"
+  }
+}

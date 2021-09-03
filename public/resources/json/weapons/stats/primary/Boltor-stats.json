@@ -1,0 +1,32 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Projectile",
+    "ShotSpeed": "85 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "8.75",
+    "Accuracy": "25",
+    "Magazine": "60",
+    "MaxAmmo": "540",
+    "Reload": "2.6 s",
+    "Disposition": "●●●●○ (1.25x)"
+  },
+  "Normal": {
+    "Attack1Total": "25 (80%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "85 m/s",
+    "Attack1FireRate": "8.75",
+    "Attack1Multishot": "1 (25 damage per projectile)",
+    "Attack1StatusChance": "14%",
+    "Attack1CritChance": "10%",
+    "Attack1CritMultiplier": "1.8x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Users": "Equinox Specter",
+    "Introduced": "Update 6.0 (2013-01-29)",
+    "Variants": "Boltor Prime Boltor PrimeTelos Boltor Telos Boltor",
+    "InternalName": "/Lotus/Weapons/Tenno/Rifle/BoltoRifle"
+  }
+}

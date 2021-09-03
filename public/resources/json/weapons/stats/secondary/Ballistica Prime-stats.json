@@ -1,0 +1,44 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "100 m/s",
+    "NoiseLevel": "Silent",
+    "FireRate": "3.33",
+    "Accuracy": "4",
+    "Magazine": "32",
+    "MaxAmmo": "210",
+    "Reload": "1.2 s",
+    "Disposition": "●●●●○ (1.20x)"
+  },
+  "Normal Shot": {
+    "Attack1Total": "160 ( 55%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "100 m/s",
+    "Attack1FireRate": "3.33",
+    "Attack1Multishot": "4 (40 damage per projectile)",
+    "Attack1StatusChance": "15%",
+    "Attack1CritChance": "20%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "0 m",
+    "Attack1AmmoCost": "4"
+  },
+  "Charged Shot": {
+    "Attack2Total": "304 ( 55%)",
+    "Attack2ShotType": "Projectile",
+    "Attack2ShotSpeed": "100 m/s",
+    "Attack2FireRate": "3.33",
+    "Attack2ChargeTime": "0.8 s",
+    "Attack2Multishot": "4 (76 damage per projectile)",
+    "Attack2StatusChance": "15%",
+    "Attack2CritChance": "20%",
+    "Attack2CritMultiplier": "2x",
+    "Attack2PunchThrough": "1 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 21.6 (2017-08-29)",
+    "Variants": " Ballistica Rakta Ballistica"
+  }
+}

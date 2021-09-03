@@ -1,0 +1,30 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.08",
+    "Accuracy": "16",
+    "Magazine": "6",
+    "MaxAmmo": "210",
+    "Reload": "2.35 s",
+    "Disposition": "●●●●○ (1.25x)"
+  },
+  "Normal": {
+    "Attack1Total": "130 ( 80%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1FireRate": "1.08",
+    "Attack1Multishot": "1 (130 damage per projectile)",
+    "Attack1StatusChance": "10%",
+    "Attack1CritChance": "20%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Users": "Maroo (when down)",
+    "Introduced": "Vanilla (2012-10-25)",
+    "Variants": " Lex Prime"
+  }
+}

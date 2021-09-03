@@ -1,0 +1,53 @@
+{
+  "Utility": {
+    "ShotType": "Projectile",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.917",
+    "ComboDur": "5 s",
+    "BlockAngle": "90°",
+    "FollowThrough": "60%",
+    "Disposition": "●○○○○ (0.50x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "325 (43.08%)",
+    "Attack1FireRate": "0.917",
+    "Attack1StatusChance": "28%",
+    "Attack1CritChance": "24%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Energy Disk": {
+    "Attack2Total": "3,600 (80%)",
+    "Attack2Trigger": "Charge",
+    "Attack2ShotType": "Projectile",
+    "Attack2ShotSpeed": "? m/s",
+    "Attack2Range": "40 m",
+    "Attack2FireRate": "1",
+    "Attack2ChargeTime": "1 s",
+    "Attack2StatusChance": "28%",
+    "Attack2CritChance": "24%",
+    "Attack2CritMultiplier": "2x",
+    "Attack2Falloff": "100% damage up to 10 m7% damage at 20 m93% max reduction"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,040",
+    "WindUp": "1 s",
+    "HeavySlamAttack": "1,040",
+    "HeavySlamRadius": "10 m",
+    "HeavyRadialDmg": "1,040"
+  },
+  "Slam Attack": {
+    "SlamAttack": "780",
+    "SlamRadius": "6 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "260"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Update 30.5 (2021-07-06)",
+    "InternalName": "/Lotus/Weapons/Corpus/Melee/ShieldAndSword/CrpHammerShield/CrpHammerShield"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "3.33",
+    "Accuracy": "13.3",
+    "Magazine": "8",
+    "MaxAmmo": "210",
+    "Reload": "1.05 s",
+    "Disposition": "●●●○○ (1.00x)"
+  },
+  "Normal": {
+    "Attack1Total": "280",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "? m/s",
+    "Attack1FireRate": "3.33",
+    "Attack1Multishot": "7 (40 damage per projectile)",
+    "Attack1StatusChance": "13.71%",
+    "Attack1CritChance": "8%",
+    "Attack1CritMultiplier": "1.5x",
+    "Attack1PunchThrough": "0 m",
+    "Attack1Falloff": "100% damage up to 16 m38% damage at 30 m62% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Introduced": "Hotfix 15.6.3 (2014-12-12)",
+    "Variants": " Detron Tenet Detron"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "75 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "7",
+    "Accuracy": "26.7",
+    "Magazine": "40",
+    "MaxAmmo": "210",
+    "Reload": "1.3 s",
+    "Disposition": "●●●●○ (1.15x)"
+  },
+  "Normal": {
+    "Attack1Total": "32 ( 86%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "75 m/s",
+    "Attack1FireRate": "7",
+    "Attack1Multishot": "1 (32 damage per projectile)",
+    "Attack1StatusChance": "14%",
+    "Attack1CritChance": "36%",
+    "Attack1CritMultiplier": "2.8x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 22.7 (2017-12-12)",
+    "Variants": " Akbolto Telos Akbolto"
+  }
+}

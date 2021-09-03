@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "Range": "3 m",
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.833",
+    "ComboDur": "5 s",
+    "BlockAngle": "90°",
+    "FollowThrough": "70%"
+  },
+  "Normal": {
+    "Attack1Total": "300 ( 70%)",
+    "Attack1FireRate": "0.833",
+    "Attack1Multishot": "1 (300 damage per projectile)",
+    "Attack1StatusChance": "15%",
+    "Attack1CritChance": "45%",
+    "Attack1CritMultiplier": "3x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,500",
+    "WindUp": "0.7 s",
+    "HeavySlamAttack": "300",
+    "HeavySlamRadius": "12 m",
+    "HeavyRadialDmg": "300"
+  },
+  "Slam Attack": {
+    "SlamAttack": "600",
+    "SlamRadius": "10 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "600"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Users": "Bonewidow",
+    "Introduced": "Update 29.5 (2020-11-19)"
+  }
+}

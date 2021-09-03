@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.917",
+    "ComboDur": "5 s",
+    "BlockAngle": "50°",
+    "FollowThrough": "90%",
+    "Disposition": "●●●●● (1.46x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "120 (70%)",
+    "Attack1FireRate": "0.917",
+    "Attack1StatusChance": "10%",
+    "Attack1CritChance": "20%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,440",
+    "WindUp": "0.5 s",
+    "HeavySlamAttack": "120",
+    "HeavySlamRadius": "8 m",
+    "HeavyRadialDmg": "120"
+  },
+  "Slam Attack": {
+    "SlamAttack": "360",
+    "SlamRadius": "7 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "240"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Update 8.2 (2013-06-28)",
+    "Variants": "Kogake Prime Kogake Prime",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/BrassKnuckles/BrassKnuckles"
+  }
+}

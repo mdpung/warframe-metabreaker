@@ -1,0 +1,32 @@
+{
+  "Utility": {
+    "AmmoType": "Shotgun",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "2",
+    "Accuracy": "9.1",
+    "Magazine": "2",
+    "MaxAmmo": "120",
+    "Reload": "1.8 s",
+    "Disposition": "●●●○○ (1.10x)"
+  },
+  "Normal": {
+    "Attack1Total": "1,050 (80%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "2",
+    "Attack1Multishot": "5 (210 damage per projectile)",
+    "Attack1StatusChance": "16.8%",
+    "Attack1CritChance": "10%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1Falloff": "100% damage up to 10 m48% damage at 20 m52% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Users": "Frost Specter",
+    "Introduced": "Update 11.0 (2013-11-20)",
+    "Variants": "Sancti Tigris Sancti TigrisTigris Prime Tigris Prime",
+    "InternalName": "/Lotus/Weapons/Tenno/LongGuns/DoubleBarrelShotgun/TennoDoubleBarrelShotgun"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "Utility": {
+    "AmmoType": "Glaive",
+    "ShotType": "Projectile",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.33",
+    "Accuracy": "100",
+    "Magazine": "6",
+    "MaxAmmo": "INF",
+    "Reload": "3 s",
+    "Disposition": "●●●●○ (1.25x)"
+  },
+  "First Attack": {
+    "Attack1Total": "75",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "? m/s",
+    "Attack1FireRate": "1.33",
+    "Attack1Multishot": "1 (75 damage per projectile)",
+    "Attack1StatusChance": "25%",
+    "Attack1CritChance": "0%",
+    "Attack1CritMultiplier": "1x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Second Attack": {
+    "Attack2Total": "75",
+    "Attack2ShotType": "Projectile",
+    "Attack2ShotSpeed": "? m/s",
+    "Attack2FireRate": "1.3",
+    "Attack2Multishot": "1 (75 damage per projectile)",
+    "Attack2StatusChance": "25%",
+    "Attack2CritChance": "0%",
+    "Attack2CritMultiplier": "1x",
+    "Attack2PunchThrough": "0 m"
+  },
+  "Third Attack": {
+    "Attack3Total": "75",
+    "Attack3ShotType": "Projectile",
+    "Attack3ShotSpeed": "? m/s",
+    "Attack3FireRate": "1.3",
+    "Attack3Multishot": "1 (75 damage per projectile)",
+    "Attack3StatusChance": "25%",
+    "Attack3CritChance": "0%",
+    "Attack3CritMultiplier": "1x",
+    "Attack3PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Hotfix 19.11.5 (2017-02-28)",
+    "Variants": " Deconstructor"
+  }
+}

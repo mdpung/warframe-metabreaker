@@ -1,0 +1,29 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "14.38",
+    "Accuracy": "28.6",
+    "Magazine": "20",
+    "MaxAmmo": "420",
+    "Reload": "0.8 s",
+    "Disposition": "●●●●● (1.40x)"
+  },
+  "Normal": {
+    "Attack1Total": "18 ( 80%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1FireRate": "14.38",
+    "Attack1Multishot": "1 (18 damage per projectile)",
+    "Attack1StatusChance": "9%",
+    "Attack1CritChance": "19%",
+    "Attack1CritMultiplier": "2x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Hotfix 22.8.4 (2018-01-11)",
+    "Variants": " Viper"
+  }
+}

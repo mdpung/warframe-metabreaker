@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.75",
+    "ComboDur": "5 s",
+    "BlockAngle": "70°",
+    "FollowThrough": "60%",
+    "Disposition": "●●●○○ (1.00x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "318",
+    "Attack1FireRate": "0.75",
+    "Attack1StatusChance": "30%",
+    "Attack1CritChance": "25%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,590",
+    "WindUp": "0.7 s",
+    "HeavySlamAttack": "1,272",
+    "HeavySlamRadius": "8 m",
+    "HeavyRadialDmg": "1,272"
+  },
+  "Slam Attack": {
+    "SlamAttack": "954",
+    "SlamRadius": "7 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "Heat Damage Heat318"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Hotfix 20.6.2 (2017-05-30)",
+    "Variants": "Silva & Aegis Silva & Aegis",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/PrimeSilvaAegis/PrimeSilvaAegis"
+  }
+}

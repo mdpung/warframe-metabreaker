@@ -1,0 +1,38 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.08",
+    "ComboDur": "5 s",
+    "BlockAngle": "60°",
+    "FollowThrough": "60%",
+    "Disposition": "●○○○○ (0.70x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "200 (70%)",
+    "Attack1FireRate": "1.08",
+    "Attack1StatusChance": "25%",
+    "Attack1CritChance": "35%",
+    "Attack1CritMultiplier": "2.5x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,200",
+    "WindUp": "1 s",
+    "HeavySlamAttack": "800",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "800"
+  },
+  "Slam Attack": {
+    "SlamAttack": "600",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "400"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Update 8.0 (2013-05-23)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Scythe/ReaperWeapon"
+  }
+}

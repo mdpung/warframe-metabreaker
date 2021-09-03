@@ -1,0 +1,38 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.917",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "60%",
+    "Disposition": "●●●●● (1.48x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "106 (55%)",
+    "Attack1FireRate": "0.917",
+    "Attack1StatusChance": "18%",
+    "Attack1CritChance": "6%",
+    "Attack1CritMultiplier": "1.5x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "530",
+    "WindUp": "0.6 s",
+    "HeavySlamAttack": "424",
+    "HeavySlamRadius": "8 m",
+    "HeavyRadialDmg": "424"
+  },
+  "Slam Attack": {
+    "SlamAttack": "318",
+    "SlamRadius": "7 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "106"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Vanilla (2012-10-25)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/CronusSword/CronusLongSword"
+  }
+}

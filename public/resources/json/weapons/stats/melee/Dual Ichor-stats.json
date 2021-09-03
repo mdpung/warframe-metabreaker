@@ -1,0 +1,38 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.08",
+    "ComboDur": "5 s",
+    "BlockAngle": "60°",
+    "FollowThrough": "50%",
+    "Disposition": "●●●●○ (1.16x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "122 (38.52%)",
+    "Attack1FireRate": "1.08",
+    "Attack1StatusChance": "15%",
+    "Attack1CritChance": "25%",
+    "Attack1CritMultiplier": "3x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "488",
+    "WindUp": "0.7 s",
+    "HeavySlamAttack": "488",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "488"
+  },
+  "Slam Attack": {
+    "SlamAttack": "244",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "244"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 10.0 (2013-09-13)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Axe/DualInfestedAxesWeapon"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Projectile",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.91",
+    "Accuracy": "100",
+    "Magazine": "80",
+    "MaxAmmo": "INF",
+    "Reload": "2 s",
+    "Disposition": "●●●○○ (1.00x)"
+  },
+  "Normal": {
+    "Attack1Total": "9.5 ( 52.63%)",
+    "Attack1Trigger": "Burst",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "? m/s",
+    "Attack1FireRate": "0.91",
+    "Attack1BurstCount": "4",
+    "Attack1BurstDelay": "0.1 s",
+    "Attack1Multishot": "1 (9.5 damage per projectile)",
+    "Attack1StatusChance": "30%",
+    "Attack1CritChance": "5%",
+    "Attack1CritMultiplier": "1.5x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Explosion": {
+    "Attack5Total": "6.5 ( 53.85%)",
+    "Attack5ShotType": "AoE",
+    "Attack5FireRate": "0.91",
+    "Attack5Multishot": "1 (6.5 damage per projectile)",
+    "Attack5StatusChance": "30%",
+    "Attack5CritChance": "5%",
+    "Attack5CritMultiplier": "1.5x",
+    "Attack5PunchThrough": "0 m",
+    "Attack5Radius": "3 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Update 28.0 (2020-06-11)"
+  }
+}

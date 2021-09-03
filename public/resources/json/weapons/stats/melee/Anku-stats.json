@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.08",
+    "ComboDur": "5 s",
+    "BlockAngle": "60°",
+    "FollowThrough": "60%",
+    "Disposition": "●●●●● (1.46x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "170 (80%)",
+    "Attack1FireRate": "1.08",
+    "Attack1StatusChance": "10%",
+    "Attack1CritChance": "20%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,020",
+    "WindUp": "1 s",
+    "HeavySlamAttack": "850",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "850"
+  },
+  "Slam Attack": {
+    "SlamAttack": "510",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "340"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Users": "Valkyr Specter",
+    "Introduced": "Update 16.7 (2015-06-04)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Scythe/ParisScythe/ParisScythe"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "200 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "2",
+    "Accuracy": "16",
+    "Magazine": "8",
+    "MaxAmmo": "210",
+    "Reload": "2.8 s",
+    "Disposition": "●●●●● (1.50x)"
+  },
+  "Normal": {
+    "Attack1Total": "101.01 ( 33.33%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "200 m/s",
+    "Attack1FireRate": "2",
+    "Attack1Multishot": "1 (101.01 damage per projectile)",
+    "Attack1StatusChance": "13%",
+    "Attack1CritChance": "5%",
+    "Attack1CritMultiplier": "1.5x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Users": "Captain Vor",
+    "Introduced": "Update 9.0 (2013-07-13)",
+    "Variants": " Kuva Seer"
+  }
+}

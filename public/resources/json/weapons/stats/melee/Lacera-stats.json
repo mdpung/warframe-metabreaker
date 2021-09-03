@@ -1,0 +1,40 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.917",
+    "ComboDur": "5 s",
+    "BlockAngle": "60°",
+    "FollowThrough": "50%",
+    "Disposition": "●●●●● (1.31x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "216 (46.3%)",
+    "Attack1FireRate": "0.917",
+    "Attack1StatusChance": "45%",
+    "Attack1CritChance": "5%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "864",
+    "WindUp": "0.4 s",
+    "HeavySlamAttack": "864",
+    "HeavySlamRadius": "8 m",
+    "HeavyRadialDmg": "864"
+  },
+  "Slam Attack": {
+    "SlamAttack": "648",
+    "SlamRadius": "7 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "216"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Users": "Mania",
+    "Introduced": "Update 18.0 (2015-12-03)",
+    "Variants": "Ceti Lacera Ceti Lacera",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Swords/StalkerMios/StalkerMios"
+  }
+}

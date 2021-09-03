@@ -1,0 +1,33 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "3",
+    "Accuracy": "16",
+    "Magazine": "8",
+    "MaxAmmo": "210",
+    "Reload": "1 s",
+    "Disposition": "●●●○○ (1.10x)"
+  },
+  "Normal": {
+    "Attack2Total": "72 ( 50%)",
+    "Attack2Trigger": "Burst",
+    "Attack2ShotType": "Hit-Scan",
+    "Attack2FireRate": "7.69",
+    "Attack2Accuracy": "8.2",
+    "Attack2BurstDelay": "0.1 s",
+    "Attack2Multishot": "1 (72 damage per projectile)",
+    "Attack2StatusChance": "10%",
+    "Attack2CritChance": "30%",
+    "Attack2CritMultiplier": "2.8x",
+    "Attack2PunchThrough": "0 m",
+    "Attack2AmmoCost": "8"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Introduced": "Update 20.0 (2017-03-24)",
+    "Variants": " Pandero Prime"
+  }
+}

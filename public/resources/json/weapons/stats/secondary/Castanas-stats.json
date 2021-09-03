@@ -1,0 +1,33 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "30 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "3.33",
+    "Accuracy": "100",
+    "Magazine": "2",
+    "MaxAmmo": "18",
+    "Reload": "1 s",
+    "Disposition": "●●●●● (1.40x)"
+  },
+  "Normal": {
+    "Attack1Total": "160",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "30 m/s",
+    "Attack1FireRate": "3.33",
+    "Attack1Multishot": "1 (160 damage per projectile)",
+    "Attack1StatusChance": "22%",
+    "Attack1CritChance": "8%",
+    "Attack1CritMultiplier": "1.5x",
+    "Attack1PunchThrough": "0 m",
+    "Attack1Radius": "3.6 m",
+    "Attack1Falloff": "100% damage up to 0 m60% damage at 3.6 m40% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 12.2 (2014-02-19)",
+    "Variants": " Sancti Castanas"
+  }
+}

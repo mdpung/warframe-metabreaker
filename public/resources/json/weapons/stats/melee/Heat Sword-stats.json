@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.917",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "60%",
+    "Disposition": "●●●●● (1.48x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "147 (80%)",
+    "Attack1FireRate": "0.917",
+    "Attack1StatusChance": "20%",
+    "Attack1CritChance": "5%",
+    "Attack1CritMultiplier": "1.5x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "735",
+    "WindUp": "0.6 s",
+    "HeavySlamAttack": "588",
+    "HeavySlamRadius": "8 m",
+    "HeavyRadialDmg": "588"
+  },
+  "Slam Attack": {
+    "SlamAttack": "441",
+    "SlamRadius": "7 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "147"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Users": "Volt SpecterEmber Specter",
+    "Introduced": "Update 5.0 (2012-12-18)",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Swords/HeatSword/HeatLongSword"
+  }
+}

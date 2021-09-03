@@ -1,0 +1,32 @@
+{
+  "Utility": {
+    "AmmoType": "Shotgun",
+    "ShotType": "Projectile",
+    "ShotSpeed": "? m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "3.33",
+    "Accuracy": "15.4",
+    "Magazine": "1",
+    "MaxAmmo": "47",
+    "Reload": "1.6 s",
+    "Disposition": "●●●○○ (1.10x)"
+  },
+  "Normal": {
+    "Attack1Total": "1,620 (48.15%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "? m/s",
+    "Attack1FireRate": "3.33",
+    "Attack1Multishot": "3 (540 damage per projectile)",
+    "Attack1StatusChance": "36%",
+    "Attack1CritChance": "8%",
+    "Attack1CritMultiplier": "1.4x",
+    "Attack1PunchThrough": "0.5 m",
+    "Attack1Falloff": "100% damage up to 30 m49% damage at 60 m51% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 24.2 (2018-12-18)",
+    "InternalName": "/Lotus/Weapons/Corpus/LongGuns/CrpShapeBlast/CrpShapeBlastShotgun"
+  }
+}

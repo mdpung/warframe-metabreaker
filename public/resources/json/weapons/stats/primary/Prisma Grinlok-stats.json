@@ -1,0 +1,30 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.67",
+    "Accuracy": "32",
+    "Magazine": "21",
+    "MaxAmmo": "540",
+    "Reload": "1.7 s",
+    "Disposition": "●●●●○ (1.25x)"
+  },
+  "Normal": {
+    "Attack1Total": "187 (50%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "1.67",
+    "Attack1Multishot": "1 (187 damage per projectile)",
+    "Attack1StatusChance": "37%",
+    "Attack1CritChance": "21%",
+    "Attack1CritMultiplier": "2.9x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 24.4 (2019-03-08)",
+    "Variants": "Grinlok Grinlok",
+    "InternalName": "/Lotus/Weapons/Grineer/LongGuns/GrineerLeverActionRifle/PrismaGrinlokWeapon"
+  }
+}

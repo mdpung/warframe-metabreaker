@@ -1,0 +1,38 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1",
+    "ComboDur": "5 s",
+    "BlockAngle": "50°",
+    "FollowThrough": "90%",
+    "Disposition": "●●●○○ (1.10x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "130 (80%)",
+    "Attack1FireRate": "1",
+    "Attack1StatusChance": "11%",
+    "Attack1CritChance": "30%",
+    "Attack1CritMultiplier": "3x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "845",
+    "WindUp": "0.5 s",
+    "HeavySlamAttack": "520",
+    "HeavySlamRadius": "8 m",
+    "HeavyRadialDmg": "520"
+  },
+  "Slam Attack": {
+    "SlamAttack": "390",
+    "SlamRadius": "7 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "260"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 19.5 (2016-12-22)",
+    "InternalName": "/Lotus/Weapons/Infested/Melee/InfWFAccompanyingSparring/InfestedKogake"
+  }
+}

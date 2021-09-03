@@ -1,0 +1,38 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.917",
+    "ComboDur": "5 s",
+    "BlockAngle": "55°",
+    "FollowThrough": "80%",
+    "Disposition": "●●●○○ (1.00x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "244 (35.66%)",
+    "Attack1FireRate": "0.917",
+    "Attack1StatusChance": "29%",
+    "Attack1CritChance": "13%",
+    "Attack1CritMultiplier": "2.1x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,708",
+    "WindUp": "0.8 s",
+    "HeavySlamAttack": "976",
+    "HeavySlamRadius": "7 m",
+    "HeavyRadialDmg": "976"
+  },
+  "Slam Attack": {
+    "SlamAttack": "732",
+    "SlamRadius": "6 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "732"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Introduced": "Update 29.0 (2020-08-25)",
+    "InternalName": "/Lotus/Weapons/Infested/Melee/InfTransformClaw/InfTransformClawsWeapon"
+  }
+}

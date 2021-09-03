@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "0.917",
+    "ComboDur": "5 s",
+    "BlockAngle": "60°",
+    "FollowThrough": "60%",
+    "Disposition": "●●●●○ (1.15x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "224 (49.11%)",
+    "Attack1FireRate": "0.917",
+    "Attack1StatusChance": "30%",
+    "Attack1CritChance": "15%",
+    "Attack1CritMultiplier": "2x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "896",
+    "WindUp": "0.7 s",
+    "HeavySlamAttack": "896",
+    "HeavySlamRadius": "9 m",
+    "HeavyRadialDmg": "896"
+  },
+  "Slam Attack": {
+    "SlamAttack": "448",
+    "SlamRadius": "8 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "Electricity Damage Electricity448"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "None",
+    "Users": "Tia Mayn",
+    "Introduced": "Update 19.7 (2017-01-18)",
+    "InternalName": "/Lotus/Weapons/Corpus/Melee/CrpTonfa/CrpTonfa"
+  }
+}

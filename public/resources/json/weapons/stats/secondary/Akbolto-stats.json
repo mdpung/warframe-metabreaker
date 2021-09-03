@@ -1,0 +1,31 @@
+{
+  "Utility": {
+    "AmmoType": "Pistol",
+    "ShotType": "Projectile",
+    "ShotSpeed": "75 m/s",
+    "NoiseLevel": "Alarming",
+    "FireRate": "10",
+    "Accuracy": "26.7",
+    "Magazine": "30",
+    "MaxAmmo": "210",
+    "Reload": "2.6 s",
+    "Disposition": "●●●●○ (1.30x)"
+  },
+  "Normal": {
+    "Attack1Total": "40 ( 90%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "75 m/s",
+    "Attack1FireRate": "10",
+    "Attack1Multishot": "1 (40 damage per projectile)",
+    "Attack1StatusChance": "2.2%",
+    "Attack1CritChance": "16%",
+    "Attack1CritMultiplier": "2.4x",
+    "Attack1PunchThrough": "0 m"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 6.0 (2013-01-29)",
+    "Variants": " Akbolto Prime Telos Akbolto"
+  }
+}

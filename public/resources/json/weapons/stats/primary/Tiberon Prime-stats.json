@@ -1,0 +1,53 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "7.38",
+    "Accuracy": "33.33",
+    "Magazine": "42",
+    "MaxAmmo": "540",
+    "Reload": "2 s",
+    "Disposition": "●●●○○ (0.90x)"
+  },
+  "Burst": {
+    "Attack1Total": "46 (40%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "7.38",
+    "Attack1BurstCount": "3",
+    "Attack1BurstFireRate": "6",
+    "Attack1BurstDelay": "0.08 s",
+    "Attack1Multishot": "1 (46 damage per projectile)",
+    "Attack1StatusChance": "20%",
+    "Attack1CritChance": "28%",
+    "Attack1CritMultiplier": "3x"
+  },
+  "Semi-Auto": {
+    "Attack2Total": "46 (40%)",
+    "Attack2ShotType": "Hit-Scan",
+    "Attack2Range": "300 m",
+    "Attack2FireRate": "6",
+    "Attack2Multishot": "1 (46 damage per projectile)",
+    "Attack2StatusChance": "18%",
+    "Attack2CritChance": "30%",
+    "Attack2CritMultiplier": "3.4x"
+  },
+  "Auto": {
+    "Attack3Total": "46 (40%)",
+    "Attack3ShotType": "Hit-Scan",
+    "Attack3Range": "300 m",
+    "Attack3FireRate": "8.33",
+    "Attack3Multishot": "1 (46 damage per projectile)",
+    "Attack3StatusChance": "32%",
+    "Attack3CritChance": "16%",
+    "Attack3CritMultiplier": "2.8x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Hotfix 22.16.4 (2018-03-20)",
+    "Variants": "Tiberon Tiberon",
+    "InternalName": "/Lotus/Weapons/Tenno/LongGuns/PrimeTiberon/PrimeTiberonRifle"
+  }
+}

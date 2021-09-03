@@ -1,0 +1,43 @@
+{
+  "Utility": {
+    "AmmoType": "Shotgun",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "2.17",
+    "Accuracy": "9.09",
+    "Magazine": "4",
+    "MaxAmmo": "120",
+    "Reload": "2 s",
+    "Disposition": "●○○○○ (0.50x)"
+  },
+  "Normal": {
+    "Attack1Total": "761.25 (51.95%)",
+    "Attack1ShotType": "Hit-Scan",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "2.17",
+    "Attack1Multishot": "7 (108.75 damage per projectile)",
+    "Attack1StatusChance": "13%",
+    "Attack1CritChance": "23%",
+    "Attack1CritMultiplier": "2.1x",
+    "Attack1Falloff": "100% damage up to 15 m17% damage at 30 m83% max reduction"
+  },
+  "Alt-Fire": {
+    "Attack2Total": "3,045 (51.95%)",
+    "Attack2ShotType": "Hit-Scan",
+    "Attack2Range": "300 m",
+    "Attack2FireRate": "1.17",
+    "Attack2Multishot": "28 (108.75 damage per projectile)",
+    "Attack2StatusChance": "13%",
+    "Attack2CritChance": "23%",
+    "Attack2CritMultiplier": "2.1x",
+    "Attack2Falloff": "100% damage up to 15 m1% damage at 30 m99% max reduction",
+    "Attack2AmmoCost": "4"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "None",
+    "Introduced": "Update 30.5 (2021-07-06)",
+    "Variants": "Hek HekVaykor Hek Vaykor Hek",
+    "InternalName": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Hek/KuvaHekWeapon"
+  }
+}

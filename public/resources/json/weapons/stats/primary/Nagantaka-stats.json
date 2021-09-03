@@ -1,0 +1,48 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Projectile",
+    "ShotSpeed": "100 m/s",
+    "NoiseLevel": "Silent",
+    "FireRate": "2.5",
+    "Accuracy": "40",
+    "Magazine": "9",
+    "MaxAmmo": "540",
+    "Reload": "2.3 s",
+    "Disposition": "●●●●○ (1.30x)"
+  },
+  "Semi-Auto": {
+    "Attack1Total": "159 (90%)",
+    "Attack1ShotType": "Projectile",
+    "Attack1ShotSpeed": "100 m/s",
+    "ForcedProcs": "Impact Damage Impact",
+    "Attack1FireRate": "2.5",
+    "Attack1Accuracy": "40",
+    "Attack1Multishot": "1 (159 damage per projectile)",
+    "Attack1StatusChance": "39%",
+    "Attack1CritChance": "15%",
+    "Attack1CritMultiplier": "2.3x"
+  },
+  "Burst Shot": {
+    "Attack2Total": "159 (90%)",
+    "Attack2ShotType": "Projectile",
+    "Attack2ShotSpeed": "100 m/s",
+    "ForcedProcs": "Impact Damage Impact",
+    "Attack2FireRate": "5.81",
+    "Attack2Accuracy": "40",
+    "Attack2Reload": "2 s",
+    "Attack2BurstCount": "9",
+    "Attack2BurstFireRate": "5",
+    "Attack2BurstDelay": "0.15 s",
+    "Attack2Multishot": "1 (159 damage per projectile)",
+    "Attack2StatusChance": "39%",
+    "Attack2CritChance": "15%",
+    "Attack2CritMultiplier": "2.3x"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 24.0 (2018-11-08)",
+    "InternalName": "/Lotus/Weapons/Tenno/LongGuns/GarudaCrossbow/GarudaCrossbow"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "Utility": {
+    "AmmoType": "Rifle",
+    "ShotType": "Hit-Scan",
+    "NoiseLevel": "Alarming",
+    "FireRate": "2",
+    "Accuracy": "100",
+    "Magazine": "8",
+    "MaxAmmo": "200",
+    "Reload": "1.4 s",
+    "Disposition": "●●●○○ (1.00x)"
+  },
+  "Charged Shot": {
+    "Attack1Total": "400 (70%)",
+    "Attack1ShotType": "Hit-Scan",
+    "ForcedProcs": "Stagger Stagger",
+    "Attack1Range": "300 m",
+    "Attack1FireRate": "2",
+    "Attack1ChargeTime": "0.6 s",
+    "Attack1Multishot": "1 (400 damage per projectile)",
+    "Attack1StatusChance": "30%",
+    "Attack1CritChance": "24%",
+    "Attack1CritMultiplier": "2.6x",
+    "Attack1PunchThrough": "1 m"
+  },
+  "Charged Shot AoE": {
+    "Attack2Total": "200",
+    "ForcedProcs": "Stagger Stagger",
+    "Attack2Range": "4.6 m",
+    "Attack2FireRate": "2",
+    "Attack2Multishot": "1 (200 damage per projectile)",
+    "Attack2StatusChance": "30%",
+    "Attack2CritChance": "24%",
+    "Attack2CritMultiplier": "2.6x",
+    "Attack2Falloff": "100% damage up to 0 m40% damage at 4.6 m60% max reduction"
+  },
+  "Quick Shot": {
+    "Attack3Total": "200 (70%)",
+    "Attack3ShotType": "Hit-Scan",
+    "Attack3Range": "300 m",
+    "Attack3FireRate": "2",
+    "Attack3Multishot": "1 (200 damage per projectile)",
+    "Attack3StatusChance": "30%",
+    "Attack3CritChance": "24%",
+    "Attack3CritMultiplier": "2.6x"
+  },
+  "Quick Shot AoE": {
+    "Attack4Total": "100",
+    "Attack4ShotType": "AoE",
+    "Attack4Range": "4.6 m",
+    "Attack4FireRate": "2",
+    "Attack4Multishot": "1 (100 damage per projectile)",
+    "Attack4StatusChance": "30%",
+    "Attack4CritChance": "24%",
+    "Attack4CritMultiplier": "2.6x",
+    "Attack4Falloff": "100% damage up to 0 m40% damage at 4.6 m60% max reduction"
+  },
+  "Miscellaneous": {
+    "ExilusPolarity": "",
+    "Polarities": "",
+    "Introduced": "Update 24.4 (2019-03-08)",
+    "Variants": "Opticor Opticor",
+    "InternalName": "/Lotus/Weapons/Corpus/LongGuns/CrpBFG/Vandal/VandalCrpBFG"
+  }
+}

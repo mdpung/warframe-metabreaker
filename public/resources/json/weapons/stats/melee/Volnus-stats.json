@@ -1,0 +1,39 @@
+{
+  "Utility": {
+    "NoiseLevel": "Alarming",
+    "FireRate": "1.2",
+    "ComboDur": "5 s",
+    "BlockAngle": "50°",
+    "FollowThrough": "60%",
+    "Disposition": "●●●●● (1.35x)"
+  },
+  "Normal Attack": {
+    "Attack1Total": "220 (46%)",
+    "Attack1FireRate": "1.2",
+    "Attack1StatusChance": "30%",
+    "Attack1CritChance": "18%",
+    "Attack1CritMultiplier": "1.6x"
+  },
+  "Heavy Attack": {
+    "HeavyAttack": "1,320",
+    "WindUp": "1.1 s",
+    "HeavySlamAttack": "1,100",
+    "HeavySlamRadius": "10 m",
+    "HeavyRadialDmg": "1,100"
+  },
+  "Slam Attack": {
+    "SlamAttack": "660",
+    "SlamRadius": "9 m"
+  },
+  "Slide Attack": {
+    "SlideAttack": "440"
+  },
+  "Miscellaneous": {
+    "StancePolarity": "",
+    "ExilusPolarity": "None",
+    "Polarities": "",
+    "Introduced": "Update 22.0 (2017-10-12)",
+    "Variants": "Volnus Prime Volnus Prime",
+    "InternalName": "/Lotus/Weapons/Tenno/Melee/Hammer/GlassHammer/GlassHammer"
+  }
+}
