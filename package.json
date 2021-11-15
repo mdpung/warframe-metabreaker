@@ -7,10 +7,7 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "axios": "^0.21.2",
-<<<<<<< HEAD
-=======
     "chart.js": "^3.5.1",
->>>>>>> origin/sass-and-graph-features
     "cheerio": "^1.0.0-rc.10",
     "dotenv": "^10.0.0",
     "env-var": "^7.0.1",
