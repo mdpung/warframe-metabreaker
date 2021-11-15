@@ -7,11 +7,17 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "axios": "^0.21.2",
+<<<<<<< HEAD
+=======
+    "chart.js": "^3.5.1",
+>>>>>>> origin/sass-and-graph-features
     "cheerio": "^1.0.0-rc.10",
     "dotenv": "^10.0.0",
     "env-var": "^7.0.1",
     "fs": "^0.0.1-security",
     "react": "^17.0.2",
+    "react-chartjs-2": "^3.0.5",
+    "react-charts": "^3.0.0-beta.33",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.0.1",
@@ -21,7 +27,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "css-build": "sass src/sass/mystyles.scss public/css/mystyles.css"
   },
   "eslintConfig": {
     "extends": [
@@ -40,5 +47,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "bulma": "^0.9.3",
+    "sass": "^1.43.4"
   }
 }
