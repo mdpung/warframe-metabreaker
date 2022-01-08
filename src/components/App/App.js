@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.scss';
-import Graph from "../Graph/Graph"
+import Graph from "../Graph/Graph";
+import Filter from "../Filter/Filter";
 
 
 
@@ -37,71 +38,19 @@ function App() {
 
   return (
     <div className="App">
-      <div className="columns">
-        <div className="column is-four-fifths">
-          <div className="box">
-            <Graph />
+      <div className="container">
+        <div className="row">
+          <div class="col-8">
+            <div className="box">
+              <Graph />
+            </div>
+          </div>
+          <div class="col-4">
+            <Filter />
           </div>
         </div>
-        <div className="column">
-          <nav class="panel">
-            <p class="panel-heading">
-              Filters
-            </p>
-            <div className="panel-block">
-              <p class="control has-icons-left">
-                <input class="input" type="text" placeholder="Search" />
-                <span class="icon is-left">
-                  <i class="fas fa-search" aria-hidden="true"></i>
-                </span>
-              </p>
-            </div>
-            <p class="panel-tabs">
-              <a class="is-active">Primary</a>
-              <a>Secondary</a>
-              <a>Melee</a>
-              <a>Archwing</a>
-              <a>Robotic</a>
-            </p>
-            <aside class="menu">
-              <ul className="menu-list">
-                <li>
-                  <a class="is-active">Utilities</a>
-                  <ul>
-                    <li>
-                      <label class="panel-block">
-                        <input type="checkbox" />
-                        remember me
-                      </label>
-                    </li>
-                    <li>
-                      <label class="panel-block">
-                        <input type="checkbox" />
-                        remember me
-                      </label>
-                    </li>
-                    <li>
-                      <label class="panel-block">
-                        <input type="checkbox" />
-                        remember me
-                      </label>
-                    </li>
-                  </ul>
-                </li>
-                <li><a>Auto</a></li>
-                <li><a>Burst</a></li>
-              </ul>
-            </aside>
-            <div className="panel-block">
-              <button class="button is-link is-outlined is-fullwidth">
-                Reset all filters
-              </button>
-            </div>
-          </nav>
-        </div>
       </div>
-
-      <button class="button is-primary" onClick={getWeaponCounts}>Get Weapon Counts</button>
+      {/* <button class="button is-primary" onClick={getWeaponCounts}>Get Weapon Counts</button>
       {
         <div>
           <h3>
@@ -120,7 +69,7 @@ function App() {
             Robotic - {roboticWeaponCount}
           </h3>
         </div>
-      }
+      } */}
     </div>
   );
 }

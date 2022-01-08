@@ -1,6 +1,7 @@
 
 import { useEffect, useState } from "react";
 import { Bar } from "react-chartjs-2"
+import WeaponStatsField from "../../js/WeaponStatsField";
 
 function Graph() {
   const [primaryFields, setPrimaryFields] = useState({});
@@ -119,23 +120,16 @@ function Graph() {
   };
 
   return (
-    <div className="container">
+    <div>
+      <Bar data={data} options={options} />
       Dataset size: {Object.keys(primaryDataset).length}
       <br></br>
       # of Fields: {Object.keys(primaryFields).length}
-      <Bar data={data} options={options} />
       <div>
         <ul></ul>
       </div>
     </div>
   )
-}
-
-class WeaponStatsField {
-  constructor(category, subCategory) {
-    this.category = category;
-    this.subCategory = subCategory;
-  }
 }
 
 export default Graph
