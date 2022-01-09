@@ -1,24 +1,37 @@
-// Custom.scss
-// Option B: Include parts of Bootstrap
+// Customizations
+html,
+html>body,
+html>body>div#root,
+html>body>div#root>div.App,
+html>body>div#root>div.App>div.container-fluid,
+html>body>div#root>div.App>div.container-fluid>div.row {
+  height: 100vh;
+  overflow: hidden;
+}
 
-// 1. Include functions first (so you can manipulate colors, SVGs, calc, etc)
-@import "../node_modules/bootstrap/scss/functions";
+#filter-menu {
+  overflow: auto;
+}
 
-// 2. Include any default variable overrides here
-$bg-color: #222831;
-$body-color: #393e46;
+#filter-menu,
+#filter-menu>div.accordion {
+  max-height: 94vh;
+}
 
+#filter-menu>div.accordion>div.accordion-item {
+  align-items: stretch;
+  // max-height: 72vh;
+}
 
-// 3. Include remainder of required Bootstrap stylesheets
-@import "../node_modules/bootstrap/scss/variables";
-@import "../node_modules/bootstrap/scss/mixins";
+div.accordion-item {
+  padding-left: 15px;
+}
 
-// 4. Include any optional Bootstrap components as you like
-@import "../node_modules/bootstrap/scss/root";
-@import "../node_modules/bootstrap/scss/reboot";
-@import "../node_modules/bootstrap/scss/type";
-@import "../node_modules/bootstrap/scss/images";
-@import "../node_modules/bootstrap/scss/containers";
-@import "../node_modules/bootstrap/scss/grid";
+#filter-menu>div.accordion>div.accordion-item>div.accordion-collapse {
+  //   max-height: 66vh;
+  overflow: auto;
+}
 
-// 5. Add additional custom code here
+// Import everything for now
+// Import specifics eventually as importing unused components is inefficient
+@import "../node_modules/bootstrap/scss/bootstrap.scss";

@@ -2,6 +2,7 @@ import React from 'react';
 import './App.scss';
 import Graph from "../Graph/Graph";
 import Filter from "../Filter/Filter";
+import { Container, Nav, Row, Col, Navbar } from 'react-bootstrap';
 
 
 
@@ -21,7 +22,6 @@ function App() {
     }).then(response =>
       response.json()
     ).then(data => {
-      1``
       const count = data.length;
       console.log("Fetched weapon json of length " + count);
       action(count);
@@ -38,18 +38,26 @@ function App() {
 
   return (
     <div className="App">
-      <div className="container">
-        <div className="row">
-          <div class="col-8">
-            <div className="box">
-              <Graph />
-            </div>
-          </div>
-          <div class="col-4">
+      <Navbar bg="dark" variant="dark">
+        <Container fluid>
+          <Navbar.Brand href="#home">Warframe Metabreaker</Navbar.Brand>
+          <Nav className="me-auto">
+            <Nav.Link href="#home">Home</Nav.Link>
+            <Nav.Link href="#features">Features</Nav.Link>
+            <Nav.Link href="#pricing">Pricing</Nav.Link>
+          </Nav>
+        </Container>
+      </Navbar>
+      <Container fluid >
+        <Row>
+          <Col lg="10">
+            <Graph />
+          </Col>
+          <Col id="filter-menu" className="border">
             <Filter />
-          </div>
-        </div>
-      </div>
+          </Col>
+        </Row>
+      </Container>
       {/* <button class="button is-primary" onClick={getWeaponCounts}>Get Weapon Counts</button>
       {
         <div>

@@ -75,7 +75,6 @@ function Graph() {
     labels: labels,
     datasets: [
       {
-        label: '# of Votes',
         data: weaponData,
         backgroundColor: [
           'rgba(255, 99, 132, 0.2)',
@@ -109,9 +108,6 @@ function Graph() {
     },
     responsive: true,
     plugins: {
-      legend: {
-        position: 'right',
-      },
       title: {
         display: true,
         text: 'Weapon statistics',
