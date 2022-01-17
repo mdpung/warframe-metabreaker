@@ -23,6 +23,11 @@ At its current state, it only scrapes the necessary data for each weapon so it's
 
 More details will be included when it's in a more functional state. Consider it... early access...
 
+1. `npm install` - Downlaod dependencies
+2. `npm run build` - Build css files
+3. `npm start` - Run app
+
+
 ## Notes
 
 Since this is a web scraper, it makes HTTP requests, and if it is poorly optimized, it can make too many requests against warframe.fandom.com. To reduce the amount of requests to their servers, the app can download all the necessary HTML pages so we can tinker and do whatever we want with them.
