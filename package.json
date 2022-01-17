@@ -18,7 +18,6 @@
     "react-chartjs-2": "^3.0.5",
     "react-charts": "^3.0.0-beta.33",
     "react-dom": "^17.0.2",
-    "react-scripts": "4.0.3",
     "web-vitals": "^1.0.1",
     "yn": "^5.0.0"
   },
@@ -48,6 +47,7 @@
     ]
   },
   "devDependencies": {
+    "react-scripts": "5.0.0",
     "bulma": "^0.9.3",
     "sass": "^1.43.4"
   }
