@@ -4,6 +4,7 @@ import { Accordion, Form, ListGroup } from "react-bootstrap";
 
 function Filter() {
   const [activeFilters, updateActiveFilters] = useState({}); // Dictionary with Sets as values
+  const [activeFilter, setActiveFilter] = useState("");
   const [primaryFields, setPrimaryFields] = useState({}); // Dictionary with objects as values. Those objects have a number as values.
 
   useEffect(() => {
@@ -60,27 +61,27 @@ function Filter() {
     })
   }
 
-  function AccordionRadioButton({ children, list, sublist }) {
+  function AccordionRadioButton({ list, sublist }) {
     return (
       <ListGroup.Item>
         <div key={list}>
           <Form.Check
             label={sublist}
-            type="checkbox"
+            type="radio"
             id={`${list}-${sublist}`}
-          // This is somehow causing a double event or is the 2nd event.
-          // Checkbox won't get checked but this function will trigger once.
-          // Must be coming from somewhere else.
-          // onChange={() => updateFilters(list, sublist)}
+            // The culmination of these two events actually takes quite a while.
+            // Should be looked into.
+            checked={activeFilter === `${list}-${sublist}`}
+            onChange={event => setActiveFilter(event.target.id)}
           />
         </div>
       </ListGroup.Item>
     )
   }
 
-  function AccordionSublistGroup({ children, eventKey, headerName }) {
+  function AccordionSublistGroup({ eventKey, headerName }) {
     return (
-      <Accordion.Item eventKey={eventKey} headerName={headerName}>
+      <Accordion.Item eventKey={eventKey}>
         <Accordion.Header>{headerName}</Accordion.Header>
         <Accordion.Body as={ListGroup} style={{ padding: 0 }}>
           {Object.keys(primaryFields[headerName]).map((field, index) => (
@@ -91,7 +92,7 @@ function Filter() {
     )
   }
 
-  function AccordionListGroup({ children, eventKey, headerName }) {
+  function AccordionListGroup({ eventKey, headerName }) {
     return (
       <Form>
         <Accordion.Item eventKey={eventKey}>
