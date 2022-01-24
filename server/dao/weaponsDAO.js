@@ -1,69 +1,36 @@
-import mongodb from "mongodb"
 
-let primaryWeapons
-let secondaryWeapons
-let meleeWeapons
-let archwingWeapons
-let roboticWepaons
+import { getDb } from "../db/conn.js"
 
 export default class WeaponsDAO {
-  static async injectDB(conn) {
-    try {
-      if (!primaryWeapons) {
-        primaryWeapons = await conn.db(process.env.DATABASE).collection("weapons_primary")
-      }
-      // if (!secondaryWeapons) {
-      //   secondaryWeapons = await conn.db(process.env.DATABASE).collection("weapon_secondary")
-      // }
-      // if (!meleeWeapons) {
-      //   meleeWeapons = await conn.db(process.env.DATABASE).collection("weapon_melee")
-      // }
-      // if (!archwingWeapons) {
-      //   archwingWeapons = await conn.db(process.env.DATABASE).collection("weapon_archwing")
-      // }
-      // if (!roboticWepaons) {
-      //   roboticWepaons = await conn.db(process.env.DATABASE).collection("weapon_robotic")
-      // }
-    } catch (e) {
-      console.error(
-        `Unable to establish a collection handle in weaponsDAO: ${e}`
-      )
-    }
-  }
-
-  static async getWeapons() {
-
+  static async getWeapons(collectionName) {
+    let connection = getDb().collection(collectionName)
     let cursor
 
     try {
-      try {
-        cursor = await primaryWeapons.find({})
-        // await cursor.forEach(doc => console.log(doc))
-      } catch (e) {
-        console.error(`Uanble to issue find command: ${e}`)
-        return { weapons: [], totalWeaponCount: 0 }
-      }
+      cursor = await connection.find({})
+    } catch (e) {
+      console.error(`Uanble to issue find command: ${e}`)
+      return { weapons: [], totalWeaponCount: 0 }
+    }
 
-      try {
-        const weapons = await cursor.toArray()
-        const totalWeaponCount = await primaryWeapons.countDocuments()
-
-        return { weapons, totalWeaponCount }
-      } catch (e) {
-        console.error(`Unable to convert cursor to array or problem counting documents: ${e}`)
-        return { weapons: [], totalWeaponCount: 0 }
-      }
-    } finally {
-      cursor.close()
+    try {
+      const weapons = await cursor.toArray()
+      const totalWeaponCount = await connection.countDocuments()
+      return { weapons, totalWeaponCount }
+    } catch (e) {
+      console.error(`Unable to convert cursor to array or problem counting documents: ${e}`)
+      return { weapons: [], totalWeaponCount: 0 }
     }
   }
 
-  static async getWeaponByName(name) {
+  static async getWeaponByName(collectionName, name) {
+    let connection = getDb().collection(collectionName)
+
     try {
       let query = {
         name: name
       }
-      return await primaryWeapons.findOne(query)
+      return await connection.findOne(query)
     } catch (e) {
       console.error(`Something went wrong in getWeaponByName: ${e}`)
       throw e

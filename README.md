@@ -23,9 +23,16 @@ At its current state, it only scrapes the necessary data for each weapon so it's
 
 More details will be included when it's in a more functional state. Consider it... early access...
 
-1. `npm install` - Downlaod dependencies
-2. `npm run build` - Build css files
-3. `npm start` - Run app
+Start server
+1. `cd server` - Assuming in root project directory, move to server folder
+2. `npm install` - Install dependencies
+2. `npm start` - Boot server
+
+Start client (In a separate terminal)
+1. `cd app` - Move to app folder 
+2. `npm install` - Downlaod dependencies
+3. `npm run build` - Build css files
+4. `npm start` - Run app
 
 
 ## Notes
