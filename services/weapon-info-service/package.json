@@ -1,18 +1,16 @@
 {
-  "name": "server",
+  "name": "weapon-info-service",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
-  "type": "module",
+  "main": "index.js",
   "scripts": {
-    "start": "nodemon server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^14.2.0",
+    "dotenv": "^14.3.0",
     "express": "^4.17.2",
-    "mongodb": "^4.3.0"
+    "mongodb": "^4.3.1"
   }
 }
