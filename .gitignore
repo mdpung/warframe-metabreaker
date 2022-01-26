@@ -15,7 +15,8 @@ app/build
 
 # misc
 .DS_Store
-/server/.env
+.env
+!app/.env
 
 *npm-debug.log*
 *yarn-debug.log*
