@@ -1,0 +1,24 @@
+{
+  "name": "@mdpung/warframe-metabreaker",
+  "version": "1.0.0",
+  "description": "> Note: This app is in **Alpha** stages",
+  "main": "index.js",
+  "private": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdpung/warframe-metabreaker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdpung/warframe-metabreaker/issues"
+  },
+  "homepage": "https://github.com/mdpung/warframe-metabreaker#readme",
+  "workspaces": [
+    "app/",
+    "services/*"
+  ]
+}

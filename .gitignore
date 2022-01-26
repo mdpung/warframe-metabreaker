@@ -1,9 +1,9 @@
-app/public/resources/html
+app/public/resources/*
 
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-*/node_modules
+**/node_modules
 */.pnp
 *.pnp.js
 
@@ -15,7 +15,8 @@ app/build
 
 # misc
 .DS_Store
-/server/.env
+.env
+!app/.env
 
 *npm-debug.log*
 *yarn-debug.log*
