@@ -59,7 +59,7 @@ export default class WeaponsController {
   static async #getWeaponByName(weaponsDAO, req, res) {
     try {
       let name = req.params.name
-      let weapon = await MeleeWeaponsDAO.getWeaponByName(name)
+      let weapon = await weaponsDAO.getWeaponByName(name)
 
       if (!weapon) {
         res.status(404).json({ error: "Weapon not found" })
