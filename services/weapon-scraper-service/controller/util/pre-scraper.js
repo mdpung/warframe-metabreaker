@@ -6,74 +6,79 @@ import { scraperConfig, preScraperConfig } from '../../config/config.js'
 /*
  * This file contains operations before it has detailed data about each weapon
  */
-var data = await axios.get(scraperConfig.weaponsUrl).data;
+console.log(scraperConfig.weaponsUrl)
+var $
 
-const $ = cheerio.load(data);
-
-function scrapeWeapon(table, weaponType) {
+function scrapeWeaponType(table, weaponType) {
   var weapons = [];
-  console.log(`Scraping ${weaponType}`)
-  // $(table).children("tr").each((idx, el) => {
-  //   // May be multiple weapons per line
-  //   $(el).find("td > span").each((idx, el) => {
-  //     var weapon = {
-  //       name: "",
-  //       link: "",
-  //       type: weaponType
-  //     };
-  //     weapon.name = $(el).attr("data-param");
-  //     weapon.link = $(el).find("span > span > a").attr("href");
-  //     weapons.push(weapon);
-  //   });
-  // });
+  $(table).children("tr").each((idx, el) => {
+    // May be multiple weapons per line
+    $(el).find("td > span").each((idx, el) => {
+      var weapon = {
+        name: "",
+        link: "",
+        type: weaponType
+      };
+      weapon.name = $(el).attr("data-param");
+      weapon.link = scraperConfig.baseUrl + $(el).find("a").attr("href");
+      weapons.push(weapon);
+    });
+  });
   return weapons
 }
 
 function scrapePrimaryWeapons(table) {
   console.log("Scraping Primaries");
-  const primary = scrapeWeapon(table, "Primary");
+  return scrapeWeaponType(table, "Primary");
 }
 
 function scrapeSecondaryWeapons(table) {
   console.log("Scraping Secondaries");
-  const secondary = scrapeWeapon(table, "Secondary");
+  return scrapeWeaponType(table, "Secondary");
 }
 
 function scrapeMeleeWeapons(table) {
-  console.log("Scraping Melees", "Melee");
-  const melee = scrapeWeapon(table);
+  console.log("Scraping Melees");
+  return scrapeWeaponType(table, "Melee");
 }
 
 function scrapeArchwingWeapons(table) {
-  console.log("Scraping Archwings", "Archwing");
-  const robotic = scrapeWeapon(table);
+  console.log("Scraping Archwings");
+  return scrapeWeaponType(table, "Archwing");
 }
 
 function scrapeRoboticWeapons(table) {
   console.log("Scraping Robotics");
-  const robotic = scrapeWeapon(table, "Robotic");
+  return scrapeWeaponType(table, "Robotic");
 }
 
-export function preScrapeWeapons() {
+export async function preScrapeWeapons() {
   console.log("Pre-Scraping started");
+
+  const { data } = await axios.get(scraperConfig.weaponsUrl);
+  $ = cheerio.load(data);
 
   var tables = $(".wds-tab__content tbody");
 
+  let weapons = {};
+
   if (yn(preScraperConfig.allowPrimary)) {
-    scrapePrimaryWeapons(tables[0]);
+    weapons.primaries = scrapePrimaryWeapons(tables[0]);
   }
   if (yn(preScraperConfig.allowSecondary)) {
-    scrapeSecondaryWeapons(tables[1]);
+    weapons.secondaries = scrapeSecondaryWeapons(tables[1]);
   }
   if (yn(preScraperConfig.allowMelee)) {
-    scrapeMeleeWeapons(tables[2]);
+    weapons.melees = scrapeMeleeWeapons(tables[2]);
   }
   if (yn(preScraperConfig.allowArchwing)) {
-    scrapeArchwingWeapons(tables[3]);
+    weapons.archwings = scrapeArchwingWeapons(tables[3]);
   }
   if (yn(preScraperConfig.allowRobotic)) {
-    scrapeRoboticWeapons(tables[4]);
+    weapons.robotics = scrapeRoboticWeapons(tables[4]);
   }
 
   console.log("Pre-Scraping finished");
+  console.log(weapons);
+  return weapons;
 }

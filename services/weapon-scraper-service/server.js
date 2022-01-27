@@ -1,5 +1,6 @@
 import { serverConfig } from "./config/config.js"
 import express from "express"
+import cors from "cors"
 import scraper from "./routes/scraper.js"
 import { connectToServer } from "./db/conn.js"
 
@@ -7,6 +8,7 @@ import { connectToServer } from "./db/conn.js"
 const PORT = serverConfig.port || 5001;
 const app = express()
 
+app.use(cors())
 app.use("/scraper", scraper)
 app.use("*", (req, res) => res.status(404).json({ error: "not found" }))
 

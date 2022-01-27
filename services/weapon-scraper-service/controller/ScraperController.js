@@ -1,11 +1,12 @@
-import { preScrapeWeapons } from "./util/pre-scraper";
+import { preScrapeWeapons } from "./util/pre-scraper.js";
 
 export default class ScraperController {
-  static apiScrapeAllWeapons(req, res, next) {
-    preScrapeWeapons();
+  static async apiPreScrapeWeapons(req, res, next) {
+    const preScrapedWeapons = await preScrapeWeapons();
+    res.json(preScrapedWeapons);
   }
 
-  static preScrapeWeapons() {
-    preScrapeWeapons()
+  static apiPotentialChanges(req, res, next) {
+
   }
 }
