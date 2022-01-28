@@ -1,0 +1,24 @@
+
+
+export default class WeaponsDAO {
+  static async getWeapons(collectionName) {
+    let connection = getDb().collection(collectionName)
+    let cursor
+
+    try {
+      cursor = await connection.find({})
+    } catch (e) {
+      console.error(`Uanble to issue find command: ${e}`)
+      return { weapons: [], totalWeaponCount: 0 }
+    }
+
+    try {
+      const weapons = await cursor.toArray()
+      const totalWeaponCount = await connection.countDocuments()
+      return { weapons, totalWeaponCount }
+    } catch (e) {
+      console.error(`Unable to convert cursor to array or problem counting documents: ${e}`)
+      return { weapons: [], totalWeaponCount: 0 }
+    }
+  }
+}

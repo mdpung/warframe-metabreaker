@@ -6,8 +6,7 @@ import { scraperConfig, preScraperConfig } from '../../config/config.js'
 /*
  * This file contains operations before it has detailed data about each weapon
  */
-console.log(scraperConfig.weaponsUrl)
-var $
+let $
 
 function scrapeWeaponType(table, weaponType) {
   var weapons = [];

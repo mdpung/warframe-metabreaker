@@ -38,7 +38,7 @@ export default class WeaponsController {
   }
 
   static async apiGetRoboticWeapons(req, res, next) {
-    await WeaponsController.#getWeapons(MeleeWeaponsDAO, res)
+    await WeaponsController.#getWeapons(RoboticWeaponsDAO, res)
   }
 
   static async apiGetRoboticWeaponByName(req, res, next) {
