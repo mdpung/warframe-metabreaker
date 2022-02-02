@@ -7,7 +7,7 @@ export default class MeleeWeaponsDAO extends WeaponsDAO {
     return await super.getWeapons(dbConfig.meleeWeaponsCollection)
   }
 
-  static async getWeaponsByName(name) {
+  static async getWeaponByName(name) {
     return await super.getWeaponByName(dbConfig.meleeWeaponsCollection, name)
   }
 }

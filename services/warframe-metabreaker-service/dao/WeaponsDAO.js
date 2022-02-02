@@ -7,7 +7,7 @@ export default class WeaponsDAO {
     let cursor
 
     try {
-      cursor = await connection.find({})
+      cursor = await connection.find({}, { projection: { _id: 0 } })
     } catch (e) {
       console.error(`Uanble to issue find command: ${e}`)
       return { weapons: [], totalWeaponCount: 0 }
@@ -30,7 +30,7 @@ export default class WeaponsDAO {
       let query = {
         name: name
       }
-      return await connection.findOne(query)
+      return await connection.findOne(query, { projection: { _id: 0 } })
     } catch (e) {
       console.error(`Something went wrong in getWeaponByName: ${e}`)
       throw e

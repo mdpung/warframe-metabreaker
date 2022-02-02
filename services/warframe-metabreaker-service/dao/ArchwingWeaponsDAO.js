@@ -7,7 +7,7 @@ export default class SecondaryWeaponsDAO extends WeaponsDAO {
     return await super.getWeapons(dbConfig.archwingWeaponsCollection)
   }
 
-  static async getWeaponsByName(name) {
+  static async getWeaponByName(name) {
     return await super.getWeaponByName(dbConfig.archwingWeaponsCollection, name)
   }
 }

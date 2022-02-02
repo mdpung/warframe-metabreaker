@@ -17,6 +17,7 @@ app/build
 .DS_Store
 .env
 !app/.env
+services/weapon-scraper-service/misc
 
 *npm-debug.log*
 *yarn-debug.log*

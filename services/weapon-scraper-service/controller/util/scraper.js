@@ -1,114 +1,64 @@
 import axios from "axios";
-import fs from "fs";
 import cheerio from "cheerio";
 import yn from "yn";
+import { scraperConfig } from "../../config/config.js"
 
-function scrapeStats(data, weaponName, weaponTypeJsonStatsBasePath) {
-  let dict = {};
+function scrapeStats(data, weaponName) {
+  let stats = {};
 
   const $ = cheerio.load(data);
-  let sections = $("aside > section");
+  // 'slice(1)' to skip the "tradeable/untradeable" section 
+  let sections = $("aside > section").slice(1);
   sections.each((idx, section) => {
+    // Section name
     let subDictkey = $(section).find("h2").text();
-    let subDict = dict[subDictkey] = {};
+    let subDict = stats[subDictkey] = {};
+    // Fields in Section
     let fields = $(section).children("div");
+    // Fetch each Field and corresponding Value
     fields.each((idx, field) => {
       subDict[$(field).attr("data-source")] = $(field).children("div").text();
     })
   });
 
-  console.log("Finished scraping weapon: " + weaponName);
-  fs.writeFileSync(weaponTypeJsonStatsBasePath + weaponName + "-stats.json", JSON.stringify(dict, null, 2), (err) => {
-    if (err) {
-      console.error(err);
-      return;
-    }
-  });
+  console.log("\t\tFinished scraping weapon: " + weaponName);
+  return stats;
 }
 
-function scrapeWeaponStats(preWeaponsJson, weaponTypeHtmlBasePath, weaponTypeJsonStatsBasePath) {
-  if (yn(process.env.REACT_APP_LOCAL)) {
-    preWeaponsJson.forEach(element => {
-      scrapeStats(fs.readFileSync(weaponTypeHtmlBasePath + element.name + ".html"), element.name, weaponTypeJsonStatsBasePath);
-    });
-  } else {
-    preWeaponsJson.forEach(element => {
-      let data = axios.get(element.link).data;
-      scrapeStats(data, element.name, weaponTypeHtmlBasePath, weaponTypeJsonStatsBasePath);
-    });
+async function scrapeWeaponStats(preScrapedWeapons) {
+  for (const weapon of preScrapedWeapons) {
+    console.log(`\t\tWeapon: ${JSON.stringify(weapon)}`)
+    const { data } = await axios.get(weapon.link);
+    weapon.stats = scrapeStats(data, weapon.name);
   }
-}
-
-function scrapePrimaryStats() {
-  scrapeWeaponStats(
-    JSON.parse(fs.readFileSync(process.env.REACT_APP_PRIMARY_JSON_PRE_STORAGE_PATH)),
-    process.env.REACT_APP_PRIMARY_HTML_STORAGE_BASE_PATH,
-    process.env.REACT_APP_PRIMARY_JSON_STATS_STORAGE_BASE_PATH
-  );
-}
-
-function scrapeSecondaryStats() {
-  scrapeWeaponStats(
-    JSON.parse(fs.readFileSync(process.env.REACT_APP_SECONDARY_JSON_PRE_STORAGE_PATH)),
-    process.env.REACT_APP_SECONDARY_HTML_STORAGE_BASE_PATH,
-    process.env.REACT_APP_SECONDARY_JSON_STATS_STORAGE_BASE_PATH
-  );
-}
-
-function scrapeMeleeStats() {
-  scrapeWeaponStats(
-    JSON.parse(fs.readFileSync(process.env.REACT_APP_MELEE_JSON_PRE_STORAGE_PATH)),
-    process.env.REACT_APP_MELEE_HTML_STORAGE_BASE_PATH,
-    process.env.REACT_APP_MELEE_JSON_STATS_STORAGE_BASE_PATH
-  );
-}
-
-function scrapeArchwingStats() {
-  scrapeWeaponStats(
-    JSON.parse(fs.readFileSync(process.env.REACT_APP_ARCHWING_JSON_PRE_STORAGE_PATH)),
-    process.env.REACT_APP_ARCHWING_HTML_STORAGE_BASE_PATH,
-    process.env.REACT_APP_ARCHWING_JSON_STATS_STORAGE_BASE_PATH
-  );
-}
-
-function scrapeRoboticStats() {
-  scrapeWeaponStats(
-    JSON.parse(fs.readFileSync(process.env.REACT_APP_ROBOTIC_JSON_PRE_STORAGE_PATH)),
-    process.env.REACT_APP_ROBOTIC_HTML_STORAGE_BASE_PATH,
-    process.env.REACT_APP_ROBOTIC_JSON_STATS_STORAGE_BASE_PATH
-  );
 }
 
 /**
  * Scrape the necessary weapon types based on which type is enabled in the config.
+ * Developer note: modifies object passed in parameters.
  */
-export function scrapeAllWeaponStats() {
-  if (yn(process.env.REACT_APP_LOCAL)) {
-    console.log("Scraping from local weapons html...");
+export async function scrapeWeapons(preScrapedWeapons) {
+  console.log("Scraping started");
 
-  } else {
-    console.log("Scraping started");
+  if (yn(scraperConfig.allowPrimary)) {
+    console.log("\tScraping primaries...");
+    await scrapeWeaponStats(preScrapedWeapons.primaries)
   }
-
-  if (yn(process.env.REACT_APP_SCRAPER_ALLOW_PRIMARY)) {
-    console.log("Scraping primaries...");
-    scrapePrimaryStats();
+  if (yn(scraperConfig.allowSecondary)) {
+    console.log("\tScraping secondaries...");
+    await scrapeWeaponStats(preScrapedWeapons.secondaries)
   }
-  if (yn(process.env.REACT_APP_SCRAPER_ALLOW_SECONDARY)) {
-    console.log("Scraping secondaries...");
-    scrapeSecondaryStats();
+  if (yn(scraperConfig.allowMelee)) {
+    console.log("\tScraping melees...");
+    await scrapeWeaponStats(preScrapedWeapons.melees)
   }
-  if (yn(process.env.REACT_APP_SCRAPER_ALLOW_MELEE)) {
-    console.log("Scraping melees...");
-    scrapeMeleeStats();
+  if (yn(scraperConfig.allowArchwing)) {
+    console.log("\tScraping archwings...");
+    await scrapeWeaponStats(preScrapedWeapons.archwings)
   }
-  if (yn(process.env.REACT_APP_SCRAPER_ALLOW_ARCHWING)) {
-    console.log("Scraping archwings...");
-    scrapeArchwingStats();
-  }
-  if (yn(process.env.REACT_APP_SCRAPER_ALLOW_ROBOTIC)) {
-    console.log("Scraping robotics...");
-    scrapeRoboticStats();
+  if (yn(scraperConfig.allowRobotic)) {
+    console.log("\tScraping robotics...");
+    await scrapeWeaponStats(preScrapedWeapons.robotics)
   }
 
   console.log("Scraping finished");

@@ -4,6 +4,8 @@ import MeleeWeaponsDAO from "../dao/MeleeWeaponsDAO.js"
 import ArchwingWeaponsDAO from "../dao/ArchwingWeaponsDAO.js"
 import RoboticWeaponsDAO from "../dao/RoboticWeaponsDAO.js"
 import { preScrapeWeapons } from "./util/pre-scraper.js";
+import { scrapeWeapons } from "./util/scraper.js"
+import { compareData } from "./util/comparer.js"
 
 export default class ScraperController {
   static async apiPreScrapeWeapons() {
@@ -13,42 +15,51 @@ export default class ScraperController {
 
   static async apiPotentialChanges(req, res, next) {
     const currentData = await ScraperController.#getCurrentData()
-    const newData = await preScrapeWeapons()
-    return { dataToUpdate, dataToCreate } = compareData(currentData, newData)
+    res.json(currentData)
+
+    if (currentData) {
+      // const newData = await preScrapeWeapons()
+      // console.log(`preScrape: ${JSON.stringify(newData)}`)
+      // Modifies newData object by adding 'stats' property to each weapon
+      // await scrapeWeapons(newData)
+      const newData = {}
+      return compareData(currentData, newData)
+    }
+    return { undefined, undefined }
   }
 
   static async #getCurrentData() {
     let weapons = {};
-    weapons.primaries = ScraperController.#getPrimaryWeapons();
-    weapons.secondaries = ScraperController.#getSecondaryWeapons();
-    weapons.melees = ScraperController.#getMeleeWeapons();
-    weapons.archwings = ScraperController.#getArchwingWeapons();
-    weapons.robotics = ScraperController.#getRoboticWeapons();
+    weapons.primaries = await ScraperController.#getPrimaryWeapons();
+    weapons.secondaries = await ScraperController.#getSecondaryWeapons();
+    weapons.melees = await ScraperController.#getMeleeWeapons();
+    weapons.archwings = await ScraperController.#getArchwingWeapons();
+    weapons.robotics = await ScraperController.#getRoboticWeapons();
     return weapons;
   }
 
   static async #getPrimaryWeapons() {
-    await ScraperController.#getWeapons(PrimaryWeaponsDAO)
+    return await ScraperController.#getWeapons(PrimaryWeaponsDAO)
   }
 
   static async #getSecondaryWeapons() {
-    await ScraperController.#getWeapons(SecondaryWeaponsDAO)
+    return await ScraperController.#getWeapons(SecondaryWeaponsDAO)
   }
 
   static async #getMeleeWeapons() {
-    await ScraperController.#getWeapons(MeleeWeaponsDAO)
+    return await ScraperController.#getWeapons(MeleeWeaponsDAO)
   }
 
   static async #getArchwingWeapons() {
-    await ScraperController.#getWeapons(ArchwingWeaponsDAO)
+    return await ScraperController.#getWeapons(ArchwingWeaponsDAO)
   }
 
   static async #getRoboticWeapons() {
-    await ScraperController.#getWeapons(RoboticWeaponsDAO)
+    return await ScraperController.#getWeapons(RoboticWeaponsDAO)
   }
 
   static async #getWeapons(weaponsDAO) {
-    return weaponsDAO.getWeapons()
+    return await weaponsDAO.getWeapons()
   }
 
 }
