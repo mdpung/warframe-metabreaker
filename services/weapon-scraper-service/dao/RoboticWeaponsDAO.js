@@ -6,4 +6,8 @@ export default class RoboticWeaponsDAO extends WeaponsDAO {
   static async getWeapons() {
     return await super.getWeapons(dbConfig.roboticWeaponsCollection)
   }
+
+  static async createWeapons(weapons) {
+    return await super.createWeapons(dbConfig.roboticWeaponsCollection, weapons);
+  }
 }

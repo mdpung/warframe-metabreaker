@@ -3,8 +3,13 @@ import { dbConfig } from "../config/config.js"
 
 const connectionString = dbConfig.uri;
 const client = new MongoClient(connectionString, {
-  useNewUrlParser: true
+  useNewUrlParser: true,
+  monitorCommands: true // Enables logging
 });
+
+client.on('commandStarted', (event) => console.debug(event)); // Log when db command starts
+client.on('commandSucceeded', (event) => console.debug(event)); // Log when db command succeeds
+client.on('commandFailed', (event) => console.debug(event)); // Log when db command fails
 
 let dbConnection;
 
